@@ -1,0 +1,14 @@
+::1 - - [25/Feb/2026 14:38:13] "GET /immigration_attitudes_dashboard.html HTTP/1.1" 200 -
+::1 - - [25/Feb/2026 14:38:57] "GET /immigration_attitudes_dashboard.html HTTP/1.1" 200 -
+::1 - - [25/Feb/2026 14:38:59] code 404, message File not found
+::1 - - [25/Feb/2026 14:38:59] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Feb/2026 16:13:35] "GET /immigration_attitudes_dashboard.html HTTP/1.1" 200 -
+::1 - - [25/Feb/2026 16:16:31] "GET /immigration_attitudes_dashboard.html HTTP/1.1" 200 -
+::1 - - [25/Feb/2026 16:16:31] code 404, message File not found
+::1 - - [25/Feb/2026 16:16:31] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Feb/2026 16:16:32] "GET /immigration_attitudes_dashboard.html HTTP/1.1" 200 -
+::1 - - [25/Feb/2026 16:16:32] code 404, message File not found
+::1 - - [25/Feb/2026 16:16:32] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [25/Feb/2026 16:18:49] "GET /immigration_attitudes_dashboard.html HTTP/1.1" 200 -
+::1 - - [25/Feb/2026 16:18:50] code 404, message File not found
+::1 - - [25/Feb/2026 16:18:50] "GET /favicon.ico HTTP/1.1" 404 -

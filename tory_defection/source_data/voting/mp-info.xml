@@ -1,0 +1,144 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<meta charset="UTF-8">
+
+<link href="/style201807.css" type="text/css" rel="stylesheet" media="all">
+<!--[if IE 7]>
+<link href="/ie7.css" type="text/css" rel="stylesheet" media="all">
+
+<![endif]-->
+
+<link href="/publicwhip_print.css" type="text/css" rel="stylesheet" media="print">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.publicwhip.org.uk/feeds/interestingdivisions.xml" />
+<title>404 Page Not Found: 404 Not Found</title>
+<script type="text/javascript">
+function secondnav_goto() {
+    if (!document) return
+    if (!document.getElementById) return
+    var el = document.getElementById('r')
+    window.location=el.options[el.selectedIndex].value
+}
+function secondnav_goto2() {
+    if (!document) return
+    if (!document.getElementById) return
+    var el = document.getElementById('r2')
+    window.location=el.options[el.selectedIndex].value
+}
+function secondnav_goto3() {
+    if (!document) return
+    if (!document.getElementById) return
+    var el = document.getElementById('r3')
+    window.location=el.options[el.selectedIndex].value
+}
+function ClickSup(nsup) {
+    var el = document.getElementById('footnote-' + nsup);
+    el.style.backgroundColor = (el.style.backgroundColor ? "" : "#ffff77");
+    var sups = document.getElementsByTagName("sup");
+    for (var i = 0; i < sups.length; i++)
+        if (sups[i].className == "sup-" + nsup)
+            sups[i].style.backgroundColor = el.style.backgroundColor;
+}
+</script>
+</head>
+
+<body>
+<div id="whitebox">
+<script type="text/javascript" src="/walterzorn/wz_tooltip.js"></script>
+
+<div id="header" class="widewidth">
+<div class="logo"><a href="/"><img src="/images/logo.jpg" alt="the Public Whip" /></a></div>
+<div class="search"><form class="searchtitlebarform" action="/search.php" name=pw>
+Search: <input maxLength=256 size=12 id="query_head" name="query" onblur="fadeout(this)" onfocus="fadein(this)" value="" /> <input type="submit" value="Go" name="button" />
+</form></div>
+
+
+<!-- the main site navigation -->
+<div id="nav_main">
+<a title="Front page and site highlights" href="/index.php">Home</a>
+<a title="List of all votes in Parliament" href="/divisions.php">Divisions</a>
+<a title="List of all Members of House of Commons" href="/mps.php">MPs</a>
+<a title="List of all Members of House of Lords" href="/mps.php?house=lords">Lords</a>
+<a title="List of all Members of the Scottish Parliament" href="/mps.php?house=scotland">MSPs</a>
+<a title="Help to analyze MP's votes" href="/policies.php">Policies</a>
+<a title="Twitter" href="https://twitter.com/publicwhip">Twitter</a>
+<!-- <a title="Help run the Public Whip project" href="/project/index.php">Join Us</a> -->
+<a title="Frequently asked questions" href="/faq.php">Help / FAQ</a>
+</div>
+
+</div><!-- end header-->
+<div id="main" class="widewidth"><!-- main content -->
+<h1> 404 Page Not Found: 404 Not Found </h1>
+    <p>Sorry, the page you are looking for has not been found.</p>
+
+    <p><label for="query">Please feel free to either search for an MP, Lord/Lady, or a postcode:</label></p>
+
+    <form action="/search.php" name="pw" method="get">
+        <input maxLength="256" size="150" name="query" id="query" placeholder="Search"> <button type="submit" value="Submit" name="button">Submit</button>
+    </form>
+
+    <p>If you think you reached this page in error, please contact us at <a href="mailto:team@publicwhip.org.uk">team@publicwhip.org.uk</a> with
+        the following information:<br>
+        If you don't mind us knowing your IP address, and web browser (which may help us diagnose issues and the information will only be used for this purpose),
+        please send us the following information:<br>
+    <pre>
+	full:eyJlcnJvclR5cGUiOiI0MDQiLCJkYXRlU3RhbXAiOiIyMDI2LTAxLTE1VDE2OjE0OjUzKzAwOjAwIiwi<br>cmVkaXJlY3RTdGF0dXMiOiI0MDQiLCJ1cmwiOiJcL3Byb2plY3RcL21wLWluZm8ueG1sIiwicXVlcnki<br>OiIiLCJob3N0Ijoid3d3LnB1YmxpY3doaXAub3JnLnVrIiwic2VydmVyIjoid3d3LnB1YmxpY3doaXAu<br>b3JnLnVrIiwic2VydmVyUG9ydCI6IjQ0MyIsIm1ldGhvZCI6IkdFVCIsInVzZXJJcCI6IjE5NS4xMTAu<br>NzYuMjEwIiwidXNlckFnZW50IjoiY3VybFwvOC4xNy4wIiwidXNlclJlZmVyZXIiOiJub25lIiwidXNl<br>ckNsaWVudElwIjoibm9uZSJ9<br>:end
+</pre><br>
+    If, however, you would prefer to keep your IP address, web browser details, please send the following information:<br>
+    <pre>
+	brief:eyJlcnJvclR5cGUiOiI0MDQiLCJkYXRlU3RhbXAiOiIyMDI2LTAxLTE1VDE2OjE0OjUzKzAwOjAwIiwi<br>cmVkaXJlY3RTdGF0dXMiOiI0MDQiLCJ1cmwiOiJcL3Byb2plY3RcL21wLWluZm8ueG1sIiwicXVlcnki<br>OiIiLCJob3N0Ijoid3d3LnB1YmxpY3doaXAub3JnLnVrIiwic2VydmVyIjoid3d3LnB1YmxpY3doaXAu<br>b3JnLnVrIiwic2VydmVyUG9ydCI6IjQ0MyIsIm1ldGhvZCI6IkdFVCJ9<br>:end
+</pre><br>
+    </p>
+    <h2>What is in this diagnostic information?</h2>
+    <p>It is a base64 encoded JSON array containing the error type you encountered,
+        the date it occurred, the URL (including hostname and query string and the 'type' [GET or POST]) of the request,
+        the name of the server that handled your request and the referral URL (which page you visited before hitting this error).</p>
+    <p>If you choose to send us the full information, it also contains your IP address (and those of any proxy servers) and the user agent of your
+        web browser which will only be used to assist us in diagnosing issues.</p>
+    
+</div><!-- end main content -->
+</div><!-- end whitebox-->
+<div id="bluebox">
+    <div class="widewidth">
+        <div class="col1-2"><h3>About the Project</h3>
+
+            <p>The Public Whip is a not-for-profit, open source website created in 2003 by Francis Irving and Julian Todd and now run by <a href="https://www.bairwell.com">Bairwell Ltd</a>.</p>
+         </div>
+        <div class="col3"><h3>The Whip on the Web</h3>
+            <ul class="social">
+                <li><a href="https://fosstodon.org/publicwhip" rel="me">Mastodon</a></li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+                <div class="footbox">
+                <h3>Help keep PublicWhip alive</h3>
+
+                <div id="footer_div">
+ Help support Public Whip and keep us counting those votes by using these links:<br>
+                    <a href="https://share.octopus.energy/snow-lake-228" style="color:black;">Octopus Energy</a> (UK) - signup using this link and you'll get &pound;50 and so will we! (affiliate)<br>
+                    <a href="https://monzo.com/pay/r/bairwell-ltd_7TtAGhhx1AMkXY" style="color:black;">Donate &pound;5 via UK bank account or Visa, Mastercard, Amex or Discover</a><br>
+                    Make a reoccuring or one-off donation via <a href="https://github.com/sponsors/bairwell" style="color:black">Github</a> (charged in USD, min $5) or <a href="https://ko-fi.com/bairwell" style="color:black">Ko-Fi</a> (charged in GBP, min &pound;1)<br>
+                </div>
+            </div>
+            </div><!--end bluebox-->
+<div id="footer">
+    <div class="widewidth">
+        <!-- the footer section -->
+        <!-- old footer links <a title="Frequently asked questions" href="/faq.php#whatis">About us</a>
+<a title="Send comments, problems or suggestions" href="/email.php">Contact us</a>
+<a title="Fodder for your spreadsheet" href="/project/data.php">Data feeds</a>
+<a title="Public Whip is open source software" href="/project/code.php">Source code</a>
+<a title="Divisions in your news reader" href="/faq.php#rss">RSS</a>
+<a title="Details on the free license for this data" href="/faq.php#legal">Legal information</a>-->
+        <div class="legal">&copy; 2022 Bairwell Ltd. The Public Whip is a not-for-profit, open source, project. Get the
+            <a href="https://github.com/publicwhip/publicwhip">source code on Github</a>.<br>
+            Questions/problems? Please email <a href="mailto:team@publicwhip.org.uk">team@publicwhip.org.uk</a><br>
+            Maintained and supported by <a href="https://www.bairwell.com">Bairwell Ltd PHP/Node.JS development</a>.<br>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div><!-- end footer-->
+</body>
+</html>
