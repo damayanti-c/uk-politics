@@ -110,7 +110,8 @@ def prepare_data():
     X = df[feature_cols].copy()
     y = df[TARGET_COL].copy()
 
-    print("\nMissing values before imputation:")
+    print("
+Missing values before imputation:")
     for col in X.columns:
         missing = X[col].isna().sum()
         if missing > 0:
@@ -118,7 +119,8 @@ def prepare_data():
 
     X = X.fillna(X.median())
 
-    print(f"\nFeatures shape: {X.shape}")
+    print(f"
+Features shape: {X.shape}")
     print(f"Features used: {list(X.columns)}")
 
     return df, X, y
@@ -514,7 +516,8 @@ def main():
 
         return -np.mean(cv_scores)
 
-    print("\n  Optimizing weights with multi-start L-BFGS-B...")
+    print("
+  Optimizing weights with multi-start L-BFGS-B...")
 
     rng = np.random.default_rng(42)
 
@@ -550,7 +553,8 @@ def main():
     optimized_weights = best['weights']
     optimized_cv_auc = best['cv_auc']
 
-    print(f"\n  Optimization method: {best['method']} (multi-start)")
+    print(f"
+  Optimization method: {best['method']} (multi-start)")
     print(f"  Optimized weights: {np.round(optimized_weights, 4)}")
     print(f"  Optimized CV AUC: {optimized_cv_auc:.3f}")
 

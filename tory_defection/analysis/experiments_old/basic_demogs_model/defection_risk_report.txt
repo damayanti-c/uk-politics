@@ -1,0 +1,169 @@
+======================================================================
+TORY MP DEFECTION RISK REPORT
+Generated: 2026-01-15 15:40
+======================================================================
+
+METHODOLOGY
+----------------------------------------
+Risk factors considered:
+  - Reform UK vote share in constituency (30% weight)
+  - Majority size vulnerability (25% weight)
+  - Conservative vote weakness (20% weight)
+  - Gender (male MPs historically more likely) (15% weight)
+  - Parliamentary tenure (10% weight)
+
+Data sources:
+  - House of Commons Library 2024 election results
+  - Parliament Members API (current MPs)
+  - ParlParse (career history)
+  - Best for Britain defection tracker (ground truth)
+
+======================================================================
+
+SUMMARY STATISTICS
+----------------------------------------
+Total Conservative MPs analyzed: 118
+
+Risk distribution:
+  Very High: 0 MPs (0.0%)
+  High: 26 MPs (22.0%)
+  Medium: 81 MPs (68.6%)
+  Low: 11 MPs (9.3%)
+
+======================================================================
+
+TOP 20 MPs AT HIGHEST DEFECTION RISK
+----------------------------------------
+
+ 1. Mr Richard Holden
+    Constituency: Basildon and Billericay
+    Risk Score: 0.639 (High)
+    Reform UK vote: 26.9% | Majority: 0.1%
+
+ 2. Alan Mak
+    Constituency: Havant
+    Risk Score: 0.618 (High)
+    Reform UK vote: 23.6% | Majority: 0.2%
+
+ 3. Julia Lopez
+    Constituency: Hornchurch and Upminster
+    Risk Score: 0.601 (High)
+    Reform UK vote: 28.4% | Majority: 4.1%
+
+ 4. Andrew Rosindell
+    Constituency: Romford
+    Risk Score: 0.598 (High)
+    Reform UK vote: 21.9% | Majority: 3.3%
+
+ 5. Sir Bernard Jenkin
+    Constituency: Harwich and North Essex
+    Risk Score: 0.597 (High)
+    Reform UK vote: 20.4% | Majority: 2.4%
+
+ 6. Mark Pritchard
+    Constituency: The Wrekin
+    Risk Score: 0.592 (High)
+    Reform UK vote: 19.8% | Majority: 1.8%
+
+ 7. Mark Garnier
+    Constituency: Wyre Forest
+    Risk Score: 0.590 (High)
+    Reform UK vote: 21.4% | Majority: 1.8%
+
+ 8. Graham Stuart
+    Constituency: Beverley and Holderness
+    Risk Score: 0.585 (High)
+    Reform UK vote: 18.3% | Majority: 0.3%
+
+ 9. Dame Karen Bradley
+    Constituency: Staffordshire Moorlands
+    Risk Score: 0.581 (High)
+    Reform UK vote: 23.2% | Majority: 2.7%
+
+10. Sir Roger Gale
+    Constituency: Herne Bay and Sandwich
+    Risk Score: 0.572 (High)
+    Reform UK vote: 21.7% | Majority: 5.1%
+
+11. Rebecca Harris
+    Constituency: Castle Point
+    Risk Score: 0.568 (High)
+    Reform UK vote: 30.1% | Majority: 8.0%
+
+12. Helen Grant
+    Constituency: Maidstone and Malling
+    Risk Score: 0.562 (High)
+    Reform UK vote: 20.1% | Majority: 3.6%
+
+13. Helen Whately
+    Constituency: Faversham and Mid Kent
+    Risk Score: 0.553 (High)
+    Reform UK vote: 21.2% | Majority: 3.1%
+
+14. Sir Mel Stride
+    Constituency: Central Devon
+    Risk Score: 0.546 (High)
+    Reform UK vote: 14.6% | Majority: 0.1%
+
+15. Jesse Norman
+    Constituency: Hereford and South Herefordshire
+    Risk Score: 0.545 (High)
+    Reform UK vote: 18.4% | Majority: 2.8%
+
+16. Sir Edward Leigh
+    Constituency: Gainsborough
+    Risk Score: 0.535 (High)
+    Reform UK vote: 21.2% | Majority: 7.6%
+
+17. Sir Ashley Fox
+    Constituency: Bridgwater
+    Risk Score: 0.530 (High)
+    Reform UK vote: 22.2% | Majority: 3.4%
+
+18. Martin Vickers
+    Constituency: Brigg and Immingham
+    Risk Score: 0.526 (High)
+    Reform UK vote: 24.9% | Majority: 7.6%
+
+19. Stuart Andrew
+    Constituency: Daventry
+    Risk Score: 0.520 (High)
+    Reform UK vote: 20.0% | Majority: 5.7%
+
+20. Jerome Mayhew
+    Constituency: Broadland and Fakenham
+    Risk Score: 0.519 (High)
+    Reform UK vote: 17.9% | Majority: 1.4%
+
+======================================================================
+
+KEY INSIGHTS
+----------------------------------------
+
+Constituencies with highest Reform UK vote (held by Tories):
+  - Castle Point: 30.1% Reform (Rebecca Harris)
+  - Hornchurch and Upminster: 28.4% Reform (Julia Lopez)
+  - Basildon and Billericay: 26.9% Reform (Mr Richard Holden)
+  - Louth and Horncastle: 25.7% Reform (Victoria Atkins)
+  - Rayleigh and Wickford: 25.3% Reform (Mr Mark Francois)
+
+Most vulnerable Tory majorities:
+  - Basildon and Billericay: 0.1% majority (Mr Richard Holden)
+  - Central Devon: 0.1% majority (Sir Mel Stride)
+  - Havant: 0.2% majority (Alan Mak)
+  - Exmouth and Exeter East: 0.2% majority (David Reed)
+  - Beverley and Holderness: 0.3% majority (Graham Stuart)
+
+======================================================================
+
+NOTES AND LIMITATIONS
+----------------------------------------
+1. This analysis uses constituency-level data as proxy for MP views
+2. Speech/voting data not included (would require TheyWorkForYou API)
+3. Private negotiations between MPs and Reform UK not observable
+4. Model trained on small sample of actual defectors
+5. Political events can rapidly change defection calculus
+
+======================================================================
+END OF REPORT
+======================================================================

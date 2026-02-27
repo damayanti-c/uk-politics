@@ -1,0 +1,219 @@
+================================================================================
+ENHANCED SPEECH ANALYSIS REPORT - TF-IDF METHOD
+Generated: 2026-01-19 00:41
+================================================================================
+
+METHODOLOGY
+--------------------------------------------------------------------------------
+Uses TF-IDF vectorization with cosine similarity to measure:
+1. Immigration rhetoric alignment (similarity to Reform UK immigration talking points)
+2. Radicalization trajectory (becoming more extreme over time)
+3. Hardline vs compassionate language ratios
+4. Extremism percentile ranking among Conservative MPs
+
+Method: TF-IDF (1-3 word phrases) + Cosine Similarity
+
+================================================================================
+
+TOP 25 MPS BY REFORM UK IMMIGRATION ALIGNMENT
+--------------------------------------------------------------------------------
+
+
+ 1. Geoffrey Clifton-Brown
+    Reform Immigration Alignment: 0.3237
+    Enhanced Speech Score: 0.386
+    Extremism Percentile: 99.7% (rank #1/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0026 per quarter
+
+ 2. Bob Blackman
+    Reform Immigration Alignment: 0.3122
+    Enhanced Speech Score: 0.367
+    Extremism Percentile: 99.5% (rank #2/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0014 per quarter
+
+ 3. Paul Bristow
+    Reform Immigration Alignment: 0.3062
+    Enhanced Speech Score: 0.410
+    Extremism Percentile: 99.2% (rank #3/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: +0.0086 per quarter
+
+ 4. Nickie Aiken
+    Reform Immigration Alignment: 0.3057
+    Enhanced Speech Score: 0.347
+    Extremism Percentile: 99.0% (rank #4/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0052 per quarter
+
+ 5. Miriam Cates
+    Reform Immigration Alignment: 0.2934
+    Enhanced Speech Score: 0.394
+    Extremism Percentile: 98.7% (rank #5/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0079 per quarter
+
+ 6. Caroline Dinenage
+    Reform Immigration Alignment: 0.2934
+    Enhanced Speech Score: 0.350
+    Extremism Percentile: 98.4% (rank #6/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0010 per quarter
+
+ 7. Luke Hall
+    Reform Immigration Alignment: 0.2889
+    Enhanced Speech Score: 0.329
+    Extremism Percentile: 98.2% (rank #7/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0000 per quarter
+
+ 8. Alex Burghart
+    Reform Immigration Alignment: 0.2881
+    Enhanced Speech Score: 0.382
+    Extremism Percentile: 97.9% (rank #8/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0021 per quarter
+
+ 9. David Davis
+    Reform Immigration Alignment: 0.2880
+    Enhanced Speech Score: 0.369
+    Extremism Percentile: 97.7% (rank #9/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: -0.0028 per quarter
+
+10. Sara Britcliffe
+    Reform Immigration Alignment: 0.2865
+    Enhanced Speech Score: 0.355
+    Extremism Percentile: 97.4% (rank #10/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: -0.0047 per quarter
+
+11. Karl McCartney
+    Reform Immigration Alignment: 0.2842
+    Enhanced Speech Score: 0.347
+    Extremism Percentile: 97.1% (rank #11/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: -0.0007 per quarter
+
+12. Iain Duncan Smith
+    Reform Immigration Alignment: 0.2834
+    Enhanced Speech Score: 0.370
+    Extremism Percentile: 96.9% (rank #12/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: -0.0027 per quarter
+
+13. Nigel Evans
+    Reform Immigration Alignment: 0.2825
+    Enhanced Speech Score: 0.366
+    Extremism Percentile: 96.6% (rank #13/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: +0.0012 per quarter
+
+14. Mark Eastwood
+    Reform Immigration Alignment: 0.2785
+    Enhanced Speech Score: 0.369
+    Extremism Percentile: 96.3% (rank #14/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: -0.0008 per quarter
+
+15. Peter Bedford
+    Reform Immigration Alignment: 0.2745
+    Enhanced Speech Score: 0.437
+    Extremism Percentile: 96.1% (rank #15/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: +0.0238 per quarter
+
+16. Jack Rankin
+    Reform Immigration Alignment: 0.2743
+    Enhanced Speech Score: 0.392
+    Extremism Percentile: 95.8% (rank #16/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: -0.0387 per quarter
+
+17. Lee Anderson
+    Reform Immigration Alignment: 0.2721
+    Enhanced Speech Score: 0.382
+    Extremism Percentile: 95.6% (rank #17/383)
+    Immigration Focus: 0.2%
+    Radicalization Slope: +0.0023 per quarter
+
+18. Gareth Bacon
+    Reform Immigration Alignment: 0.2713
+    Enhanced Speech Score: 0.375
+    Extremism Percentile: 95.3% (rank #18/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: -0.0052 per quarter
+
+19. Rishi Sunak
+    Reform Immigration Alignment: 0.2698
+    Enhanced Speech Score: 0.350
+    Extremism Percentile: 95.0% (rank #19/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0025 per quarter
+
+20. Tom Hunt
+    Reform Immigration Alignment: 0.2698
+    Enhanced Speech Score: 0.370
+    Extremism Percentile: 94.8% (rank #20/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: -0.0022 per quarter
+
+21. Ashley Fox
+    Reform Immigration Alignment: 0.2682
+    Enhanced Speech Score: 0.544
+    Extremism Percentile: 94.5% (rank #21/383)
+    Immigration Focus: 0.2%
+    Radicalization Slope: +0.0592 per quarter
+
+22. Sally-Ann Hart
+    Reform Immigration Alignment: 0.2677
+    Enhanced Speech Score: 0.361
+    Extremism Percentile: 94.3% (rank #22/383)
+    Immigration Focus: 0.3%
+    Radicalization Slope: -0.0082 per quarter
+
+23. Gary Streeter
+    Reform Immigration Alignment: 0.2621
+    Enhanced Speech Score: 0.346
+    Extremism Percentile: 94.0% (rank #23/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: -0.0016 per quarter
+
+24. Robert Largan
+    Reform Immigration Alignment: 0.2615
+    Enhanced Speech Score: 0.351
+    Extremism Percentile: 93.7% (rank #24/383)
+    Immigration Focus: 0.0%
+    Radicalization Slope: +0.0006 per quarter
+
+25. Matt Vickers
+    Reform Immigration Alignment: 0.2606
+    Enhanced Speech Score: 0.351
+    Extremism Percentile: 93.5% (rank #25/383)
+    Immigration Focus: 0.1%
+    Radicalization Slope: +0.0027 per quarter
+
+================================================================================
+
+KEY FINDINGS
+--------------------------------------------------------------------------------
+
+Total MPs analyzed: 383
+
+Reform Immigration Alignment:
+  Mean: 0.1452
+  Median: 0.1551
+  Max: 0.3237
+
+MPs becoming MORE extreme over time: 17
+  Top 5 radicalizing:
+    - Ashley Fox: +0.0592 per quarter
+    - Charlie Dewhirst: +0.0306 per quarter
+    - Lewis Cocking: +0.0296 per quarter
+    - Joe Robertson: +0.0274 per quarter
+    - Peter Bedford: +0.0238 per quarter
+
+================================================================================
+END OF REPORT
+================================================================================

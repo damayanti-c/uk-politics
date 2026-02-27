@@ -63,7 +63,7 @@ def parse_highest_ministerial_rank(positions):
         return 0
     roles = [r.strip().upper() for r in str(positions).split(';')]
     max_rank = 0
-    for role in roles:
+        for role in roles:
         # check for actual Prime Minister (starts with "Prime Minister")
         if role.startswith('PRIME MINISTER'):
             return 5
@@ -221,6 +221,7 @@ print(f"    Party leaders: {test_data['is_party_leader'].sum():.0f}")
 # according to our theory of change
 
 # Career stagnation: never made minister or career has slowed down since getting a ministerial role
+training_data['career_stagnation'] = (
 test_data['career_stagnation'] = (
     (test_data['ever_minister'] == 0) |
     (test_data['sidelined_minister_years'] >= 2)

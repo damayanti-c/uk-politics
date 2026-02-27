@@ -1,0 +1,350 @@
+================================================================================
+ENHANCED TORY MP DEFECTION RISK REPORT
+Generated: 2026-01-15 22:01
+================================================================================
+
+METHODOLOGY
+--------------------------------------------------------------------------------
+Risk Score Composition (updated model):
+
+  1. SPEECH ANALYSIS (35% weight)
+     - Reform keyword intensity per speech (50% of category = 17.5% total)
+     - Immigration focus mentions (35% of category = 12.25% total)
+     - Speech volume/activity (15% of category = 5.25% total)
+     Data: 5 years of Hansard speeches (199,701 speeches analyzed)
+
+  2. VOTING REBELLION (30% weight)
+     - Overall rebellion rate vs party (70% of category = 21% total)
+     - Rwanda Bill rebellion/abstention (30% of category = 9% total)
+     Data: Public Whip rebellion rates, Rwanda Bill divisions
+
+  3. CONSTITUENCY RISK (25% weight)
+     - Reform UK vote share 2024 (50% of category = 12.5% total)
+     - Majority size vulnerability (30% of category = 7.5% total)
+     - Conservative vote weakness (20% of category = 5% total)
+     Data: House of Commons Library 2024 election results
+
+  4. DEMOGRAPHICS (10% weight)
+     - Gender (male MPs historically more likely) (50% of category = 5% total)
+     - Parliamentary tenure (30% of category = 3% total)
+     - Age (younger MPs may be more willing) (20% of category = 2% total)
+     Data: Parliament Members API
+
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Conservative MPs analyzed: 118
+
+Risk distribution:
+  Very High: 0 MPs (0.0%)
+  High: 0 MPs (0.0%)
+  Medium: 11 MPs (9.3%)
+  Low: 107 MPs (90.7%)
+
+================================================================================
+
+TOP 25 MPS AT HIGHEST DEFECTION RISK
+--------------------------------------------------------------------------------
+
+ 1. Suella Braverman (Fareham and Waterlooville)
+    Overall Risk Score: 0.482 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.243 (35% weight)
+      - Voting Rebellion: 0.090 (30% weight)
+      - Constituency Risk: 0.111 (25% weight)
+      - Demographics: 0.038 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 1.13
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 18.1%
+
+ 2. Rishi Sunak (Richmond and Northallerton)
+    Overall Risk Score: 0.444 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.134 (35% weight)
+      - Voting Rebellion: 0.210 (30% weight)
+      - Constituency Risk: 0.061 (25% weight)
+      - Demographics: 0.038 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.25
+      - Rebellion rate: 40.0%
+      - Constituency Reform vote: 14.7%
+
+ 3. Chris Philp (Croydon South)
+    Overall Risk Score: 0.339 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.157 (35% weight)
+      - Voting Rebellion: 0.050 (30% weight)
+      - Constituency Risk: 0.092 (25% weight)
+      - Demographics: 0.038 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.69
+      - Rebellion rate: 2.4%
+      - Constituency Reform vote: 8.4%
+
+ 4. Katie Lam (Weald of Kent)
+    Overall Risk Score: 0.315 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.191 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.097 (25% weight)
+      - Demographics: 0.027 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 1.94
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 20.1%
+
+ 5. Priti Patel (Witham)
+    Overall Risk Score: 0.286 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.120 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.122 (25% weight)
+      - Demographics: 0.044 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.67
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 19.5%
+
+ 6. Nick Timothy (West Suffolk)
+    Overall Risk Score: 0.284 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.102 (35% weight)
+      - Voting Rebellion: 0.013 (30% weight)
+      - Constituency Risk: 0.143 (25% weight)
+      - Demographics: 0.027 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.87
+      - Rebellion rate: 0.6%
+      - Constituency Reform vote: 20.9%
+
+ 7. David Davis (Goole and Pocklington)
+    Overall Risk Score: 0.282 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.030 (35% weight)
+      - Voting Rebellion: 0.080 (30% weight)
+      - Constituency Risk: 0.126 (25% weight)
+      - Demographics: 0.047 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.19
+      - Rebellion rate: 3.8%
+      - Constituency Reform vote: 18.2%
+
+ 8. Rebecca Harris (Castle Point)
+    Overall Risk Score: 0.277 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.061 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.172 (25% weight)
+      - Demographics: 0.044 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.67
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 30.1%
+
+ 9. Mark Garnier (Wyre Forest)
+    Overall Risk Score: 0.270 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.012 (35% weight)
+      - Voting Rebellion: 0.046 (30% weight)
+      - Constituency Risk: 0.167 (25% weight)
+      - Demographics: 0.044 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.11
+      - Rebellion rate: 2.2%
+      - Constituency Reform vote: 21.4%
+
+10. Simon Hoare (North Dorset)
+    Overall Risk Score: 0.262 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.021 (35% weight)
+      - Voting Rebellion: 0.069 (30% weight)
+      - Constituency Risk: 0.133 (25% weight)
+      - Demographics: 0.038 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.10
+      - Rebellion rate: 3.3%
+      - Constituency Reform vote: 15.9%
+
+11. Graham Stuart (Beverley and Holderness)
+    Overall Risk Score: 0.258 (Medium)
+    Breakdown:
+      - Speech Analysis: 0.036 (35% weight)
+      - Voting Rebellion: 0.015 (30% weight)
+      - Constituency Risk: 0.157 (25% weight)
+      - Demographics: 0.050 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.17
+      - Rebellion rate: 0.7%
+      - Constituency Reform vote: 18.3%
+
+12. James Cartlidge (South Suffolk)
+    Overall Risk Score: 0.249 (Low)
+    Breakdown:
+      - Speech Analysis: 0.027 (35% weight)
+      - Voting Rebellion: 0.044 (30% weight)
+      - Constituency Risk: 0.139 (25% weight)
+      - Demographics: 0.038 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.10
+      - Rebellion rate: 2.1%
+      - Constituency Reform vote: 19.0%
+
+13. Julia Lopez (Hornchurch and Upminster)
+    Overall Risk Score: 0.246 (Low)
+    Breakdown:
+      - Speech Analysis: 0.023 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.187 (25% weight)
+      - Demographics: 0.036 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.13
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 28.4%
+
+14. Dr Caroline Johnson (Sleaford and North Hykeham)
+    Overall Risk Score: 0.245 (Low)
+    Breakdown:
+      - Speech Analysis: 0.038 (35% weight)
+      - Voting Rebellion: 0.034 (30% weight)
+      - Constituency Risk: 0.137 (25% weight)
+      - Demographics: 0.037 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.24
+      - Rebellion rate: 1.6%
+      - Constituency Reform vote: 21.6%
+
+15. Jerome Mayhew (Broadland and Fakenham)
+    Overall Risk Score: 0.244 (Low)
+    Breakdown:
+      - Speech Analysis: 0.043 (35% weight)
+      - Voting Rebellion: 0.015 (30% weight)
+      - Constituency Risk: 0.153 (25% weight)
+      - Demographics: 0.033 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.24
+      - Rebellion rate: 0.7%
+      - Constituency Reform vote: 17.9%
+
+16. Victoria Atkins (Louth and Horncastle)
+    Overall Risk Score: 0.242 (Low)
+    Breakdown:
+      - Speech Analysis: 0.027 (35% weight)
+      - Voting Rebellion: 0.036 (30% weight)
+      - Constituency Risk: 0.141 (25% weight)
+      - Demographics: 0.038 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.11
+      - Rebellion rate: 1.7%
+      - Constituency Reform vote: 25.7%
+
+17. Helen Grant (Maidstone and Malling)
+    Overall Risk Score: 0.240 (Low)
+    Breakdown:
+      - Speech Analysis: 0.000 (35% weight)
+      - Voting Rebellion: 0.038 (30% weight)
+      - Constituency Risk: 0.157 (25% weight)
+      - Demographics: 0.044 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.00
+      - Rebellion rate: 1.8%
+      - Constituency Reform vote: 20.1%
+
+18. Andrew Rosindell (Romford)
+    Overall Risk Score: 0.238 (Low)
+    Breakdown:
+      - Speech Analysis: 0.023 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.160 (25% weight)
+      - Demographics: 0.055 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.19
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 21.9%
+
+19. Martin Vickers (Brigg and Immingham)
+    Overall Risk Score: 0.238 (Low)
+    Breakdown:
+      - Speech Analysis: 0.010 (35% weight)
+      - Voting Rebellion: 0.029 (30% weight)
+      - Constituency Risk: 0.153 (25% weight)
+      - Demographics: 0.044 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.05
+      - Rebellion rate: 1.4%
+      - Constituency Reform vote: 24.9%
+
+20. Ben Obese-Jecty (Huntingdon)
+    Overall Risk Score: 0.233 (Low)
+    Breakdown:
+      - Speech Analysis: 0.057 (35% weight)
+      - Voting Rebellion: 0.015 (30% weight)
+      - Constituency Risk: 0.135 (25% weight)
+      - Demographics: 0.027 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.42
+      - Rebellion rate: 0.7%
+      - Constituency Reform vote: 15.4%
+
+21. Mr Richard Holden (Basildon and Billericay)
+    Overall Risk Score: 0.232 (Low)
+    Breakdown:
+      - Speech Analysis: 0.000 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.199 (25% weight)
+      - Demographics: 0.033 (10% weight)
+    Key Metrics:
+      - Constituency Reform vote: 26.9%
+
+22. Mark Pritchard (The Wrekin)
+    Overall Risk Score: 0.232 (Low)
+    Breakdown:
+      - Speech Analysis: 0.021 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.160 (25% weight)
+      - Demographics: 0.050 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.16
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 19.8%
+
+23. Lewis Cocking (Broxbourne)
+    Overall Risk Score: 0.227 (Low)
+    Breakdown:
+      - Speech Analysis: 0.046 (35% weight)
+      - Voting Rebellion: 0.015 (30% weight)
+      - Constituency Risk: 0.139 (25% weight)
+      - Demographics: 0.027 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.40
+      - Rebellion rate: 0.7%
+      - Constituency Reform vote: 20.4%
+
+24. Alan Mak (Havant)
+    Overall Risk Score: 0.227 (Low)
+    Breakdown:
+      - Speech Analysis: 0.005 (35% weight)
+      - Voting Rebellion: 0.000 (30% weight)
+      - Constituency Risk: 0.184 (25% weight)
+      - Demographics: 0.038 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.03
+      - Rebellion rate: 0.0%
+      - Constituency Reform vote: 23.6%
+
+25. John Lamont (Berwickshire, Roxburgh and Selkirk)
+    Overall Risk Score: 0.227 (Low)
+    Breakdown:
+      - Speech Analysis: 0.112 (35% weight)
+      - Voting Rebellion: 0.027 (30% weight)
+      - Constituency Risk: 0.052 (25% weight)
+      - Demographics: 0.036 (10% weight)
+    Key Metrics:
+      - Reform keywords per speech: 0.81
+      - Rebellion rate: 1.3%
+      - Constituency Reform vote: 7.2%
+
+================================================================================
+END OF REPORT
+================================================================================

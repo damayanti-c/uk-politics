@@ -1,0 +1,358 @@
+==========================================================================================
+CONSERVATIVE MP DEFECTION RISK ASSESSMENT - WITH CONSTITUENCY FACTORS
+Current Sitting MPs - Predicted by Trained Model (v1.0) + Constituency Adjustment
+==========================================================================================
+
+Analysis Date: 2026-01-18 21:22
+Total MPs Analyzed: 118
+Model: Logistic Regression (C=1.0, L2 regularization)
+Training Performance: 97.8% Cross-Validated AUC
+Training Data: 19 historical defections (Jan 2024 - Jan 2026)
+
+CONSTITUENCY FACTORS ADDED:
+  - Reform UK vote share (2024 election)
+  - Conservative margin of victory
+  - Weight: Joint lowest (0.0077 coefficient each)
+
+==========================================================================================
+RISK DISTRIBUTION
+==========================================================================================
+
+  Very High Risk (80-100%): 3 MPs
+  High Risk (60-80%):       4 MPs
+  Medium Risk (40-60%):     5 MPs
+  Low Risk (0-40%):         106 MPs
+
+==========================================================================================
+TOP 30 HIGHEST DEFECTION RISK - CURRENT CONSERVATIVE MPs
+==========================================================================================
+
+Based on trained model with constituency adjustment
+
+Rank #1   | Robert Jenrick                     
+  Defection Risk: 93.67% (Base: 93.67%, Adj: +0.00pp)
+  Constituency: Newark
+  Reform UK Vote Share: 15.5%
+  Conservative Margin: 6.7pp
+  Reform Alignment (normalized): 0.0209
+  Immigration Focus: 13.7% of speeches
+  Status: Minister
+  Age: 44 years
+
+Rank #2   | Katie Lam                          
+  Defection Risk: 89.15% (Base: 89.22%, Adj: -0.07pp)
+  Constituency: Weald of Kent
+  Reform UK Vote Share: 20.1%
+  Conservative Margin: 16.6pp
+  Reform Alignment (normalized): 0.0162
+  Immigration Focus: 9.8% of speeches
+  Status: Backbencher
+  Age: 34 years
+
+Rank #3   | Suella Braverman                   
+  Defection Risk: 84.00% (Base: 84.04%, Adj: -0.05pp)
+  Constituency: Fareham and Waterlooville
+  Reform UK Vote Share: 18.1%
+  Conservative Margin: 12.1pp
+  Reform Alignment (normalized): 0.0190
+  Immigration Focus: 12.3% of speeches
+  Status: Minister
+  Age: 46 years
+
+Rank #4   | Rebecca Harris                     
+  Defection Risk: 73.18% (Base: 72.81%, Adj: +0.37pp)
+  Constituency: Castle Point
+  Reform UK Vote Share: 30.1%
+  Conservative Margin: 8.0pp
+  Reform Alignment (normalized): 0.0093
+  Immigration Focus: 7.1% of speeches
+  Status: Backbencher
+  Age: 58 years
+
+Rank #5   | Nick Timothy                       
+  Defection Risk: 69.34% (Base: 69.18%, Adj: +0.16pp)
+  Constituency: West Suffolk
+  Reform UK Vote Share: 20.8%
+  Conservative Margin: 7.0pp
+  Reform Alignment (normalized): 0.0094
+  Immigration Focus: 6.8% of speeches
+  Status: Backbencher
+  Age: 46 years
+
+Rank #6   | Andrew Snowden                     
+  Defection Risk: 68.21% (Base: 67.97%, Adj: +0.24pp)
+  Constituency: Fylde
+  Reform UK Vote Share: 17.3%
+  Conservative Margin: 1.2pp
+  Reform Alignment (normalized): 0.0108
+  Immigration Focus: 6.6% of speeches
+  Status: Backbencher
+
+Rank #7   | Lewis Cocking                      
+  Defection Risk: 61.65% (Base: 61.47%, Adj: +0.18pp)
+  Constituency: Broxbourne
+  Reform UK Vote Share: 20.4%
+  Conservative Margin: 6.7pp
+  Reform Alignment (normalized): 0.0072
+  Immigration Focus: 4.1% of speeches
+  Status: Backbencher
+  Age: 34 years
+
+Rank #8   | David Simmonds                     
+  Defection Risk: 58.92% (Base: 59.41%, Adj: -0.49pp)
+  Constituency: Ruislip, Northwood and Pinner
+  Reform UK Vote Share: 9.9%
+  Conservative Margin: 16.1pp
+  Reform Alignment (normalized): 0.0054
+  Immigration Focus: 4.6% of speeches
+  Status: Backbencher
+  Age: 50 years
+
+Rank #9   | Geoffrey Cox                       
+  Defection Risk: 49.18% (Base: 49.11%, Adj: +0.06pp)
+  Constituency: Torridge and Tavistock
+  Reform UK Vote Share: 18.0%
+  Conservative Margin: 7.8pp
+  Reform Alignment (normalized): 0.0071
+  Immigration Focus: 6.0% of speeches
+  Status: Backbencher
+
+Rank #10  | Ben Spencer                        
+  Defection Risk: 46.66% (Base: 47.04%, Adj: -0.38pp)
+  Constituency: Runnymede and Weybridge
+  Reform UK Vote Share: 13.3%
+  Conservative Margin: 15.8pp
+  Reform Alignment (normalized): 0.0063
+  Immigration Focus: 3.2% of speeches
+  Status: Backbencher
+
+Rank #11  | Danny Kruger                       
+  Defection Risk: 46.56% (Base: 46.62%, Adj: -0.06pp)
+  Constituency: East Wiltshire
+  Reform UK Vote Share: 16.7%
+  Conservative Margin: 10.0pp
+  Reform Alignment (normalized): 0.0048
+  Immigration Focus: 2.7% of speeches
+  Status: Backbencher
+  Age: 51 years
+
+Rank #12  | Joe Robertson                      
+  Defection Risk: 41.53% (Base: 41.44%, Adj: +0.09pp)
+  Constituency: Isle of Wight East
+  Reform UK Vote Share: 20.8%
+  Conservative Margin: 9.8pp
+  Reform Alignment (normalized): 0.0016
+  Immigration Focus: 0.8% of speeches
+  Status: Backbencher
+  Age: 42 years
+
+Rank #13  | Ben Obese-Jecty                    
+  Defection Risk: 35.92% (Base: 35.78%, Adj: +0.14pp)
+  Constituency: Huntingdon
+  Reform UK Vote Share: 15.4%
+  Conservative Margin: 2.9pp
+  Reform Alignment (normalized): 0.0030
+  Immigration Focus: 2.2% of speeches
+  Status: Backbencher
+  Age: 46 years
+
+Rank #14  | Matt Vickers                       
+  Defection Risk: 34.30% (Base: 34.25%, Adj: +0.04pp)
+  Constituency: Stockton West
+  Reform UK Vote Share: 14.0%
+  Conservative Margin: 4.4pp
+  Reform Alignment (normalized): 0.0037
+  Immigration Focus: 2.5% of speeches
+  Status: Backbencher
+  Age: 42 years
+
+Rank #15  | Bradley Thomas                     
+  Defection Risk: 32.75% (Base: 32.60%, Adj: +0.14pp)
+  Constituency: Bromsgrove
+  Reform UK Vote Share: 19.0%
+  Conservative Margin: 6.0pp
+  Reform Alignment (normalized): 0.0041
+  Immigration Focus: 2.4% of speeches
+  Status: Backbencher
+
+Rank #16  | Peter Bedford                      
+  Defection Risk: 30.49% (Base: 30.33%, Adj: +0.17pp)
+  Constituency: Mid Leicestershire
+  Reform UK Vote Share: 18.6%
+  Conservative Margin: 4.6pp
+  Reform Alignment (normalized): 0.0026
+  Immigration Focus: 1.3% of speeches
+  Status: Backbencher
+
+Rank #17  | Geoffrey Clifton-Brown             
+  Defection Risk: 29.02% (Base: 29.08%, Adj: -0.06pp)
+  Constituency: North Cotswolds
+  Reform UK Vote Share: 12.9%
+  Conservative Margin: 6.7pp
+  Reform Alignment (normalized): 0.0017
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+
+Rank #18  | Ashley Fox                         
+  Defection Risk: 26.58% (Base: 26.30%, Adj: +0.28pp)
+  Constituency: Bridgwater
+  Reform UK Vote Share: 22.2%
+  Conservative Margin: 3.4pp
+  Reform Alignment (normalized): 0.0037
+  Immigration Focus: 2.2% of speeches
+  Status: Backbencher
+
+Rank #19  | Mark Pritchard                     
+  Defection Risk: 24.81% (Base: 24.56%, Adj: +0.25pp)
+  Constituency: The Wrekin
+  Reform UK Vote Share: 19.8%
+  Conservative Margin: 1.8pp
+  Reform Alignment (normalized): 0.0021
+  Immigration Focus: 1.6% of speeches
+  Status: Backbencher
+  Age: 59 years
+
+Rank #20  | Luke Evans                         
+  Defection Risk: 23.99% (Base: 24.03%, Adj: -0.03pp)
+  Constituency: Hinckley and Bosworth
+  Reform UK Vote Share: 18.4%
+  Conservative Margin: 11.3pp
+  Reform Alignment (normalized): 0.0011
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+
+Rank #21  | Jerome Mayhew                      
+  Defection Risk: 20.89% (Base: 20.71%, Adj: +0.19pp)
+  Constituency: Broadland and Fakenham
+  Reform UK Vote Share: 17.9%
+  Conservative Margin: 1.5pp
+  Reform Alignment (normalized): 0.0010
+  Immigration Focus: 1.8% of speeches
+  Status: Backbencher
+  Age: 56 years
+
+Rank #22  | Sarah Bool                         
+  Defection Risk: 19.50% (Base: 19.47%, Adj: +0.03pp)
+  Constituency: South Northamptonshire
+  Reform UK Vote Share: 16.7%
+  Conservative Margin: 6.9pp
+  Reform Alignment (normalized): 0.0030
+  Immigration Focus: 2.8% of speeches
+  Status: Backbencher
+  Age: 38 years
+
+Rank #23  | John Lamont                        
+  Defection Risk: 18.20% (Base: 18.52%, Adj: -0.32pp)
+  Constituency: Berwickshire, Roxburgh and Selkirk
+  Reform UK Vote Share: 7.2%
+  Conservative Margin: 14.2pp
+  Reform Alignment (normalized): 0.0090
+  Immigration Focus: 8.0% of speeches
+  Status: Minister
+  Age: 50 years
+
+Rank #24  | Lincoln Jopp                       
+  Defection Risk: 17.29% (Base: 17.17%, Adj: +0.12pp)
+  Constituency: Spelthorne
+  Reform UK Vote Share: 17.9%
+  Conservative Margin: 3.4pp
+  Reform Alignment (normalized): 0.0008
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+  Age: 58 years
+
+Rank #25  | Greg Smith                         
+  Defection Risk: 17.08% (Base: 17.21%, Adj: -0.13pp)
+  Constituency: Mid Buckinghamshire
+  Reform UK Vote Share: 12.8%
+  Conservative Margin: 10.9pp
+  Reform Alignment (normalized): 0.0007
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+  Age: 47 years
+
+Rank #26  | Edward Leigh                       
+  Defection Risk: 16.90% (Base: 16.80%, Adj: +0.10pp)
+  Constituency: Gainsborough
+  Reform UK Vote Share: 21.2%
+  Conservative Margin: 7.6pp
+  Reform Alignment (normalized): 0.0099
+  Immigration Focus: 5.9% of speeches
+  Status: Minister
+
+Rank #27  | Rebecca Smith                      
+  Defection Risk: 16.13% (Base: 16.03%, Adj: +0.10pp)
+  Constituency: South West Devon
+  Reform UK Vote Share: 17.9%
+  Conservative Margin: 4.0pp
+  Reform Alignment (normalized): 0.0018
+  Immigration Focus: 1.3% of speeches
+  Status: Backbencher
+
+Rank #28  | Kieran Mullan                      
+  Defection Risk: 14.69% (Base: 14.65%, Adj: +0.05pp)
+  Constituency: Bexhill and Battle
+  Reform UK Vote Share: 16.6%
+  Conservative Margin: 5.6pp
+  Reform Alignment (normalized): 0.0013
+  Immigration Focus: 1.2% of speeches
+  Status: Backbencher
+
+Rank #29  | Julian Lewis                       
+  Defection Risk: 13.95% (Base: 14.13%, Adj: -0.18pp)
+  Constituency: New Forest East
+  Reform UK Vote Share: 16.9%
+  Conservative Margin: 18.8pp
+  Reform Alignment (normalized): 0.0008
+  Immigration Focus: 1.2% of speeches
+  Status: Backbencher
+
+Rank #30  | Mike Wood                          
+  Defection Risk: 13.69% (Base: 13.70%, Adj: -0.01pp)
+  Constituency: Kingswinford and South Staffordshire
+  Reform UK Vote Share: 22.0%
+  Conservative Margin: 14.0pp
+  Reform Alignment (normalized): 0.0006
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+  Age: 50 years
+
+==========================================================================================
+CONSTITUENCY FACTOR IMPACT ANALYSIS
+==========================================================================================
+
+MPs Most INCREASED by Constituency Factors:
+  Rebecca Harris                      | +0.37pp | Reform: 30.1% | Margin: 8.0pp
+  Ashley Fox                          | +0.28pp | Reform: 22.2% | Margin: 3.4pp
+  Mark Pritchard                      | +0.25pp | Reform: 19.8% | Margin: 1.8pp
+  Andrew Snowden                      | +0.24pp | Reform: 17.3% | Margin: 1.2pp
+  Jerome Mayhew                       | +0.19pp | Reform: 17.9% | Margin: 1.5pp
+
+MPs Most DECREASED by Constituency Factors:
+  David Simmonds                      | -0.49pp | Reform: 9.9% | Margin: 16.1pp
+  Ben Spencer                         | -0.38pp | Reform: 13.3% | Margin: 15.8pp
+  John Lamont                         | -0.32pp | Reform: 7.2% | Margin: 14.2pp
+  Neil Hudson                         | -0.28pp | Reform: 0.0% | Margin: 13.6pp
+  Bob Blackman                        | -0.27pp | Reform: 4.6% | Margin: 24.4pp
+
+==========================================================================================
+MODEL STATISTICS
+==========================================================================================
+
+Base Model Performance:
+  - Cross-Validated AUC: 97.8% +/- 1.6%
+  - Recall @ Top 20: 84.2% (16 of 19 historical defectors)
+  - Training Sample: 542 historical Conservative MPs
+  - Ground Truth: 19 confirmed defections (Best for Britain)
+
+Constituency Factor Weights:
+  - Reform UK Vote Share: +0.0077 (joint lowest)
+  - Conservative Margin: -0.0077 (joint lowest, protective)
+  - For reference: cabinet_level has coefficient 0.0077
+  - For reference: years_as_mp has coefficient 4.0016 (highest)
+
+Constituency Factor Summary:
+  - Mean Reform Vote Share: 16.8%
+  - Mean Conservative Margin: 8.4pp
+  - Max Constituency Adjustment: 0.37pp
+  - Min Constituency Adjustment: -0.49pp

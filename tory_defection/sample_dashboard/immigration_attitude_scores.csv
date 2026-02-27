@@ -1,0 +1,651 @@
+rank,name,party,constituency,total_speeches,immigration_speeches,hardline_mentions,pro_mentions,immigration_speech_proportion,stance_balance,immigration_attitude_score,attitude_band
+1,Richard Burgon,Labour,Leeds East,218,16,268,91,0.07339449541284404,0.49303621169916434,79.0,Restriction-leaning
+2,Heidi Alexander,Labour,Swindon South,99,10,28,12,0.10101010101010101,0.4,77.1,Restriction-leaning
+3,Nadia Whittome,Labour,Nottingham East,44,8,52,28,0.18181818181818182,0.3,75.1,Restriction-leaning
+4,Emma Reynolds,Labour,Wycombe,137,15,37,19,0.10948905109489052,0.32142857142857145,74.8,Restriction-leaning
+5,Diane Abbott,Labour,Hackney North and Stoke Newington,298,66,307,184,0.2214765100671141,0.2505091649694501,73.5,Restriction-leaning
+6,Abena Oppong-Asare,Labour,Erith and Thamesmead,54,5,74,40,0.09259259259259259,0.2982456140350877,73.3,Restriction-leaning
+7,Zarah Sultana,Labour,Coventry South,115,12,105,58,0.10434782608695652,0.2883435582822086,73.3,Restriction-leaning
+8,Alex Davies-Jones,Labour,Pontypridd,86,6,118,67,0.06976744186046512,0.2756756756756757,70.9,Restriction-leaning
+9,Apsana Begum,Labour,Poplar and Limehouse,44,6,81,58,0.13636363636363635,0.16546762589928057,70.1,Restriction-leaning
+10,Mark Garnier,Conservative,Wyre Forest,101,1,43,15,0.009900990099009901,0.4827586206896552,70.0,Restriction-leaning
+11,Pat McFadden,Labour,Wolverhampton South East,247,32,101,74,0.12955465587044535,0.15428571428571428,69.7,Restriction-leaning
+12,Paula Barker,Labour,Liverpool Wavertree,32,2,26,16,0.0625,0.23809523809523808,68.9,Restriction-leaning
+13,Jess Phillips,Labour,Birmingham Yardley,208,25,233,177,0.1201923076923077,0.13658536585365855,68.8,Restriction-leaning
+14,Sarah Champion,Labour,Rotherham,187,13,281,185,0.06951871657754011,0.20600858369098712,68.4,Restriction-leaning
+15,Christopher Chope,Conservative,Christchurch,309,22,98,66,0.07119741100323625,0.1951219512195122,68.3,Restriction-leaning
+16,Bell Ribeiro-Addy,Labour,Clapham and Brixton Hill,68,14,80,65,0.20588235294117646,0.10344827586206896,68.3,Restriction-leaning
+17,Luke Pollard,Labour and Co-operative,Plymouth Sutton and Devonport,257,20,277,198,0.07782101167315175,0.16631578947368422,67.9,Restriction-leaning
+18,Liz Kendall,Labour,Leicester West,114,13,35,28,0.11403508771929824,0.1111111111111111,67.7,Restriction-leaning
+19,Mark Tami,Labour,Alyn and Deeside,129,1,27,11,0.007751937984496124,0.42105263157894735,67.6,Restriction-leaning
+20,Jonathan Reynolds,Labour and Co-operative,Stalybridge and Hyde,181,12,124,85,0.06629834254143646,0.18660287081339713,67.5,Restriction-leaning
+21,Anneliese Dodds,Labour and Co-operative,Oxford East,198,5,186,100,0.025252525252525252,0.3006993006993007,66.2,Restriction-leaning
+22,Jeremy Corbyn,Independent,Islington North,977,82,635,510,0.08393039918116683,0.1091703056768559,66.1,Restriction-leaning
+23,Mary Creagh,Labour,Coventry East,280,24,197,163,0.08571428571428572,0.09444444444444444,65.9,Restriction-leaning
+24,Victoria Atkins,Conservative,Louth and Horncastle,762,35,585,386,0.045931758530183726,0.20494335736354274,65.6,Restriction-leaning
+25,David Lammy,Labour,Tottenham,220,40,206,195,0.18181818181818182,0.02743142144638404,65.5,Restriction-leaning
+26,Bridget Phillipson,Labour,Houghton and Sunderland South,159,5,86,52,0.031446540880503145,0.2463768115942029,65.2,Restriction-leaning
+27,Edward Leigh,Conservative,Gainsborough,543,42,160,135,0.07734806629834254,0.0847457627118644,65.0,Restriction-leaning
+28,Mohammad Yasin,Labour,Bedford,166,18,70,65,0.10843373493975904,0.037037037037037035,64.8,Restriction-leaning
+29,Stephen Kinnock,Labour,Aberafan Maesteg,247,15,142,111,0.06072874493927125,0.1225296442687747,64.6,Restriction-leaning
+30,Yasmin Qureshi,Labour,Bolton South and Walkden,146,9,78,63,0.06164383561643835,0.10638297872340426,64.2,Restriction-leaning
+31,Navendu Mishra,Labour,Stockport,99,7,67,57,0.0707070707070707,0.08064516129032258,64.2,Restriction-leaning
+32,Yvette Cooper,Labour,"Pontefract, Castleford and Knottingley",582,122,323,334,0.20962199312714777,-0.0167427701674277,64.1,Restriction-leaning
+33,Iain Duncan Smith,Conservative,Chingford and Woodford Green,391,21,120,93,0.05370843989769821,0.1267605633802817,63.9,Restriction-leaning
+34,Gill Furniss,Labour,Sheffield Brightside and Hillsborough,113,7,99,82,0.061946902654867256,0.09392265193370165,63.8,Restriction-leaning
+35,Lee Anderson,Reform UK,Ashfield,94,7,30,27,0.07446808510638298,0.05263157894736842,63.6,Restriction-leaning
+36,Pete Wishart,Scottish National Party,Perth and Kinross-shire,629,40,162,141,0.06359300476947535,0.06930693069306931,63.3,Restriction-leaning
+37,Rachael Maskell,Labour and Co-operative,York Central,537,11,216,135,0.020484171322160148,0.23076923076923078,63.1,Restriction-leaning
+38,Dan Jarvis,Labour,Barnsley North,141,3,104,66,0.02127659574468085,0.2235294117647059,63.0,Restriction-leaning
+39,Ed Miliband,Labour,Doncaster North,159,14,120,118,0.0880503144654088,0.008403361344537815,62.9,Restriction-leaning
+40,Alec Shelbrooke,Conservative,Wetherby and Easingwold,195,12,62,54,0.06153846153846154,0.06896551724137931,62.8,Restriction-leaning
+41,Tulip Siddiq,Labour,Hampstead and Highgate,110,8,77,72,0.07272727272727272,0.03355704697986577,62.8,Restriction-leaning
+42,Sarah Jones,Labour,Croydon West,163,6,106,79,0.03680981595092025,0.14594594594594595,62.5,Restriction-leaning
+43,Mike Kane,Labour,Wythenshawe and Sale East,195,7,63,47,0.035897435897435895,0.14545454545454545,62.2,Restriction-leaning
+44,Andy McDonald,Labour,Middlesbrough and Thornaby East,281,7,143,98,0.02491103202846975,0.18672199170124482,62.2,Restriction-leaning
+45,Dave Doogan,Scottish National Party,Angus and Perthshire Glens,72,8,30,33,0.1111111111111111,-0.047619047619047616,62.0,Restriction-leaning
+46,Peter Kyle,Labour,Hove and Portslade,248,6,75,52,0.024193548387096774,0.18110236220472442,61.9,Restriction-leaning
+47,Kate Osborne,Labour,Jarrow and Gateshead East,97,7,60,59,0.07216494845360824,0.008403361344537815,61.8,Restriction-leaning
+48,Bernard Jenkin,Conservative,Harwich and North Essex,433,21,94,79,0.04849884526558892,0.08670520231213873,61.7,Restriction-leaning
+49,Stephanie Peacock,Labour,Barnsley South,196,5,109,77,0.025510204081632654,0.17204301075268819,61.7,Restriction-leaning
+50,Ian Murray,Labour,Edinburgh South,414,26,55,52,0.06280193236714976,0.028037383177570093,61.7,Restriction-leaning
+51,Neil Coyle,Labour,Bermondsey and Old Southwark,146,5,44,34,0.03424657534246575,0.1282051282051282,61.4,Restriction-leaning
+52,Julian Smith,Conservative,Skipton and Ripon,194,3,55,36,0.015463917525773196,0.2087912087912088,61.3,Restriction-leaning
+53,Rosena Allin-Khan,Labour,Tooting,165,14,108,115,0.08484848484848485,-0.03139013452914798,61.3,Restriction-leaning
+54,Rosie Duffield,Labour,Canterbury,81,7,49,53,0.08641975308641975,-0.0392156862745098,61.2,Restriction-leaning
+55,Clive Lewis,Labour,Norwich South,90,3,61,47,0.03333333333333333,0.12962962962962962,61.2,Restriction-leaning
+56,Maria Eagle,Labour,Liverpool Garston,152,3,52,37,0.019736842105263157,0.16853932584269662,60.8,Restriction-leaning
+57,Shabana Mahmood,Labour,Birmingham Ladywood,67,2,63,49,0.029850746268656716,0.125,60.7,Restriction-leaning
+58,Chris Philp,Conservative,Croydon South,694,164,329,420,0.23631123919308358,-0.12149532710280374,60.5,Restriction-leaning
+59,Cat Smith,Labour,Lancaster and Wyre,263,8,131,104,0.030418250950570342,0.1148936170212766,60.4,Restriction-leaning
+60,Charlotte Nichols,Labour,Warrington North,92,5,56,54,0.05434782608695652,0.01818181818181818,60.2,Restriction-leaning
+61,Caroline Nokes,Conservative,Romsey and Southampton North,566,149,226,299,0.26325088339222613,-0.13904761904761906,60.0,Mixed / unclear
+62,Colum Eastwood,Social Democratic and Labour Party,Foyle,50,6,15,19,0.12,-0.11764705882352941,59.9,Mixed / unclear
+63,Catherine McKinnell,Labour,Newcastle upon Tyne North,186,5,90,72,0.026881720430107527,0.1111111111111111,59.8,Mixed / unclear
+64,Meg Hillier,Labour and Co-operative,Hackney South and Shoreditch,265,18,85,91,0.06792452830188679,-0.03409090909090909,59.8,Mixed / unclear
+65,Olivia Blake,Labour,Sheffield Hallam,41,3,54,60,0.07317073170731707,-0.05263157894736842,59.8,Mixed / unclear
+66,Kirsty Blackman,Scottish National Party,Aberdeen North,365,35,121,146,0.0958904109589041,-0.09363295880149813,59.7,Mixed / unclear
+67,Derek Twigg,Labour,Widnes and Halewood,109,2,27,20,0.01834862385321101,0.14893617021276595,59.7,Mixed / unclear
+68,Valerie Vaz,Labour,Walsall and Bloxwich,526,56,180,222,0.10646387832699619,-0.1044776119402985,59.7,Mixed / unclear
+69,Chris Evans,Labour and Co-operative,Caerphilly,86,6,29,32,0.06976744186046512,-0.04918032786885246,59.6,Mixed / unclear
+70,Sammy Wilson,Democratic Unionist Party,East Antrim,465,50,119,148,0.10752688172043011,-0.10861423220973783,59.6,Mixed / unclear
+71,Mary Foy,Labour,City of Durham,89,7,78,91,0.07865168539325842,-0.07692307692307693,59.4,Mixed / unclear
+72,Julian Lewis,Conservative,New Forest East,547,19,143,125,0.03473491773308958,0.06716417910447761,59.3,Mixed / unclear
+73,Wes Streeting,Labour,Ilford North,511,28,215,220,0.0547945205479452,-0.011494252873563218,59.3,Mixed / unclear
+74,Keir Starmer,Labour,Holborn and St Pancras,958,101,222,280,0.10542797494780794,-0.11553784860557768,59.3,Mixed / unclear
+75,Tim Farron,Liberal Democrat,Westmorland and Lonsdale,340,37,193,250,0.10882352941176471,-0.12866817155756208,59.0,Mixed / unclear
+76,Joy Morrissey,Conservative,Beaconsfield,135,5,46,42,0.037037037037037035,0.045454545454545456,59.0,Mixed / unclear
+77,Dawn Butler,Labour,Brent East,138,13,91,117,0.09420289855072464,-0.125,58.6,Mixed / unclear
+78,Gregory Campbell,Democratic Unionist Party,East Londonderry,196,9,18,18,0.04591836734693878,0.0,58.4,Mixed / unclear
+79,Christine Jardine,Liberal Democrat,Edinburgh West,405,33,188,234,0.08148148148148149,-0.10900473933649289,58.3,Mixed / unclear
+80,Lucy Powell,Labour and Co-operative,Manchester Central,358,7,120,98,0.019553072625698324,0.10091743119266056,58.3,Mixed / unclear
+81,Steve Reed,Labour and Co-operative,Streatham and Croydon North,153,3,108,89,0.0196078431372549,0.09644670050761421,58.2,Mixed / unclear
+82,Priti Patel,Conservative,Witham,894,133,345,498,0.1487695749440716,-0.18149466192170818,58.1,Mixed / unclear
+83,Anna McMorrin,Labour,Cardiff North,220,5,96,83,0.022727272727272728,0.07262569832402235,58.0,Mixed / unclear
+84,Matt Rodda,Labour,Reading Central,158,5,101,94,0.03164556962025317,0.035897435897435895,57.9,Mixed / unclear
+85,Ruth Jones,Labour,Newport West and Islwyn,130,10,85,107,0.07692307692307693,-0.11458333333333333,57.9,Mixed / unclear
+86,Neil Hudson,Conservative,Epping Forest,53,22,27,41,0.41509433962264153,-0.20588235294117646,57.8,Mixed / unclear
+87,Ben Spencer,Conservative,Runnymede and Weybridge,73,4,51,57,0.0547945205479452,-0.05555555555555555,57.7,Mixed / unclear
+88,Mark Hendrick,Labour and Co-operative,Preston,50,3,13,15,0.06,-0.07142857142857142,57.6,Mixed / unclear
+89,Ruth Cadbury,Labour,Brentford and Isleworth,298,12,110,111,0.040268456375838924,-0.004524886877828055,57.6,Mixed / unclear
+90,Janet Daby,Labour,Lewisham East,174,9,81,88,0.05172413793103448,-0.04142011834319527,57.6,Mixed / unclear
+91,Helen Hayes,Labour,Dulwich and West Norwood,246,17,185,227,0.06910569105691057,-0.10194174757281553,57.6,Mixed / unclear
+92,James Murray,Labour and Co-operative,Ealing North,72,1,81,65,0.013888888888888888,0.1095890410958904,57.6,Mixed / unclear
+93,Rupa Huq,Labour,Ealing Central and Acton,328,17,87,96,0.051829268292682924,-0.04918032786885246,57.4,Mixed / unclear
+94,Rachel Reeves,Labour,Leeds West and Pudsey,222,17,116,150,0.07657657657657657,-0.12781954887218044,57.4,Mixed / unclear
+95,Barry Gardiner,Labour,Brent West,258,15,135,159,0.05813953488372093,-0.08163265306122448,57.1,Mixed / unclear
+96,Emma Hardy,Labour,Kingston upon Hull West and Haltemprice,277,10,81,82,0.036101083032490974,-0.006134969325153374,57.0,Mixed / unclear
+97,Melanie Onn,Labour,Great Grimsby and Cleethorpes,242,10,119,126,0.04132231404958678,-0.02857142857142857,57.0,Mixed / unclear
+98,Bill Esterson,Labour,Sefton Central,283,12,115,122,0.04240282685512368,-0.029535864978902954,57.0,Mixed / unclear
+99,Matt Western,Labour,Warwick and Leamington,335,7,167,150,0.020895522388059702,0.05362776025236593,57.0,Mixed / unclear
+100,Afzal Khan,Labour,Manchester Rusholme,171,22,94,144,0.1286549707602339,-0.21008403361344538,56.9,Mixed / unclear
+101,Chris Bryant,Labour,Rhondda and Ogmore,1005,27,162,156,0.026865671641791045,0.018867924528301886,56.6,Mixed / unclear
+102,Stephen Doughty,Labour and Co-operative,Cardiff South and Penarth,713,61,177,255,0.08555399719495091,-0.18055555555555555,56.2,Mixed / unclear
+103,Angela Eagle,Labour,Wallasey,399,11,119,120,0.02756892230576441,-0.0041841004184100415,55.9,Mixed / unclear
+104,Clive Efford,Labour,Eltham and Chislehurst,305,6,46,44,0.019672131147540985,0.022222222222222223,55.7,Mixed / unclear
+105,Lisa Nandy,Labour,Wigan,102,7,80,109,0.06862745098039216,-0.15343915343915343,55.7,Mixed / unclear
+106,Tom Tugendhat,Conservative,Tonbridge,396,21,207,254,0.05303030303030303,-0.1019522776572668,55.7,Mixed / unclear
+107,Andrew Bowie,Conservative,West Aberdeenshire and Kincardine,306,34,79,128,0.1111111111111111,-0.23671497584541062,55.4,Mixed / unclear
+108,Alex Sobel,Labour and Co-operative,Leeds Central and Headingley,184,19,84,132,0.10326086956521739,-0.2222222222222222,55.4,Mixed / unclear
+109,Ellie Reeves,Labour,Lewisham West and East Dulwich,194,5,73,75,0.02577319587628866,-0.013513513513513514,55.3,Mixed / unclear
+110,Claire Hanna,Social Democratic and Labour Party,Belfast South and Mid Down,60,17,42,74,0.2833333333333333,-0.27586206896551724,55.3,Mixed / unclear
+111,Nick Thomas-Symonds,Labour,Torfaen,382,50,174,295,0.13089005235602094,-0.2579957356076759,55.3,Mixed / unclear
+112,Louise Haigh,Labour,Sheffield Heeley,213,10,129,156,0.046948356807511735,-0.09473684210526316,55.2,Mixed / unclear
+113,Richard Fuller,Conservative,North Bedfordshire,205,10,75,92,0.04878048780487805,-0.10179640718562874,55.2,Mixed / unclear
+114,Stephen Flynn,Scottish National Party,Aberdeen South,112,7,32,44,0.0625,-0.15789473684210525,55.1,Mixed / unclear
+115,Greg Smith,Conservative,Mid Buckinghamshire,116,6,38,48,0.05172413793103448,-0.11627906976744186,55.0,Mixed / unclear
+116,Sarah Owen,Labour,Luton North,67,7,48,78,0.1044776119402985,-0.23809523809523808,55.0,Mixed / unclear
+117,Layla Moran,Liberal Democrat,Oxford West and Abingdon,274,14,105,131,0.051094890510948905,-0.11016949152542373,55.0,Mixed / unclear
+118,Peter Dowd,Labour,Bootle,339,12,114,129,0.035398230088495575,-0.06172839506172839,54.9,Mixed / unclear
+119,Hilary Benn,Labour,Leeds South,502,47,104,167,0.09362549800796813,-0.23247232472324722,54.8,Mixed / unclear
+120,Seema Malhotra,Labour and Co-operative,Feltham and Heston,315,12,86,101,0.0380952380952381,-0.08021390374331551,54.8,Mixed / unclear
+121,Tahir Ali,Labour,Birmingham Hall Green and Moseley,13,0,25,13,0.0,0.3157894736842105,54.8,Mixed / unclear
+122,Tan Dhesi,Labour,Slough,194,11,67,90,0.05670103092783505,-0.1464968152866242,54.7,Mixed / unclear
+123,Kim Johnson,Labour,Liverpool Riverside,96,14,89,158,0.14583333333333334,-0.2793522267206478,54.6,Mixed / unclear
+124,Andrew Gwynne,Labour and Co-operative,Gorton and Denton,415,12,138,151,0.02891566265060241,-0.04498269896193772,54.6,Mixed / unclear
+125,Rachel Hopkins,Labour,Luton South and South Bedfordshire,136,2,85,82,0.014705882352941176,0.017964071856287425,54.5,Mixed / unclear
+126,Mike Amesbury,Labour,Runcorn and Helsby,234,5,68,71,0.021367521367521368,-0.02158273381294964,54.5,Mixed / unclear
+127,David Davis,Conservative,Goole and Pocklington,1107,85,169,261,0.07678410117434507,-0.21395348837209302,54.4,Mixed / unclear
+128,Jerome Mayhew,Conservative,Broadland and Fakenham,118,18,40,73,0.15254237288135594,-0.2920353982300885,54.3,Mixed / unclear
+129,Stephen Morgan,Labour,Portsmouth South,91,4,45,56,0.04395604395604396,-0.10891089108910891,54.3,Mixed / unclear
+130,John Lamont,Conservative,"Berwickshire, Roxburgh and Selkirk",238,60,48,89,0.25210084033613445,-0.29927007299270075,54.3,Mixed / unclear
+131,Mark Francois,Conservative,Rayleigh and Wickford,224,5,55,59,0.022321428571428572,-0.03508771929824561,54.1,Mixed / unclear
+132,Justin Madders,Labour,Ellesmere Port and Bromborough,407,12,184,210,0.029484029484029485,-0.06598984771573604,53.9,Mixed / unclear
+133,Bambos Charalambous,Labour,Southgate and Wood Green,247,21,120,197,0.08502024291497975,-0.24290220820189273,53.9,Mixed / unclear
+134,Andrew Griffith,Conservative,Arundel and South Downs,151,11,58,92,0.0728476821192053,-0.22666666666666666,53.7,Mixed / unclear
+135,Brendan O'Hara,Scottish National Party,"Argyll, Bute and South Lochaber",261,29,115,207,0.1111111111111111,-0.2857142857142857,53.7,Mixed / unclear
+136,Emily Thornberry,Labour,Islington South and Finsbury,406,37,158,271,0.09113300492610837,-0.2634032634032634,53.6,Mixed / unclear
+137,Chi Onwurah,Labour,Newcastle upon Tyne Central and West,426,16,187,235,0.03755868544600939,-0.11374407582938388,53.5,Mixed / unclear
+138,Nia Griffith,Labour,Llanelli,175,7,58,75,0.04,-0.12781954887218044,53.3,Mixed / unclear
+139,Jo Platt,Labour and Co-operative,Leigh and Atherton,56,1,29,31,0.017857142857142856,-0.03333333333333333,53.3,Mixed / unclear
+140,Stephen Gethins,Scottish National Party,Arbroath and Broughty Ferry,446,50,85,157,0.11210762331838565,-0.2975206611570248,53.3,Mixed / unclear
+141,Jo Stevens,Labour,Cardiff East,171,8,55,74,0.04678362573099415,-0.14728682170542637,53.3,Mixed / unclear
+142,Wera Hobhouse,Liberal Democrat,Bath,545,28,172,240,0.05137614678899083,-0.1650485436893204,53.2,Mixed / unclear
+143,Chris Elmore,Labour,Bridgend,390,20,70,97,0.05128205128205128,-0.16167664670658682,53.2,Mixed / unclear
+144,Jim McMahon,Labour and Co-operative,"Oldham West, Chadderton and Royton",272,6,87,98,0.022058823529411766,-0.05945945945945946,53.2,Mixed / unclear
+145,Feryal Clark,Labour,Enfield North,49,3,19,29,0.061224489795918366,-0.20833333333333334,53.1,Mixed / unclear
+146,Gareth Bacon,Conservative,Orpington,48,4,24,41,0.08333333333333333,-0.26153846153846155,53.1,Mixed / unclear
+147,Jeff Smith,Labour,Manchester Withington,270,6,75,86,0.022222222222222223,-0.06832298136645963,52.9,Mixed / unclear
+148,Tonia Antoniazzi,Labour,Gower,173,7,44,59,0.04046242774566474,-0.14563106796116504,52.8,Mixed / unclear
+149,Desmond Swayne,Conservative,New Forest West,715,9,38,40,0.012587412587412588,-0.02564102564102564,52.7,Mixed / unclear
+150,Carolyn Harris,Labour,Neath and Swansea East,184,9,91,130,0.04891304347826087,-0.17647058823529413,52.6,Mixed / unclear
+151,Ian Lavery,Labour,Blyth and Ashington,60,1,10,11,0.016666666666666666,-0.047619047619047616,52.5,Mixed / unclear
+152,Toby Perkins,Labour,Chesterfield,379,7,108,123,0.018469656992084433,-0.06493506493506493,52.3,Mixed / unclear
+153,Stella Creasy,Labour and Co-operative,Walthamstow,362,44,151,305,0.12154696132596685,-0.33771929824561403,52.3,Mixed / unclear
+154,Imran Hussain,Labour,Bradford East,145,8,92,143,0.05517241379310345,-0.2170212765957447,52.1,Mixed / unclear
+155,Dan Carden,Labour,Liverpool Walton,140,8,67,105,0.05714285714285714,-0.22093023255813954,52.1,Mixed / unclear
+156,Carla Lockhart,Democratic Unionist Party,Upper Bann,75,4,45,69,0.05333333333333334,-0.21052631578947367,52.0,Mixed / unclear
+157,Anna Turley,Labour and Co-operative,Redcar,139,8,56,89,0.05755395683453238,-0.22758620689655173,52.0,Mixed / unclear
+158,Florence Eshalomi,Labour and Co-operative,Vauxhall and Camberwell Green,80,6,33,59,0.075,-0.2826086956521739,51.9,Mixed / unclear
+159,Saqib Bhatti,Conservative,Meriden and Solihull East,66,4,40,65,0.06060606060606061,-0.23809523809523808,51.9,Mixed / unclear
+160,Rushanara Ali,Labour,Bethnal Green and Stepney,229,27,168,355,0.11790393013100436,-0.3575525812619503,51.4,Mixed / unclear
+161,Claire Coutinho,Conservative,East Surrey,56,4,27,49,0.07142857142857142,-0.2894736842105263,51.4,Mixed / unclear
+162,Catherine West,Labour,Hornsey and Friern Barnet,413,34,103,195,0.08232445520581114,-0.3087248322147651,51.4,Mixed / unclear
+163,Wendy Chamberlain,Liberal Democrat,North East Fife,169,15,58,114,0.08875739644970414,-0.32558139534883723,51.3,Mixed / unclear
+164,Ian Byrne,Labour,Liverpool West Derby,40,0,29,19,0.0,0.20833333333333334,51.1,Mixed / unclear
+165,Bob Blackman,Conservative,Harrow East,718,26,201,289,0.036211699164345405,-0.17959183673469387,51.0,Mixed / unclear
+166,Fleur Anderson,Labour,Putney,101,9,50,101,0.0891089108910891,-0.33774834437086093,50.9,Mixed / unclear
+167,Liam Byrne,Labour,Birmingham Hodge Hill and Solihull North,142,9,48,86,0.06338028169014084,-0.2835820895522388,50.9,Mixed / unclear
+168,Christian Wakeford,Labour,Bury South,138,5,61,89,0.036231884057971016,-0.18666666666666668,50.8,Mixed / unclear
+169,Alex Norris,Labour and Co-operative,Nottingham North and Kimberley,211,8,93,138,0.037914691943127965,-0.19480519480519481,50.8,Mixed / unclear
+170,Karin Smyth,Labour,Bristol South,231,19,46,91,0.08225108225108226,-0.3284671532846715,50.7,Mixed / unclear
+171,Rebecca Long-Bailey,Labour,Salford,213,6,124,169,0.028169014084507043,-0.15358361774744028,50.7,Mixed / unclear
+172,Nick Smith,Labour,Blaenau Gwent and Rhymney,277,1,33,37,0.0036101083032490976,-0.05714285714285714,50.6,Mixed / unclear
+173,Kate Osamor,Labour and Co-operative,Edmonton and Winchmore Hill,99,10,55,117,0.10101010101010101,-0.36046511627906974,50.5,Mixed / unclear
+174,John Healey,Labour,Rawmarsh and Conisbrough,206,3,149,180,0.014563106796116505,-0.09422492401215805,50.5,Mixed / unclear
+175,Karen Bradley,Conservative,Staffordshire Moorlands,755,27,129,189,0.03576158940397351,-0.18867924528301888,50.5,Mixed / unclear
+176,Kerry McCarthy,Labour,Bristol East,452,23,161,263,0.05088495575221239,-0.24056603773584906,50.4,Mixed / unclear
+177,James Cartlidge,Conservative,South Suffolk,442,21,72,116,0.04751131221719457,-0.23404255319148937,50.4,Mixed / unclear
+178,Mary Glindon,Labour,Newcastle upon Tyne East and Wallsend,128,4,14,20,0.03125,-0.17647058823529413,50.3,Mixed / unclear
+179,John Whittingdale,Conservative,Maldon,311,17,59,102,0.05466237942122187,-0.2670807453416149,50.3,Mixed / unclear
+180,Andrew Rosindell,Conservative,Romford,124,5,28,44,0.04032258064516129,-0.2222222222222222,50.1,Mixed / unclear
+181,Siobhain McDonagh,Labour,Mitcham and Morden,178,6,71,105,0.033707865168539325,-0.19318181818181818,50.0,Mixed / unclear
+182,Daisy Cooper,Liberal Democrat,St Albans,94,5,44,77,0.05319148936170213,-0.2727272727272727,49.8,Mixed / unclear
+183,Danny Kruger,Conservative,East Wiltshire,70,3,37,61,0.04285714285714286,-0.24489795918367346,49.5,Mixed / unclear
+184,Alistair Carmichael,Liberal Democrat,Orkney and Shetland,578,65,109,265,0.11245674740484429,-0.41711229946524064,49.2,Mixed / unclear
+185,Richard Holden,Conservative,Basildon and Billericay,153,9,47,89,0.058823529411764705,-0.3088235294117647,49.2,Mixed / unclear
+186,Kevin Hollinrake,Conservative,Thirsk and Malton,655,23,100,157,0.035114503816793895,-0.22178988326848248,49.2,Mixed / unclear
+187,Vicky Foxcroft,Labour,Lewisham North,231,4,55,74,0.017316017316017316,-0.14728682170542637,49.1,Mixed / unclear
+188,Sharon Hodgson,Labour,Washington and Gateshead South,156,2,51,66,0.01282051282051282,-0.1282051282051282,49.1,Mixed / unclear
+189,Graham Stuart,Conservative,Beverley and Holderness,228,4,26,35,0.017543859649122806,-0.14754098360655737,49.1,Mixed / unclear
+190,Kieran Mullan,Conservative,Bexhill and Battle,110,4,33,54,0.03636363636363636,-0.2413793103448276,48.9,Mixed / unclear
+191,George Freeman,Conservative,Mid Norfolk,127,6,48,85,0.047244094488188976,-0.2781954887218045,48.8,Mixed / unclear
+192,Suella Braverman,Conservative,Fareham and Waterlooville,173,7,44,75,0.04046242774566474,-0.2605042016806723,48.8,Mixed / unclear
+193,Nus Ghani,Conservative,Sussex Weald,392,11,86,132,0.02806122448979592,-0.21100917431192662,48.7,Mixed / unclear
+194,Matthew Pennycook,Labour,Greenwich and Woolwich,253,13,72,133,0.05138339920948617,-0.2975609756097561,48.6,Mixed / unclear
+195,Sarah Olney,Liberal Democrat,Richmond Park,126,7,68,132,0.05555555555555555,-0.32,48.6,Mixed / unclear
+196,Andrew Mitchell,Conservative,Sutton Coldfield,281,29,80,195,0.10320284697508897,-0.41818181818181815,48.5,Mixed / unclear
+197,Mel Stride,Conservative,Central Devon,752,64,58,135,0.0851063829787234,-0.39896373056994816,48.5,Mixed / unclear
+198,Alex Burghart,Conservative,Brentwood and Ongar,153,1,25,32,0.006535947712418301,-0.12280701754385964,48.4,Mixed / unclear
+199,Emma Lewell-Buck,Labour,South Shields,224,3,75,102,0.013392857142857142,-0.15254237288135594,48.4,Mixed / unclear
+200,Jessica Morden,Labour,Newport East,259,14,52,101,0.05405405405405406,-0.3202614379084967,48.3,Mixed / unclear
+201,Helen Grant,Conservative,Maidstone and Malling,43,4,20,49,0.09302325581395349,-0.42028985507246375,48.2,Mixed / unclear
+202,Gavin Robinson,Democratic Unionist Party,Belfast East,271,19,69,153,0.07011070110701106,-0.3783783783783784,48.1,Mixed / unclear
+203,Mike Wood,Conservative,Kingswinford and South Staffordshire,312,9,82,132,0.028846153846153848,-0.2336448598130841,48.0,Mixed / unclear
+204,Munira Wilson,Liberal Democrat,Twickenham,159,6,53,93,0.03773584905660377,-0.273972602739726,47.9,Mixed / unclear
+205,Caroline Johnson,Conservative,Sleaford and North Hykeham,234,7,66,108,0.029914529914529916,-0.2413793103448276,47.9,Mixed / unclear
+206,Oliver Dowden,Conservative,Hertsmere,492,8,76,109,0.016260162601626018,-0.1783783783783784,47.8,Mixed / unclear
+207,Graham Stringer,Labour,Blackley and Middleton South,105,2,10,15,0.01904761904761905,-0.2,47.6,Mixed / unclear
+208,Julia Lopez,Conservative,Hornchurch and Upminster,123,2,29,42,0.016260162601626018,-0.18309859154929578,47.6,Mixed / unclear
+209,Rebecca Harris,Conservative,Castle Point,21,0,26,21,0.0,0.10638297872340426,47.5,Mixed / unclear
+210,Stuart Andrew,Conservative,Daventry,222,14,25,56,0.06306306306306306,-0.38271604938271603,47.4,Mixed / unclear
+211,Lilian Greenwood,Labour,Nottingham South,314,6,90,138,0.01910828025477707,-0.21052631578947367,47.3,Mixed / unclear
+212,Angela Rayner,Labour,Ashton-under-Lyne,293,5,91,137,0.017064846416382253,-0.20175438596491227,47.1,Mixed / unclear
+213,Alison McGovern,Labour,Birkenhead,327,42,65,190,0.12844036697247707,-0.49019607843137253,47.0,Mixed / unclear
+214,Judith Cummins,Labour,Bradford South,137,1,42,59,0.0072992700729927005,-0.16831683168316833,46.9,Mixed / unclear
+215,John Hayes,Conservative,South Holland and The Deepings,632,28,112,219,0.04430379746835443,-0.32326283987915405,46.9,Mixed / unclear
+216,Taiwo Owatemi,Labour,Coventry North West,66,3,51,101,0.045454545454545456,-0.32894736842105265,46.8,Mixed / unclear
+217,Darren Jones,Labour,Bristol North West,96,5,49,103,0.052083333333333336,-0.35526315789473684,46.8,Mixed / unclear
+218,Clive Betts,Labour,Sheffield South East,343,3,84,125,0.008746355685131196,-0.19617224880382775,46.2,Mixed / unclear
+219,Gerald Jones,Labour,Merthyr Tydfil and Aberdare,169,3,42,68,0.01775147928994083,-0.23636363636363636,46.1,Mixed / unclear
+220,Kit Malthouse,Conservative,North West Hampshire,702,6,135,201,0.008547008547008548,-0.19642857142857142,46.1,Mixed / unclear
+221,Liz Twist,Labour,Blaydon and Consett,306,7,69,121,0.02287581699346405,-0.2736842105263158,45.9,Mixed / unclear
+222,Stephen Timms,Labour,East Ham,434,23,107,242,0.052995391705069124,-0.3868194842406877,45.7,Mixed / unclear
+223,Kemi Badenoch,Conservative,North West Essex,400,25,53,132,0.0625,-0.42702702702702705,45.7,Mixed / unclear
+224,Andrew Murrison,Conservative,South West Wiltshire,547,36,95,245,0.06581352833638025,-0.4411764705882353,45.5,Mixed / unclear
+225,Debbie Abrahams,Labour,Oldham East and Saddleworth,397,7,152,258,0.017632241813602016,-0.25853658536585367,45.3,Mixed / unclear
+226,Jim Shannon,Democratic Unionist Party,Strangford,1763,79,452,988,0.04480998298355077,-0.37222222222222223,45.2,Mixed / unclear
+227,Alicia Kearns,Conservative,Rutland and Stamford,75,3,26,57,0.04,-0.37349397590361444,44.7,Mixed / unclear
+228,Ben Lake,Plaid Cymru,Ceredigion Preseli,183,11,28,73,0.060109289617486336,-0.44554455445544555,44.6,Mixed / unclear
+229,Daniel Zeichner,Labour,Cambridge,321,19,73,190,0.059190031152647975,-0.4448669201520912,44.5,Mixed / unclear
+230,Chris Law,Scottish National Party,Dundee Central,180,21,62,217,0.11666666666666667,-0.5555555555555556,44.4,Mixed / unclear
+231,Jesse Norman,Conservative,Hereford and South Herefordshire,714,19,135,269,0.02661064425770308,-0.3316831683168317,44.3,Mixed / unclear
+232,Grahame Morris,Labour,Easington,256,3,53,92,0.01171875,-0.2689655172413793,44.0,Mixed / unclear
+233,Gavin Williamson,Conservative,"Stone, Great Wyrley and Penkridge",1477,14,190,324,0.009478672985781991,-0.2607003891050584,44.0,Mixed / unclear
+234,Peter Swallow,Labour,Bracknell,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+235,Peter Prinsley,Labour,Bury St Edmunds and Stowmarket,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+236,Jacob Collier,Labour,Burton and Uttoxeter,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+237,Oliver Ryan,Labour and Co-operative,Burnley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+238,Callum Anderson,Labour,Buckingham and Bletchley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+239,Juliet Campbell,Labour,Broxtowe,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+240,Lewis Cocking,Conservative,Broxbourne,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+241,Bradley Thomas,Conservative,Bromsgrove,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+242,Peter Fortune,Conservative,Bromley and Biggin Hill,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+243,Damien Egan,Labour,Bristol North East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+244,Carla Denyer,Green,Bristol Central,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+245,Blair McDougall,Labour,East Renfrewshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+246,Joani Reid,Labour,East Kilbride and Strathaven,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+247,Yuan Yang,Labour,Earley and Woodley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+248,Deirdre Costigan,Labour,Ealing Southall,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+249,Monica Harding,Liberal Democrat,Esher and Walton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+250,Adam Thompson,Labour,Erewash,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+251,Helen Maguire,Liberal Democrat,Epsom and Ewell,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+252,Charlotte Cane,Liberal Democrat,Ely and East Cambridgeshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+253,Scott Arthur,Labour,Edinburgh South West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+254,Tracy Gilbert,Labour,Edinburgh North and Leith,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+255,Chris Murray,Labour,Edinburgh East and Musselburgh,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+256,Liz Jarvis,Liberal Democrat,Eastleigh,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+257,Andrew Snowden,Conservative,Fylde,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+258,Anna Sabine,Liberal Democrat,Frome and East Somerset,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+259,Matt Bishop,Labour,Forest of Dean,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+260,Tony Vaughan,Labour,Folkestone and Hythe,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+261,Sarah Sackman,Labour,Finchley and Golders Green,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+262,Claire Hazelgrove,Labour,Filton and Bradley Stoke,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+263,Pat Cullen,Sinn Fein,Fermanagh and South Tyrone,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+264,Greg Stafford,Conservative,Farnham and Bordon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+265,Euan Stainbank,Labour,Falkirk,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+266,David Reed,Conservative,Exmouth and Exeter East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+267,Steve Race,Labour,Exeter,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+268,Harriet Cross,Conservative,Gordon and Buchan,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+269,Alex McIntyre,Labour,Gloucester,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+270,Richard Baker,Labour,Glenrothes and Mid Fife,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+271,Sarah Dyke,Liberal Democrat,Glastonbury and Somerton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+272,Patricia Ferguson,Labour,Glasgow West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+273,Zubir Ahmed,Labour,Glasgow South West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+274,Gordon McKee,Labour,Glasgow South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+275,Maureen Burke,Labour,Glasgow North East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+276,Martin Rhodes,Labour,Glasgow North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+277,John Grady,Labour,Glasgow East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+278,Naushabah Khan,Labour,Gillingham and Rainham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+279,Michael Payne,Labour,Gedling,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+280,Mark Ferguson,Labour,Gateshead Central and Whickham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+281,Andy Slaughter,Labour,Hammersmith and Chiswick,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+282,Imogen Walker,Labour,Hamilton and Clyde Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+283,Kate Dearden,Labour and Co-operative,Halifax,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+284,Alex Ballinger,Labour,Halesowen,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+285,Zöe Franklin,Liberal Democrat,Guildford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+286,Rupert Lowe,Reform UK,Great Yarmouth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+287,Lauren Sullivan,Labour,Gravesham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+288,Freddie Van Mierlo,Liberal Democrat,Henley and Thame,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+289,David Pinto-Duschinsky,Labour,Hendon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+290,David Taylor,Labour,Hemel Hempstead,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+291,Lisa Smart,Liberal Democrat,Hazel Grove,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+292,John McDonnell,Labour,Hayes and Harlington,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+293,Helena Dollimore,Labour and Co-operative,Hastings and Rye,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+294,Jonathan Brash,Labour,Hartlepool,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+295,Tom Gordon,Liberal Democrat,Harrogate and Knaresborough,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+296,Victoria Collins,Liberal Democrat,Harpenden and Berkhamsted,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+297,Chris Vince,Labour and Co-operative,Harlow,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+298,Douglas McAllister,Labour,West Dunbartonshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+299,Edward Morello,Liberal Democrat,West Dorset,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+300,Sarah Coombes,Labour,West Bromwich,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+301,Andrew Lewin,Labour,Welwyn Hatfield,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+302,Tessa Munt,Liberal Democrat,Wells and Mendip Hills,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+303,Gen Kitchen,Labour,Wellingborough and Rushden,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+304,Katie Lam,Conservative,Weald of Kent,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+305,Adrian Ramsay,Green,Waveney Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+306,Matt Turmaine,Labour,Watford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+307,Sarah Hall,Labour and Co-operative,Warrington South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+308,Lorraine Beavers,Labour,Blackpool North and Fleetwood,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+309,Adnan Hussain,Independent,Blackburn,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+310,Siân Berry,Green,Brighton Pavilion,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+311,Chris Ward,Labour,Brighton Kemptown and Peacehaven,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+312,Charlie Dewhirst,Conservative,Bridlington and The Wolds,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+313,Ashley Fox,Conservative,Bridgwater,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+314,David Chadwick,Liberal Democrat,"Brecon, Radnor and Cwm Tawe",0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+315,Naz Shah,Labour,Bradford West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+316,Harpreet Uppal,Labour,Huddersfield,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+317,John Milne,Liberal Democrat,Horsham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+318,Richard Foord,Liberal Democrat,Honiton and Sidmouth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+319,Alistair Strathern,Labour,Hitchin,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+320,Jon Pearce,Labour,High Peak,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+321,Elsie Blundell,Labour,Heywood and Middleton North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+322,Joe Morris,Labour,Hexham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+323,Joshua Robert Abraham Dean,Labour,Hertford and Stortford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+324,Rosie Wrighting,Labour,Kettering,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+325,Joe Powell,Labour,Kensington and Bayswater,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+326,Richard Quigley,Labour,Isle of Wight West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+327,Joe Robertson,Conservative,Isle of Wight East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+328,Jack Abbott,Labour and Co-operative,Ipswich,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+329,Angus MacDonald,Liberal Democrat,"Inverness, Skye and West Ross-shire",0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+330,Martin McCluskey,Labour,Inverclyde and Renfrewshire West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+331,Jas Athwal,Labour,Ilford South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+332,Sarah Smith,Labour,Hyndburn,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+333,Ben Obese-Jecty,Conservative,Huntingdon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+334,Mark Sewards,Labour,Leeds South West and Morley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+335,Katie White,Labour,Leeds North West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+336,Sorcha-Lucy Eastwood,Alliance,Lagan Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+337,Anneliese Midgley,Labour,Knowsley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+338,Diana Johnson,Labour,Kingston upon Hull North and Cottingham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+339,Ed Davey,Liberal Democrat,Kingston and Surbiton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+340,Lillian Jones,Labour,Kilmarnock and Loudoun,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+341,Hamish Falconer,Labour,Lincoln,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+342,Dave Robertson,Labour,Lichfield,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+343,Calvin Bailey,Labour,Leyton and Wanstead,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+344,James MacCleary,Liberal Democrat,Lewes,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+345,Shockat Adam,Independent,Leicester South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+346,Shivani Raja,Conservative,Leicester East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+347,Josh Simons,Labour,Makerfield,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+348,Joshua Reynolds,Liberal Democrat,Maidenhead,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+349,Tim Roca,Labour,Macclesfield,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+350,Danny Chambers,Liberal Democrat,Winchester,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+351,Paul Kohler,Liberal Democrat,Wimbledon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+352,Jess Asato,Labour,Lowestoft,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+353,Jeevun Sandher,Labour,Loughborough,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+354,Douglas Alexander,Labour and Co-operative,Lothian East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+355,Josh MacAlister,Labour,Whitehaven and Workington,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+356,Gregor Poynton,Labour,Livingston,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+357,Cathal Mallaghan,Sinn Fein,Mid Ulster,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+358,Alison Bennett,Liberal Democrat,Mid Sussex,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+359,Daniel Aldridge,Labour,Weston-super-Mare,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+360,Peter Bedford,Conservative,Mid Leicestershire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+361,Susan Murray,Liberal Democrat,Mid Dunbartonshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+362,Vikki Slade,Liberal Democrat,Mid Dorset and North Poole,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+363,Jonathan Davies,Labour,Mid Derbyshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+364,Andrew Cooper,Labour,Mid Cheshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+365,Órfhlaith Begley,Sinn Fein,West Tyrone,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+366,Blake Stephenson,Conservative,Mid Bedfordshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+367,Henry Tufnell,Labour,Mid and South Pembrokeshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+368,Warinder Juss,Labour,Wolverhampton West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+369,Sureena Brackenridge,Labour,Wolverhampton North East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+370,Brian Mathew,Liberal Democrat,Melksham and Devizes,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+371,Steve Yemm,Labour,Mansfield,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+372,Clive Jones,Liberal Democrat,Wokingham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+373,Will Forster,Liberal Democrat,Woking,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+374,Torcuil Crichton,Labour,Na h-Eileanan an Iar,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+375,Pamela Nash,Labour,"Motherwell, Wishaw and Carluke",0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+376,Gideon Amos,Liberal Democrat,Taunton and Wellington,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+377,Torsten Bell,Labour,Swansea West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+378,Will Stone,Labour,Swindon North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+379,Jessica Toale,Labour,Bournemouth West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+380,Tom Hayes,Labour,Bournemouth East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+381,Richard Tice,Reform UK,Boston and Skegness,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+382,Charles Maynard,Liberal Democrat,Witney,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+383,Phil Brickell,Labour,Bolton West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+384,Kirith Entwistle,Labour,Bolton North East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+385,Natalie Fleet,Labour,Bolsover,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+386,Alison Griffiths,Conservative,Bognor Regis and Littlehampton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+387,Matthew Patrick,Labour,Wirral West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+388,Nick Timothy,Conservative,West Suffolk,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+389,Ashley Dalton,Labour,West Lancashire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+390,Chris Webb,Labour,Blackpool South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+391,Lizzi Collinge,Labour,Morecambe and Lunesdale,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+392,Graham Leadbitter,Scottish National Party,"Moray West, Nairn and Strathspey",0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+393,Steve Witherden,Labour,Montgomeryshire and Glyndwr,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+394,Catherine Fookes,Labour,Monmouthshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+395,James Asser,Labour,West Ham and Beckton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+396,Chris Curtis,Labour,Milton Keynes North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+397,Emily Darlington,Labour,Milton Keynes Central,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+398,Kirsty McNeill,Labour and Co-operative,Midlothian,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+399,Luke Myer,Labour,Middlesbrough South and East Cleveland,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+400,Ben Maguire,Liberal Democrat,North Cornwall,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+401,Paul Maskey,Sinn Fein,Belfast West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+402,Irene Campbell,Labour,North Ayrshire and Arran,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+403,Jim Allister,Traditional Unionist Voice,North Antrim,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+404,Alan Strickland,Labour,Newton Aycliffe and Spennymoor,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+405,Martin Wrigley,Liberal Democrat,Newton Abbot,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+406,Dáire Hughes,Sinn Fein,Newry and Armagh,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+407,John Finucane,Sinn Fein,Belfast North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+408,Adam Jogee,Labour,Newcastle-under-Lyme,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+409,Liam Conlon,Labour,Beckenham and Penge,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+410,Marsha De Cordova,Labour,Battersea,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+411,Lee Dillon,Liberal Democrat,Newbury,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+412,Rachel Taylor,Labour,North Warwickshire and Bedworth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+413,Sadik Al-Hassan,Labour,North Somerset,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+414,Helen Morgan,Liberal Democrat,North Shropshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+415,David Smith,Labour,North Northumberland,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+416,Steffan Aquarone,Liberal Democrat,North Norfolk,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+417,Ellie Chowns,Green,North Herefordshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+418,Dan Norris,Labour,North East Somerset and Hanham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+419,Chris Hinchliff,Labour,North East Hertfordshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+420,Alex Brewer,Liberal Democrat,North East Hampshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+421,Kirsteen Sullivan,Labour and Co-operative,Bathgate and Linlithgow,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+422,Louise Jones,Labour,North East Derbyshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+423,Luke Akehurst,Labour,North Durham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+424,Alex Easton,Independent,North Down,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+425,Ian Roome,Liberal Democrat,North Devon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+426,Jo White,Labour,Bassetlaw,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+427,Sarah Edwards,Labour,Tamworth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+428,Louie French,Conservative,Old Bexley and Sidcup,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+429,Jodie Gosling,Labour,Nuneaton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+430,Kenneth Stevenson,Labour,Airdrie and Shotts,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+431,Josh Newbury,Labour,Cannock Chase,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+432,Alice Macdonald,Labour and Co-operative,Norwich North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+433,Mike Reader,Labour,Northampton South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+434,Lucy Rigby,Labour,Northampton North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+435,Amanda Hack,Labour,North West Leicestershire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+436,Perran Moon,Labour,Camborne and Redruth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+437,Josh Fenton-Glynn,Labour,Calder Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+438,Sam Carling,Labour,North West Cambridgeshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+439,Fred Thomas,Labour,Plymouth Moor View,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+440,Andrew Pakes,Labour and Co-operative,Peterborough,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+441,Markus Campbell-Savours,Labour,Penrith and Solway,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+442,Marie Tidball,Labour,Penistone and Stocksbridge,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+443,Jonathan Hinder,Labour,Pendle and Clitheroe,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+444,Miatta Fahnbulleh,Labour and Co-operative,Peckham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+445,Johanna Baxter,Labour,Paisley and Renfrewshire South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+446,Alison Taylor,Labour,Paisley and Renfrewshire North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+447,Ann Davies,Plaid Cymru,Caerfyrddin,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+448,Jade Botterill,Labour,Ossett and Denby Dale,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+449,Dan Tomlinson,Labour,Chipping Barnet,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+450,Sarah Gibson,Liberal Democrat,Chippenham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+451,Jess Brown-Fuller,Liberal Democrat,Chichester,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+452,Rebecca Paul,Conservative,Reigate,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+453,Chris Bloore,Labour,Redditch,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+454,Aphra Brandreth,Conservative,Chester South and Eddisbury,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+455,Olivia Bailey,Labour,Reading West and Mid Berkshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+456,Samantha Dixon,Labour,Chester North and Neston,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+457,Sarah Green,Liberal Democrat,Chesham and Amersham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+458,Georgia Gould,Labour,Queen's Park and Maida Vale,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+459,Max Wilkinson,Liberal Democrat,Cheltenham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+460,Luke Murphy,Labour,Basingstoke,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+461,Ben Coleman,Labour,Chelsea and Fulham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+462,Michelle Scrogham,Labour,Barrow and Furness,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+463,Sam Rushworth,Labour,Bishop Auckland,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+464,Al Carns,Labour,Birmingham Selly Oak,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+465,Ayoub Khan,Independent,Birmingham Perry Barr,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+466,Laurence Turner,Labour,Birmingham Northfield,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+467,Marie Goldman,Liberal Democrat,Chelmsford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+468,Tom Morrison,Liberal Democrat,Cheadle,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+469,Paulette Hamilton,Labour,Birmingham Erdington,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+470,Preet Gill,Labour and Co-operative,Birmingham Edgbaston,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+471,Tristan Osborne,Labour,Chatham and Aylesford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+472,Calum Miller,Liberal Democrat,Bicester and Woodstock,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+473,Daniel Francis,Labour,Bexleyheath and Crayford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+474,Patrick Spencer,Conservative,Central Suffolk and North Ipswich,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+475,Amanda Martin,Labour,Portsmouth North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+476,Neil Duncan-Jordan,Labour,Poole,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+477,Michael Shanks,Labour,Rutherglen,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+478,James Naish,Labour,Rushcliffe,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+479,Lee Barron,Labour,Corby and East Northamptonshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+480,John Slinger,Labour,Rugby,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+481,Jake Richards,Labour,Rother Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+482,Andy MacNae,Labour,Rossendale and Darwen,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+483,Sarah Russell,Labour,Congleton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+484,Lauren Edwards,Labour,Rochester and Strood,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+485,Paul Waugh,Labour and Co-operative,Rochdale,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+486,Paul Davies,Labour,Colne Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+487,Maya Ellis,Labour,Ribble Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+488,Pam Cox,Labour,Colchester,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+489,Simon Lightwood,Labour and Co-operative,Wakefield and Rothwell,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+490,Frank McNally,Labour,Coatbridge and Bellshill,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+491,Kanishka Narayan,Labour,Vale of Glamorgan,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+492,Danny Beales,Labour,Uxbridge and South Ruislip,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+493,Gill German,Labour,Clwyd North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+494,Becky Gittins,Labour,Clwyd East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+495,Mike Martin,Liberal Democrat,Tunbridge Wells,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+496,Jayne Kirkham,Labour and Co-operative,Truro and Falmouth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+497,Nigel Farage,Reform UK,Clacton,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+498,Steve Darling,Liberal Democrat,Torbay,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+499,Rachel Blake,Labour and Co-operative,Cities of London and Westminster,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+500,Julia Buckley,Labour,Shrewsbury,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+501,Anna Dixon,Labour,Shipley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+502,Michelle Welsh,Labour,Sherwood Forest,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+503,Iqbal Mohamed,Independent,Dewsbury and Batley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+504,John Whitby,Labour,Derbyshire Dales,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+505,Abtisam Mohamed,Labour,Sheffield Central,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+506,Keir Mather,Labour,Selby,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+507,Baggy Shanker,Labour and Co-operative,Derby South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+508,Alison Hume,Labour,Scarborough and Whitby,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+509,Catherine Atkinson,Labour,Derby North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+510,Jim Dickson,Labour,Dartford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+511,Lola McEvoy,Labour,Darlington,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+512,Anna Gelderd,Labour,South East Cornwall,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+513,Chris Hazzard,Sinn Fein,South Down,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+514,Lloyd Hatton,Labour,South Dorset,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+515,Caroline Voaden,Liberal Democrat,South Devon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+516,Samantha Niblett,Labour,South Derbyshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+517,Roz Savage,Liberal Democrat,South Cotswolds,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+518,Pippa Heylings,Liberal Democrat,South Cambridgeshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+519,James McMurdock,Reform UK,South Basildon and East Thurrock,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+520,Robin Swann,Ulster Unionist Party,South Antrim,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+521,Neil Shastri-Hurst,Conservative,Solihull West and Shirley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+522,Gurinder Josan,Labour,Smethwick,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+523,Margaret Mullane,Labour,Dagenham and Rainham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+524,Katrina Murray,Labour,Cumbernauld and Kirkintilloch,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+525,Kevin McKenna,Labour,Sittingbourne and Sheppey,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+526,Natasha Irons,Labour,Croydon East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+527,David Burton-Sampson,Labour,Southend West and Leigh,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+528,Bayo Alaba,Labour,Southend East and Rochford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+529,Satvir Kaur,Labour,Southampton Test,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+530,Darren Paffey,Labour,Southampton Itchen,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+531,Connor Naismith,Labour,Crewe and Nantwich,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+532,Terry Jermy,Labour,South West Norfolk,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+533,Rebecca Smith,Conservative,South West Devon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+534,Peter Lamb,Labour,Crawley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+535,Emma Foody,Labour and Co-operative,Cramlington and Killingworth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+536,Paul Foster,Labour,South Ribble,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+537,Sarah Bool,Conservative,South Northamptonshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+538,Ben Goldsborough,Labour,South Norfolk,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+539,Chris McDonald,Labour,Stockton North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+540,Chris Kane,Labour,Stirling and Strathallan,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+541,Kevin Bonavia,Labour,Stevenage,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+542,Melanie Ward,Labour,Cowdenbeath and Kirkcaldy,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+543,Leigh Ingham,Labour,Stafford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+544,Ian Sollom,Liberal Democrat,St Neots and Mid Cambridgeshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+545,Andrew George,Liberal Democrat,St Ives,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+546,David Baines,Labour,St Helens North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+547,Noah Law,Labour,St Austell and Newquay,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+548,Liz Saville Roberts,Plaid Cymru,Dwyfor Meirionnydd,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+549,Kim Leadbeater,Labour,Spen Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+550,Lincoln Jopp,Conservative,Spelthorne,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+551,Patrick Hurley,Labour,Southport,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+552,Alex Mayer,Labour,Dunstable and Leighton Buzzard,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+553,Al Pinkerton,Liberal Democrat,Surrey Heath,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+554,Lewis Atkinson,Labour,Sunderland Central,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+555,Jenny Riddell-Carpenter,Labour,Suffolk Coastal,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+556,Simon Opher,Labour,Stroud,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+557,Andrew Western,Labour,Stretford and Urmston,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+558,Manuela Perteghella,Liberal Democrat,Stratford-on-Avon,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+559,Uma Kumaran,Labour,Stratford and Bow,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+560,Graeme Downie,Labour,Dunfermline and Dollar,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+561,Cat Eccles,Labour,Stourbridge,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+562,John Cooper,Conservative,Dumfries and Galloway,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+563,Allison Gardner,Labour,Stoke-on-Trent South,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+564,David Williams,Labour,Stoke-on-Trent North,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+565,Rachel Gilmour,Liberal Democrat,Tiverton and Minehead,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+566,Antonia Bance,Labour,Tipton and Wednesbury,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+567,Jen Craft,Labour,Thurrock,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+568,Claire Young,Liberal Democrat,Thornbury and Yate,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+569,Sonia Kumar,Labour,Dudley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+570,Cameron Thomas,Liberal Democrat,Tewkesbury,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+571,Shaun Davies,Labour,Telford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+572,Luke Charters,Labour,York Outer,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+573,Mike Tapp,Labour,Dover and Deal,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+574,Luke Taylor,Liberal Democrat,Sutton and Cheam,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+575,Connor Rand,Labour,Altrincham and Sale West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+576,Llinos Medi,Plaid Cymru,Ynys Môn,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+577,Adam Dance,Liberal Democrat,Yeovil,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+578,Andrew Ranger,Labour,Wrexham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+579,Beccy Cooper,Labour,Worthing West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+580,Michael Wheeler,Labour,Worsley and Eccles,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+581,Tom Collins,Labour,Worcester,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+582,Chris Coghlan,Liberal Democrat,Dorking and Horley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+583,Lee Pitcher,Labour,Doncaster East and the Isle of Axholme,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+584,Sally Jameson,Labour and Co-operative,Doncaster Central,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+585,Olly Glover,Liberal Democrat,Didcot and Wantage,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+586,Linsey Farnsworth,Labour,Amber Valley,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+587,Brian Leishman,Labour,Alloa and Grangemouth,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+588,Alex Baker,Labour,Aldershot,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+589,Nesil Caliskan,Labour,Barking,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+590,Claire Hughes,Labour,Bangor Aberconwy,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+591,Sean Woodcock,Labour,Banbury,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+592,Elaine Stewart,Labour,"Ayr, Carrick and Cumnock",0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+593,Laura Kyrke-Smith,Labour,Aylesbury,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+594,Josh Babarinde,Liberal Democrat,Eastbourne,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+595,Sojan Joseph,Labour,Ashford,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+596,Seamus Logan,Scottish National Party,Aberdeenshire North and Moray East,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+597,Alan Gemmell,Labour,Central Ayrshire,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+598,Tom Rutland,Labour,East Worthing and Shoreham,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+599,Bobby Dean,Liberal Democrat,Carshalton and Wallington,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+600,Julie Minns,Labour,Carlisle,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+601,Alex Barros-Curtis,Labour,Cardiff West,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+602,Polly Billington,Labour,East Thanet,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+603,Jack Rankin,Conservative,Windsor,0,0,0,0,0.0,0.0,43.8,Mixed / unclear
+604,Gareth Thomas,Labour and Co-operative,Harrow West,259,5,56,109,0.019305019305019305,-0.3212121212121212,43.5,Mixed / unclear
+605,James Cleverly,Conservative,Braintree,546,29,125,366,0.05311355311355311,-0.4908350305498982,42.1,Mixed / unclear
+606,Marie Rimmer,Labour,St Helens South and Whiston,85,1,27,53,0.011764705882352941,-0.325,42.1,Mixed / unclear
+607,Jeremy Hunt,Conservative,Godalming and Ash,1484,17,138,274,0.011455525606469003,-0.3300970873786408,41.8,Mixed / unclear
+608,Karl Turner,Labour,Kingston upon Hull East,120,2,29,61,0.016666666666666666,-0.35555555555555557,41.7,Mixed / unclear
+609,Roger Gale,Conservative,Herne Bay and Sandwich,116,7,17,55,0.0603448275862069,-0.5277777777777778,41.7,Mixed / unclear
+610,David Simmonds,Conservative,"Ruislip, Northwood and Pinner",119,15,34,157,0.12605042016806722,-0.643979057591623,41.6,Mixed / unclear
+611,Edward Argar,Conservative,Melton and Syston,506,9,85,185,0.017786561264822136,-0.37037037037037035,41.5,Mixed / unclear
+612,Fabian Hamilton,Labour,Leeds North East,81,1,38,79,0.012345679012345678,-0.3504273504273504,41.2,Mixed / unclear
+613,Lindsay Hoyle,Speaker,Chorley,2656,22,83,167,0.008283132530120483,-0.336,41.1,Mixed / unclear
+614,Gareth Snell,Labour and Co-operative,Stoke-on-Trent Central,194,5,18,44,0.02577319587628866,-0.41935483870967744,41.1,Mixed / unclear
+615,Simon Hoare,Conservative,North Dorset,409,14,33,88,0.034229828850855744,-0.45454545454545453,40.9,Mixed / unclear
+616,Robert Jenrick,Conservative,Newark,794,9,135,284,0.011335012594458438,-0.3556085918854415,40.9,Mixed / unclear
+617,David Mundell,Conservative,"Dumfriesshire, Clydesdale and Tweeddale",581,38,27,99,0.06540447504302926,-0.5714285714285714,40.9,Mixed / unclear
+618,Harriett Baldwin,Conservative,West Worcestershire,576,23,97,278,0.03993055555555555,-0.4826666666666667,40.8,Mixed / unclear
+619,Jamie Stone,Liberal Democrat,"Caithness, Sutherland and Easter Ross",330,20,21,74,0.06060606060606061,-0.5578947368421052,40.7,Mixed / unclear
+620,Rishi Sunak,Conservative,Richmond and Northallerton,1112,9,239,492,0.008093525179856115,-0.34610123119015046,40.7,Mixed / unclear
+621,Robbie Moore,Conservative,Keighley and Ilkley,97,2,30,72,0.020618556701030927,-0.4117647058823529,40.6,Mixed / unclear
+622,Martin Vickers,Conservative,Brigg and Immingham,353,11,37,99,0.031161473087818695,-0.45588235294117646,40.5,Mixed / unclear
+623,Caroline Dinenage,Conservative,Gosport,678,10,104,241,0.014749262536873156,-0.39710144927536234,40.0,Liberal
+624,Wendy Morton,Conservative,Aldridge-Brownhills,296,10,55,162,0.033783783783783786,-0.4930875576036866,39.5,Liberal
+625,Geoffrey Clifton-Brown,Conservative,North Cotswolds,220,5,30,81,0.022727272727272728,-0.4594594594594595,39.3,Liberal
+626,John Glen,Conservative,Salisbury,392,6,73,180,0.015306122448979591,-0.42292490118577075,39.1,Liberal
+627,Jon Trickett,Labour,Normanton and Hemsworth,44,0,19,25,0.0,-0.13636363636363635,39.0,Liberal
+628,Neil O'Brien,Conservative,"Harborough, Oadby and Wigston",203,14,25,122,0.06896551724137931,-0.6598639455782312,38.0,Liberal
+629,Alberto Costa,Conservative,South Leicestershire,141,5,11,38,0.03546099290780142,-0.5510204081632653,37.8,Liberal
+630,Paul Holmes,Conservative,Hamble Valley,64,3,9,37,0.046875,-0.6086956521739131,37.2,Liberal
+631,Mark Pritchard,Conservative,The Wrekin,121,4,15,53,0.03305785123966942,-0.5588235294117647,37.1,Liberal
+632,Damian Hinds,Conservative,East Hampshire,693,7,46,128,0.010101010101010102,-0.47126436781609193,36.7,Liberal
+633,Stuart Anderson,Conservative,South Shropshire,90,1,11,31,0.011111111111111112,-0.47619047619047616,36.6,Liberal
+634,Esther McVey,Conservative,Tatton,289,1,21,56,0.0034602076124567475,-0.45454545454545453,36.6,Liberal
+635,Steve Barclay,Conservative,North East Cambridgeshire,491,12,51,175,0.024439918533604887,-0.5486725663716814,36.4,Liberal
+636,Jeremy Wright,Conservative,Kenilworth and Southam,464,9,53,174,0.01939655172413793,-0.5330396475770925,36.1,Liberal
+637,James Wild,Conservative,North West Norfolk,47,1,12,42,0.02127659574468085,-0.5555555555555556,35.7,Liberal
+638,Helen Whately,Conservative,Faversham and Mid Kent,511,16,64,260,0.03131115459882583,-0.6049382716049383,35.3,Liberal
+639,Nigel Huddleston,Conservative,Droitwich and Evesham,485,3,53,163,0.006185567010309278,-0.5092592592592593,34.9,Liberal
+640,Nicholas Dakin,Labour,Scunthorpe,240,2,23,73,0.008333333333333333,-0.5208333333333334,34.7,Liberal
+641,Alan Campbell,Labour,Tynemouth,13,4,1,14,0.3076923076923077,-0.8666666666666667,34.6,Liberal
+642,James Frith,Labour,Bury North,50,0,17,30,0.0,-0.2765957446808511,34.1,Liberal
+643,Laura Trott,Conservative,Sevenoaks,79,0,29,52,0.0,-0.2839506172839506,33.8,Liberal
+644,Geoffrey Cox,Conservative,Torridge and Tavistock,358,16,15,98,0.0446927374301676,-0.7345132743362832,32.5,Liberal
+645,Matt Vickers,Conservative,Stockton West,76,1,9,37,0.013157894736842105,-0.6086956521739131,32.3,Liberal
+646,Mims Davies,Conservative,East Grinstead and Uckfield,460,5,38,155,0.010869565217391304,-0.6062176165803109,32.0,Liberal
+647,Gareth Davies,Conservative,Grantham and Bourne,54,0,10,22,0.0,-0.375,30.6,Liberal
+648,Alan Mak,Conservative,Havant,191,1,9,63,0.005235602094240838,-0.75,26.4,Liberal
+649,Luke Evans,Conservative,Hinckley and Bosworth,130,0,10,43,0.0,-0.6226415094339622,22.0,Liberal
+650,Gagan Mohindra,Conservative,South West Hertfordshire,64,0,8,41,0.0,-0.673469387755102,20.2,Liberal

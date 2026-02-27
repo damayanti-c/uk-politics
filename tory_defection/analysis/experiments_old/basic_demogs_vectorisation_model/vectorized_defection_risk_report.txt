@@ -1,0 +1,440 @@
+================================================================================
+VECTORIZED TORY MP DEFECTION RISK REPORT
+Generated: 2026-01-15 23:29
+================================================================================
+
+METHODOLOGY - ENHANCED WITH SEMANTIC VECTORIZATION
+--------------------------------------------------------------------------------
+Risk Score Composition (updated model):
+
+  1. SPEECH ANALYSIS (40% weight) - ENHANCED WITH VECTORIZATION
+     - Reform UK rhetoric alignment via semantic similarity (35% of speech)
+     - Radicalization trajectory over time (25% of speech)
+     - Hardline vs compassionate language ratio (20% of speech)
+     - Extremism percentile ranking (15% of speech)
+     - Speech volume/engagement (5% of speech)
+     Method: Sentence transformers (all-MiniLM-L6-v2) measure cosine
+             similarity to Reform UK immigration talking points
+
+  2. VOTING REBELLION (30% weight)
+     - Overall rebellion rate vs party (70% of voting = 21% total)
+     - Rwanda Bill rebellion/abstention (30% of voting = 9% total)
+
+  3. CONSTITUENCY RISK (20% weight)
+     - Reform UK vote share 2024 (50% of constituency = 10% total)
+     - Majority size vulnerability (30% of constituency = 6% total)
+     - Conservative vote weakness (20% of constituency = 4% total)
+
+  4. DEMOGRAPHICS (10% weight)
+     - Gender (50% of demographics = 5% total)
+     - Parliamentary tenure (30% of demographics = 3% total)
+     - Age (20% of demographics = 2% total)
+
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total Conservative MPs analyzed: 118
+
+Risk distribution:
+  Very High: 0 MPs (0.0%)
+  High: 0 MPs (0.0%)
+  Medium: 52 MPs (44.1%)
+  Low: 66 MPs (55.9%)
+
+Comparison to keyword-based model:
+  Average score change: +0.042
+  Largest increase: +0.177
+  MPs with higher risk (+0.1): 19
+
+================================================================================
+
+TOP 25 MPS AT HIGHEST DEFECTION RISK (VECTORIZED MODEL)
+--------------------------------------------------------------------------------
+
+
+ 1. Rishi Sunak (Richmond and Northallerton)
+    Vectorized Risk Score: 0.412 (Medium)
+    Change from keyword model: -0.031
+    Breakdown:
+      - Speech (40%): 0.095
+      - Voting (30%): 0.210
+      - Constituency (20%): 0.049
+      - Demographics (10%): 0.058
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.141
+      - Radicalization trajectory: -0.0108 per quarter
+      - Extremism percentile: 47.9%
+      - Rebellion rate: 40.0%
+      - Constituency Reform vote: 14.7%
+
+ 2. David Davis (Goole and Pocklington)
+    Vectorized Risk Score: 0.410 (Medium)
+    Change from keyword model: +0.128
+    Breakdown:
+      - Speech (40%): 0.163
+      - Voting (30%): 0.080
+      - Constituency (20%): 0.101
+      - Demographics (10%): 0.067
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.281
+      - Radicalization trajectory: -0.0130 per quarter
+      - Extremism percentile: 92.3%
+      - Rebellion rate: 3.8%
+      - Constituency Reform vote: 18.2%
+
+ 3. Martin Vickers (Brigg and Immingham)
+    Vectorized Risk Score: 0.386 (Medium)
+    Change from keyword model: +0.148
+    Breakdown:
+      - Speech (40%): 0.169
+      - Voting (30%): 0.029
+      - Constituency (20%): 0.123
+      - Demographics (10%): 0.064
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.283
+      - Radicalization trajectory: -0.0089 per quarter
+      - Extremism percentile: 94.0%
+      - Rebellion rate: 1.4%
+      - Constituency Reform vote: 24.9%
+
+ 4. Joe Robertson (Isle of Wight East)
+    Vectorized Risk Score: 0.381 (Medium)
+    Change from keyword model: +0.177
+    Breakdown:
+      - Speech (40%): 0.194
+      - Voting (30%): 0.029
+      - Constituency (20%): 0.110
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.298
+      - Radicalization trajectory: +0.0344 per quarter
+      - Extremism percentile: 96.6%
+      - Rebellion rate: 1.4%
+      - Constituency Reform vote: 20.9%
+
+ 5. Lewis Cocking (Broxbourne)
+    Vectorized Risk Score: 0.376 (Medium)
+    Change from keyword model: +0.148
+    Breakdown:
+      - Speech (40%): 0.202
+      - Voting (30%): 0.015
+      - Constituency (20%): 0.111
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.286
+      - Radicalization trajectory: +0.0292 per quarter
+      - Extremism percentile: 94.9%
+      - Rebellion rate: 0.7%
+      - Constituency Reform vote: 20.4%
+
+ 6. Suella Braverman (Fareham and Waterlooville)
+    Vectorized Risk Score: 0.369 (Medium)
+    Change from keyword model: -0.113
+    Breakdown:
+      - Speech (40%): 0.152
+      - Voting (30%): 0.090
+      - Constituency (20%): 0.089
+      - Demographics (10%): 0.038
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.245
+      - Radicalization trajectory: -0.0249 per quarter
+      - Extremism percentile: 84.6%
+      - Constituency Reform vote: 18.1%
+
+ 7. Steve Barclay (North East Cambridgeshire)
+    Vectorized Risk Score: 0.343 (Medium)
+    Change from keyword model: +0.135
+    Breakdown:
+      - Speech (40%): 0.161
+      - Voting (30%): 0.036
+      - Constituency (20%): 0.082
+      - Demographics (10%): 0.064
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.323
+      - Radicalization trajectory: -0.0019 per quarter
+      - Extremism percentile: 97.4%
+      - Rebellion rate: 1.7%
+      - Constituency Reform vote: 23.1%
+
+ 8. Mark Pritchard (The Wrekin)
+    Vectorized Risk Score: 0.340 (Medium)
+    Change from keyword model: +0.109
+    Breakdown:
+      - Speech (40%): 0.142
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.128
+      - Demographics (10%): 0.070
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.187
+      - Radicalization trajectory: +0.0113 per quarter
+      - Extremism percentile: 67.5%
+      - Constituency Reform vote: 19.8%
+
+ 9. Laura Trott (Sevenoaks)
+    Vectorized Risk Score: 0.339 (Medium)
+    Change from keyword model: +0.158
+    Breakdown:
+      - Speech (40%): 0.191
+      - Voting (30%): 0.021
+      - Constituency (20%): 0.093
+      - Demographics (10%): 0.033
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.571
+      - Radicalization trajectory: -0.0025 per quarter
+      - Extremism percentile: 99.1%
+      - Rebellion rate: 1.0%
+      - Constituency Reform vote: 18.7%
+
+10. Nick Timothy (West Suffolk)
+    Vectorized Risk Score: 0.328 (Medium)
+    Change from keyword model: +0.043
+    Breakdown:
+      - Speech (40%): 0.154
+      - Voting (30%): 0.013
+      - Constituency (20%): 0.114
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.216
+      - Radicalization trajectory: -0.0254 per quarter
+      - Extremism percentile: 76.9%
+      - Rebellion rate: 0.6%
+      - Constituency Reform vote: 20.9%
+
+11. Dr Caroline Johnson (Sleaford and North Hykeham)
+    Vectorized Risk Score: 0.325 (Medium)
+    Change from keyword model: +0.080
+    Breakdown:
+      - Speech (40%): 0.145
+      - Voting (30%): 0.034
+      - Constituency (20%): 0.109
+      - Demographics (10%): 0.037
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.198
+      - Radicalization trajectory: +0.0038 per quarter
+      - Extremism percentile: 70.1%
+      - Rebellion rate: 1.6%
+      - Constituency Reform vote: 21.6%
+
+12. Alex Burghart (Brentwood and Ongar)
+    Vectorized Risk Score: 0.318 (Medium)
+    Change from keyword model: +0.118
+    Breakdown:
+      - Speech (40%): 0.155
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.107
+      - Demographics (10%): 0.056
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.254
+      - Radicalization trajectory: +0.0010 per quarter
+      - Extremism percentile: 87.2%
+      - Constituency Reform vote: 24.3%
+
+13. Ben Obese-Jecty (Huntingdon)
+    Vectorized Risk Score: 0.313 (Medium)
+    Change from keyword model: +0.080
+    Breakdown:
+      - Speech (40%): 0.144
+      - Voting (30%): 0.015
+      - Constituency (20%): 0.108
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.191
+      - Radicalization trajectory: +0.0095 per quarter
+      - Extremism percentile: 68.4%
+      - Rebellion rate: 0.7%
+      - Constituency Reform vote: 15.4%
+
+14. Andrew Rosindell (Romford)
+    Vectorized Risk Score: 0.312 (Medium)
+    Change from keyword model: +0.075
+    Breakdown:
+      - Speech (40%): 0.109
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.128
+      - Demographics (10%): 0.075
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.117
+      - Radicalization trajectory: -0.0028 per quarter
+      - Extremism percentile: 40.2%
+      - Constituency Reform vote: 21.9%
+
+15. Julia Lopez (Hornchurch and Upminster)
+    Vectorized Risk Score: 0.312 (Medium)
+    Change from keyword model: +0.066
+    Breakdown:
+      - Speech (40%): 0.126
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.150
+      - Demographics (10%): 0.036
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.158
+      - Radicalization trajectory: +0.0200 per quarter
+      - Extremism percentile: 58.1%
+      - Constituency Reform vote: 28.4%
+
+16. Bradley Thomas (Bromsgrove)
+    Vectorized Risk Score: 0.311 (Medium)
+    Change from keyword model: +0.108
+    Breakdown:
+      - Speech (40%): 0.151
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.113
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.251
+      - Radicalization trajectory: +0.0066 per quarter
+      - Extremism percentile: 86.3%
+      - Constituency Reform vote: 19.0%
+
+17. Chris Philp (Croydon South)
+    Vectorized Risk Score: 0.311 (Medium)
+    Change from keyword model: -0.027
+    Breakdown:
+      - Speech (40%): 0.128
+      - Voting (30%): 0.050
+      - Constituency (20%): 0.074
+      - Demographics (10%): 0.058
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.098
+      - Radicalization trajectory: +0.0182 per quarter
+      - Extremism percentile: 32.5%
+      - Rebellion rate: 2.4%
+      - Constituency Reform vote: 8.4%
+
+18. Gregory Stafford (Farnham and Bordon)
+    Vectorized Risk Score: 0.310 (Medium)
+    Change from keyword model: +0.136
+    Breakdown:
+      - Speech (40%): 0.167
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.096
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.262
+      - Radicalization trajectory: -0.0474 per quarter
+      - Extremism percentile: 90.6%
+      - Constituency Reform vote: 11.7%
+
+19. Simon Hoare (North Dorset)
+    Vectorized Risk Score: 0.308 (Medium)
+    Change from keyword model: +0.045
+    Breakdown:
+      - Speech (40%): 0.073
+      - Voting (30%): 0.069
+      - Constituency (20%): 0.107
+      - Demographics (10%): 0.058
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.078
+      - Radicalization trajectory: -0.0006 per quarter
+      - Extremism percentile: 23.1%
+      - Rebellion rate: 3.3%
+      - Constituency Reform vote: 15.9%
+
+20. James Cartlidge (South Suffolk)
+    Vectorized Risk Score: 0.307 (Medium)
+    Change from keyword model: +0.058
+    Breakdown:
+      - Speech (40%): 0.093
+      - Voting (30%): 0.044
+      - Constituency (20%): 0.112
+      - Demographics (10%): 0.058
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.067
+      - Radicalization trajectory: +0.0053 per quarter
+      - Extremism percentile: 20.5%
+      - Rebellion rate: 2.1%
+      - Constituency Reform vote: 19.0%
+
+21. Matt Vickers (Stockton West)
+    Vectorized Risk Score: 0.307 (Medium)
+    Change from keyword model: +0.115
+    Breakdown:
+      - Speech (40%): 0.160
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.094
+      - Demographics (10%): 0.053
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.250
+      - Radicalization trajectory: +0.0062 per quarter
+      - Extremism percentile: 85.5%
+      - Constituency Reform vote: 14.1%
+
+22. Peter Fortune (Bromley and Biggin Hill)
+    Vectorized Risk Score: 0.305 (Medium)
+    Change from keyword model: +0.090
+    Breakdown:
+      - Speech (40%): 0.106
+      - Voting (30%): 0.029
+      - Constituency (20%): 0.122
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.149
+      - Radicalization trajectory: -0.0213 per quarter
+      - Extremism percentile: 49.6%
+      - Rebellion rate: 1.4%
+      - Constituency Reform vote: 17.5%
+
+23. Gareth Bacon (Orpington)
+    Vectorized Risk Score: 0.303 (Medium)
+    Change from keyword model: +0.125
+    Breakdown:
+      - Speech (40%): 0.157
+      - Voting (30%): 0.000
+      - Constituency (20%): 0.093
+      - Demographics (10%): 0.053
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.219
+      - Radicalization trajectory: -0.0001 per quarter
+      - Extremism percentile: 78.6%
+      - Constituency Reform vote: 19.3%
+
+24. Mark Garnier (Wyre Forest)
+    Vectorized Risk Score: 0.303 (Medium)
+    Change from keyword model: +0.033
+    Breakdown:
+      - Speech (40%): 0.058
+      - Voting (30%): 0.046
+      - Constituency (20%): 0.134
+      - Demographics (10%): 0.064
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.000
+      - Extremism percentile: 0.0%
+      - Rebellion rate: 2.2%
+      - Constituency Reform vote: 21.4%
+
+25. Blake Stephenson (Mid Bedfordshire)
+    Vectorized Risk Score: 0.294 (Medium)
+    Change from keyword model: +0.096
+    Breakdown:
+      - Speech (40%): 0.117
+      - Voting (30%): 0.015
+      - Constituency (20%): 0.116
+      - Demographics (10%): 0.047
+    Speech Analysis Details:
+      - Reform rhetoric alignment: 0.121
+      - Radicalization trajectory: -0.0076 per quarter
+      - Extremism percentile: 41.9%
+      - Rebellion rate: 0.7%
+      - Constituency Reform vote: 17.3%
+
+================================================================================
+
+KEY FINDINGS
+--------------------------------------------------------------------------------
+
+MPs with LARGEST RISK INCREASE from vectorization:
+  - Joe Robertson: +0.177 (now 0.381)
+  - Laura Trott: +0.158 (now 0.339)
+  - Lewis Cocking: +0.148 (now 0.376)
+  - Martin Vickers: +0.148 (now 0.386)
+  - Jack Rankin: +0.148 (now 0.256)
+  - Gregory Stafford: +0.136 (now 0.310)
+  - Steve Barclay: +0.135 (now 0.343)
+  - David Davis: +0.128 (now 0.410)
+  - Gareth Bacon: +0.125 (now 0.303)
+  - Alex Burghart: +0.118 (now 0.318)
+
+================================================================================
+END OF REPORT
+================================================================================

@@ -1,0 +1,301 @@
+================================================================================
+CONSERVATIVE MP DEFECTION RISK ASSESSMENT
+Current Sitting MPs - Predicted by Trained Model (v1.0)
+================================================================================
+
+Analysis Date: 2026-01-18 23:20
+Total MPs Analyzed: 117
+Model: Logistic Regression (C=1.0, L2 regularization)
+Training Performance: 97.8% Cross-Validated AUC
+Training Data: 19 historical defections (Jan 2024 - Jan 2026)
+
+================================================================================
+RISK DISTRIBUTION
+================================================================================
+
+  Very High Risk (80-100%): 0 MPs
+  High Risk (60-80%):       1 MPs
+  Medium Risk (40-60%):     3 MPs
+  Low Risk (0-40%):         113 MPs
+
+================================================================================
+TOP 30 HIGHEST DEFECTION RISK - CURRENT CONSERVATIVE MPs
+================================================================================
+
+Based on trained model with 84.2% recall in top 20 (historical validation)
+
+Rank #1   | Robert Jenrick                     
+  Defection Risk: 74.27%
+  Reform Alignment (normalized): 0.0198
+  Immigration Focus: 13.7% of speeches
+  Status: Minister
+  Age: 44 years
+  Total Speeches: 918
+
+Rank #2   | Rebecca Harris                     
+  Defection Risk: 51.93%
+  Reform Alignment (normalized): 0.0086
+  Immigration Focus: 7.1% of speeches
+  Status: Backbencher
+  Age: 58 years
+  Total Speeches: 3
+
+Rank #3   | Andrew Snowden                     
+  Defection Risk: 46.05%
+  Reform Alignment (normalized): 0.0112
+  Immigration Focus: 6.6% of speeches
+  Status: Backbencher
+  Total Speeches: 87
+
+Rank #4   | Suella Braverman                   
+  Defection Risk: 41.32%
+  Reform Alignment (normalized): 0.0164
+  Immigration Focus: 12.3% of speeches
+  Status: Minister
+  Age: 46 years
+  Total Speeches: 808
+
+Rank #5   | Ben Spencer                        
+  Defection Risk: 29.66%
+  Reform Alignment (normalized): 0.0059
+  Immigration Focus: 3.2% of speeches
+  Status: Backbencher
+  Total Speeches: 207
+
+Rank #6   | Geoffrey Cox                       
+  Defection Risk: 28.13%
+  Reform Alignment (normalized): 0.0063
+  Immigration Focus: 6.0% of speeches
+  Status: Backbencher
+  Total Speeches: 32
+
+Rank #7   | David Simmonds                     
+  Defection Risk: 26.05%
+  Reform Alignment (normalized): 0.0050
+  Immigration Focus: 4.6% of speeches
+  Status: Backbencher
+  Age: 50 years
+  Total Speeches: 262
+
+Rank #8   | Nick Timothy                       
+  Defection Risk: 21.96%
+  Reform Alignment (normalized): 0.0088
+  Immigration Focus: 6.8% of speeches
+  Status: Backbencher
+  Age: 46 years
+  Total Speeches: 204
+
+Rank #9   | Bradley Thomas                     
+  Defection Risk: 20.96%
+  Reform Alignment (normalized): 0.0039
+  Immigration Focus: 2.4% of speeches
+  Status: Backbencher
+  Total Speeches: 186
+
+Rank #10  | Danny Kruger                       
+  Defection Risk: 19.98%
+  Reform Alignment (normalized): 0.0043
+  Immigration Focus: 2.7% of speeches
+  Status: Backbencher
+  Age: 51 years
+  Total Speeches: 247
+
+Rank #11  | Katie Lam                          
+  Defection Risk: 19.60%
+  Reform Alignment (normalized): 0.0148
+  Immigration Focus: 9.8% of speeches
+  Status: Backbencher
+  Age: 34 years
+  Total Speeches: 62
+
+Rank #12  | Peter Bedford                      
+  Defection Risk: 18.86%
+  Reform Alignment (normalized): 0.0023
+  Immigration Focus: 1.3% of speeches
+  Status: Backbencher
+  Total Speeches: 95
+
+Rank #13  | Priti Patel                        
+  Defection Risk: 17.12%
+  Reform Alignment (normalized): 0.0046
+  Immigration Focus: 4.0% of speeches
+  Status: Minister
+  Age: 54 years
+  Total Speeches: 643
+
+Rank #14  | John Hayes                         
+  Defection Risk: 16.21%
+  Reform Alignment (normalized): 0.0063
+  Immigration Focus: 3.7% of speeches
+  Status: Minister
+  Total Speeches: 582
+
+Rank #15  | Mark Pritchard                     
+  Defection Risk: 15.63%
+  Reform Alignment (normalized): 0.0018
+  Immigration Focus: 1.6% of speeches
+  Status: Backbencher
+  Age: 59 years
+  Total Speeches: 164
+
+Rank #16  | Ashley Fox                         
+  Defection Risk: 15.18%
+  Reform Alignment (normalized): 0.0034
+  Immigration Focus: 2.2% of speeches
+  Status: Backbencher
+  Total Speeches: 208
+
+Rank #17  | Luke Evans                         
+  Defection Risk: 13.80%
+  Reform Alignment (normalized): 0.0010
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+  Total Speeches: 673
+
+Rank #18  | Edward Leigh                       
+  Defection Risk: 12.14%
+  Reform Alignment (normalized): 0.0086
+  Immigration Focus: 5.9% of speeches
+  Status: Minister
+  Total Speeches: 451
+
+Rank #19  | Lincoln Jopp                       
+  Defection Risk: 11.86%
+  Reform Alignment (normalized): 0.0008
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+  Age: 58 years
+  Total Speeches: 202
+
+Rank #20  | Jerome Mayhew                      
+  Defection Risk: 11.65%
+  Reform Alignment (normalized): 0.0009
+  Immigration Focus: 1.8% of speeches
+  Status: Backbencher
+  Age: 56 years
+  Total Speeches: 427
+
+Rank #21  | Geoffrey Clifton-Brown             
+  Defection Risk: 11.60%
+  Reform Alignment (normalized): 0.0012
+  Immigration Focus: 0.7% of speeches
+  Status: Backbencher
+  Total Speeches: 157
+
+Rank #22  | Kieran Mullan                      
+  Defection Risk: 10.81%
+  Reform Alignment (normalized): 0.0014
+  Immigration Focus: 1.2% of speeches
+  Status: Backbencher
+  Total Speeches: 250
+
+Rank #23  | Rebecca Smith                      
+  Defection Risk: 10.77%
+  Reform Alignment (normalized): 0.0017
+  Immigration Focus: 1.3% of speeches
+  Status: Backbencher
+  Total Speeches: 146
+
+Rank #24  | Caroline Nokes                     
+  Defection Risk: 10.31%
+  Reform Alignment (normalized): 0.0003
+  Immigration Focus: 0.3% of speeches
+  Status: Minister
+  Age: 54 years
+  Total Speeches: 1260
+
+Rank #25  | Martin Vickers                     
+  Defection Risk: 8.77%
+  Reform Alignment (normalized): 0.0002
+  Immigration Focus: 0.2% of speeches
+  Status: Backbencher
+  Age: 75 years
+  Total Speeches: 264
+
+Rank #26  | Ben Obese-Jecty                    
+  Defection Risk: 8.68%
+  Reform Alignment (normalized): 0.0024
+  Immigration Focus: 2.2% of speeches
+  Status: Backbencher
+  Age: 46 years
+  Total Speeches: 237
+
+Rank #27  | Lewis Cocking                      
+  Defection Risk: 8.37%
+  Reform Alignment (normalized): 0.0071
+  Immigration Focus: 4.1% of speeches
+  Status: Backbencher
+  Age: 34 years
+  Total Speeches: 119
+
+Rank #28  | Steve Barclay                      
+  Defection Risk: 7.90%
+  Reform Alignment (normalized): 0.0007
+  Immigration Focus: 0.3% of speeches
+  Status: Minister
+  Age: 54 years
+  Total Speeches: 853
+
+Rank #29  | Matt Vickers                       
+  Defection Risk: 7.74%
+  Reform Alignment (normalized): 0.0040
+  Immigration Focus: 2.5% of speeches
+  Status: Backbencher
+  Age: 42 years
+  Total Speeches: 162
+
+Rank #30  | Chris Philp                        
+  Defection Risk: 7.69%
+  Reform Alignment (normalized): 0.0031
+  Immigration Focus: 5.0% of speeches
+  Status: Minister
+  Age: 50 years
+  Total Speeches: 869
+
+================================================================================
+INTERPRETATION NOTES
+================================================================================
+
+Red Flags for Elevated Risk:
+  - Top 20 predicted probability (historical recall: 84.2%)
+  - High normalized Reform alignment (>0.01)
+  - High immigration focus (>10% of speeches)
+  - Backbencher or long career stagnation
+  - Not near retirement age
+
+Protective Factors:
+  - Current or former minister (strong protective effect)
+  - Near retirement age (55-70 score > 0.5)
+  - Low immigration focus (<5% of speeches)
+  - Stable/moderate rhetoric over time
+
+Model Cannot Capture:
+  - Private discussions with Reform UK leadership
+  - Personal scandals or controversies
+  - Constituency-specific Reform UK pressure
+  - Family or health considerations
+  - Recent specific policy disagreements
+
+Recommendation: Use as first-pass filter for top 20-50 MPs,
+then apply qualitative analysis and local intelligence.
+
+================================================================================
+MODEL STATISTICS
+================================================================================
+
+Training Performance:
+  - Cross-Validated AUC: 97.8% ± 1.6%
+  - Recall @ Top 20: 84.2% (16 of 19 historical defectors)
+  - Training Sample: 542 historical Conservative MPs
+  - Ground Truth: 19 confirmed defections (Best for Britain)
+
+Feature Importance (Top 5):
+  1. Years as MP (29.6% weight)
+  2. Backbench years (27.9% weight)
+  3. Ever minister (5.5% weight - protective)
+  4. Immigration focus (5.1% weight)
+  5. Retirement proximity (5.1% weight - protective)
+
+Volume Normalization Applied:
+  Speech metrics normalized to account for speech frequency
+  Prevents high-volume speakers (e.g., PM) from false positives
