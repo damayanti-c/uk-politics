@@ -67,3 +67,8 @@ We compare models using cross-validated AUC on the training data. Given a range 
     - `test_results/` (model output CSVs)
 
 
+## Prerequisite Runtime Note
+- Hansard data is loaded from Snowflake by default (`HANSARD_SOURCE=snowflake`) via `GOOGLE_AI_EIR.SPEECH_ANALYSIS.HANSARD`; the local `all_speeches_extended.csv` is not required for normal runs.
+- Run this pipeline in an environment with `snowflake_tools` and valid Snowflake credentials (for this repo: `snowflake_env`).
+- If a local CSV is needed, regenerate it with:
+  `conda run -n snowflake_env python tory_defection/source_data/hansard/build_all_speeches_extended_from_snowflake.py --overwrite`
