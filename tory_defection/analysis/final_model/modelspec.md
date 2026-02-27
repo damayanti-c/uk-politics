@@ -50,7 +50,7 @@ We compare models using cross-validated AUC on the training data. Given a range 
     - `fetch_ministerial_tenure.py`: historical ministerial tenure data.
     - `fetch_ministerial_tenure_sitting_mps.py`: current ministerial tenure data.
   - `elections/`: 2019 and 2024 election results used to define training/test MP cohorts.
-  - `hansard/`: raw Hansard debate XML used for speech feature extraction.
+  - `hansard/`: speech data comes from `GOOGLE_AI_EIR.SPEECH_ANALYSIS.HANSARD` by default (`HANSARD_SOURCE=snowflake`). If a local CSV is needed, regenerate it with `tory_defection/source_data/hansard/build_all_speeches_extended_from_snowflake.py` (run: `conda run -n snowflake_env python tory_defection/source_data/hansard/build_all_speeches_extended_from_snowflake.py --overwrite`).
   - `mp_careers/`: fetch scripts and data inputs for demographics/tenure/ministerial data.
 - `marketing/tory_defection/analysis/final_model/`
   - `faction_membership_data.py`: desk-research faction flags and weights.

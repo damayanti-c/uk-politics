@@ -18,6 +18,7 @@ warnings.filterwarnings('ignore')
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy import stats
+from hansard_data_source import load_hansard_dataframe
 
 # =============================================================================
 # PATHS
@@ -222,9 +223,9 @@ def main():
     mp_names = set(test_data['name'].values)
     print(f"  {len(mp_names)} MPs in test data")
 
-    # Load ALL Hansard speeches (for TF-IDF fitting)
-    print("\nLoading ALL Hansard speeches...")
-    all_speeches_df = pd.read_csv(hansard_csv)
+    # Load Hansard speeches (local CSV or Snowflake, based on env)
+    print("\nLoading Hansard speeches...")
+    all_speeches_df = load_hansard_dataframe(default_local_csv_path=hansard_csv)
     print(f"  {len(all_speeches_df)} total speeches in Hansard")
 
     # Initialize TF-IDF

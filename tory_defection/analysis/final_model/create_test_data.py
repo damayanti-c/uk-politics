@@ -63,7 +63,7 @@ def parse_highest_ministerial_rank(positions):
         return 0
     roles = [r.strip().upper() for r in str(positions).split(';')]
     max_rank = 0
-        for role in roles:
+    for role in roles:
         # check for actual Prime Minister (starts with "Prime Minister")
         if role.startswith('PRIME MINISTER'):
             return 5
@@ -113,15 +113,23 @@ test_data['membership_end'] = test_data['membership_end'].dt.strftime('%Y-%m-%d'
 test_data['final_post_end_date'] = test_data['final_post_end_date'].dt.strftime('%Y-%m-%d')
 
 # merge speech analysis features
-speech_features = pd.read_csv(Path(__file__).parent / "test_speech_features.csv")
-test_data = test_data.merge(
-    speech_features[[
-        'name', 'total_speeches', 'immigration_speeches', 'immigration_speech_proportion',
-        'reform_alignment', 'hardline_ratio', 'radicalization_slope', 'trend_strength',
-        'current_alignment', 'starting_alignment', 'alignment_change', 'extremism_percentile'
-    ]],
-    on='name', how='left'
-)
+speech_feature_cols = [
+    'name', 'total_speeches', 'immigration_speeches', 'immigration_speech_proportion',
+    'reform_alignment', 'hardline_ratio', 'radicalization_slope', 'trend_strength',
+    'current_alignment', 'starting_alignment', 'alignment_change', 'extremism_percentile'
+]
+speech_features_path = Path(__file__).parent / "test_speech_features.csv"
+if speech_features_path.exists():
+    speech_features = pd.read_csv(speech_features_path)
+    test_data = test_data.merge(
+        speech_features[speech_feature_cols],
+        on='name', how='left'
+    )
+else:
+    print("test_speech_features.csv not found; bootstrapping with zeroed speech features.")
+    for col in speech_feature_cols:
+        if col != "name":
+            test_data[col] = 0.0
 
 # =============================================================================
 # INTERACTION FEATURES
@@ -221,7 +229,6 @@ print(f"    Party leaders: {test_data['is_party_leader'].sum():.0f}")
 # according to our theory of change
 
 # Career stagnation: never made minister or career has slowed down since getting a ministerial role
-training_data['career_stagnation'] = (
 test_data['career_stagnation'] = (
     (test_data['ever_minister'] == 0) |
     (test_data['sidelined_minister_years'] >= 2)

@@ -112,15 +112,23 @@ training_data['membership_end'] = training_data['membership_end'].dt.strftime('%
 training_data['final_post_end_date'] = training_data['final_post_end_date'].dt.strftime('%Y-%m-%d')
 
 # merge speech analysis features
-speech_features = pd.read_csv(Path(__file__).parent / "training_speech_features.csv")
-training_data = training_data.merge(
-    speech_features[[
-        'name', 'total_speeches', 'immigration_speeches', 'immigration_speech_proportion',
-        'reform_alignment', 'hardline_ratio', 'radicalization_slope', 'trend_strength',
-        'current_alignment', 'starting_alignment', 'alignment_change', 'extremism_percentile'
-    ]],
-    on='name', how='left'
-)
+speech_feature_cols = [
+    'name', 'total_speeches', 'immigration_speeches', 'immigration_speech_proportion',
+    'reform_alignment', 'hardline_ratio', 'radicalization_slope', 'trend_strength',
+    'current_alignment', 'starting_alignment', 'alignment_change', 'extremism_percentile'
+]
+speech_features_path = Path(__file__).parent / "training_speech_features.csv"
+if speech_features_path.exists():
+    speech_features = pd.read_csv(speech_features_path)
+    training_data = training_data.merge(
+        speech_features[speech_feature_cols],
+        on='name', how='left'
+    )
+else:
+    print("training_speech_features.csv not found; bootstrapping with zeroed speech features.")
+    for col in speech_feature_cols:
+        if col != "name":
+            training_data[col] = 0.0
 
 # merge defection data (binary target variable)
 defections = pd.read_csv(base_dir / "source_data" / "defection_tracker" / "training_defections.csv")
