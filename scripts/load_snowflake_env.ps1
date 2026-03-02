@@ -1,5 +1,5 @@
 param(
-    [string]$EnvFilePath = "..\\..\\economics-module\\secrets\\snowflake\\.env"
+    [string]$EnvFilePath = "..\\..\\economics-module\\credentials\\snowflake\\.env"
 )
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
