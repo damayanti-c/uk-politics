@@ -1,0 +1,43 @@
+DEMOGRAPHIC_TYPE,DEMOGRAPHIC_VALUE,LABEL,FIRST_LEAD,LAST_LEAD,DELTA_LEAD
+past_vote,Sinn Fein,Past Vote: Sinn Fein,-16.891936308427884,0.0,16.891936308427884
+age_band,Under 18,Age Band: Under 18,7.5574265090306145,19.043535867483367,11.486109358452753
+past_vote,Can't remember,Past Vote: Can't remember,0.0,7.717032174930408,7.717032174930408
+education_level,Other qualification (please specify),Education Level: Other qualification (please specify),-6.590534007513314,-1.6222966692233705,4.968237338289944
+education_level,"GCSEs or equivalent (e.g. O Levels, NVQ Level 1 or 2, BTEC First)","Education Level: GCSEs or equivalent (e.g. O Levels, NVQ Level 1 or 2, BTEC First)",-22.58345468934983,-20.308637423523216,2.274817265826613
+education_level,"A Levels or equivalent (e.g. BTEC National, NVQ Level 3)","Education Level: A Levels or equivalent (e.g. BTEC National, NVQ Level 3)",-11.865665089449752,-10.09613162452345,1.7695334649263028
+education_level,"Higher education qualification below degree level (e.g. HNC, HND, Foundation Degree)","Education Level: Higher education qualification below degree level (e.g. HNC, HND, Foundation Degree)",-10.672836826330848,-9.878388023442408,0.7944488028884393
+past_vote,Plaid Cymru,Past Vote: Plaid Cymru,0.0,0.0,0.0
+ethnicity,Black,Ethnicity: Black,38.98986874295518,37.5325645221567,-1.457304220798484
+ethnicity,White,Ethnicity: White,-7.800390576348093,-9.370844026170026,-1.5704534498219331
+past_vote,Other,Past Vote: Other,-5.2631578947368425,-7.309705503697909,-2.046547608961067
+past_vote,Green Party,Past Vote: Green Party,0.970873786407767,-1.207867334124546,-2.178741120532313
+education_level,"Higher-level professional qualification beyond a degree (e.g. qualifications for chartered accountants, specialist nurses, senior teachers)","Education Level: Higher-level professional qualification beyond a degree (e.g. qualifications for chartered accountants, specialist nurses, senior teachers)",4.029873841910444,1.7703684804590267,-2.259505361451417
+education_level,No formal qualifications,Education Level: No formal qualifications,-20.58369319542532,-23.958500891504958,-3.374807696079639
+past_vote,Reform UK,Past Vote: Reform UK,-89.35361216730038,-92.84978389890196,-3.496171731601578
+education_level,"A postgraduate degree (e.g. MA, MSc, PhD, PGCE)","Education Level: A postgraduate degree (e.g. MA, MSc, PhD, PGCE)",25.33522695422485,21.772815776355408,-3.5624111778694427
+education_level,"An undergraduate degree (e.g. BA, BSc)","Education Level: An undergraduate degree (e.g. BA, BSc)",13.291390199886829,9.2791528262617,-4.012237373625128
+ethnicity,Mixed / Multiple ethnic groups,Ethnicity: Mixed / Multiple ethnic groups,17.786236473790865,12.06364073886538,-5.722595734925484
+past_vote,Liberal Democrats,Past Vote: Liberal Democrats,6.382978723404255,-0.1292627749795105,-6.512241498383766
+past_vote,Prefer not to say,Past Vote: Prefer not to say,4.3478260869565215,-2.293609960854417,-6.641436047810938
+education_level,An apprenticeship,Education Level: An apprenticeship,-28.73553591205989,-36.25587572856303,-7.520339816503142
+ethnicity,Asian,Ethnicity: Asian,20.9348766585765,11.702067622064767,-9.232809036511732
+past_vote,Scottish National Party (SNP),Past Vote: Scottish National Party (SNP),2.127659574468085,-7.992929059231543,-10.12058863369963
+education_level,Primary school,Education Level: Primary school,37.5,25.51587916409056,-11.98412083590944
+education_level,University/Higher Education,Education Level: University/Higher Education,32.075471698113205,17.93804204583449,-14.137429652278716
+education_level,Postgraduate Education,Education Level: Postgraduate Education,30.451127819548876,14.527452595447103,-15.923675224101773
+past_vote,Conservative,Past Vote: Conservative,-5.570291777188329,-24.617259656348388,-19.046967879160057
+past_vote,Did not vote,Past Vote: Did not vote,10.087719298245611,-9.200359776619925,-19.288079074865536
+gender,Female,Gender: Female,21.474654377880185,-1.0053332806591584,-22.479987658539343
+education_level,High school/College,Education Level: High school/College,13.2890365448505,-9.49517639499602,-22.78421293984652
+age_band,18-24,Age Band: 18-24,32.16783216783217,8.638314144592574,-23.529518023239593
+age_band,65+,Age Band: 65+,6.525911708253357,-17.45363346451822,-23.979545172771576
+ethnicity,Other ethnic group,Ethnicity: Other ethnic group,11.784418992135512,-12.823392212355223,-24.607811204490737
+age_band,25-34,Age Band: 25-34,40.49586776859504,15.604937507199796,-24.890930261395244
+education_level,Secondary school,Education Level: Secondary school,10.559006211180126,-14.341563091331873,-24.900569302511997
+age_band,55-64,Age Band: 55-64,13.83495145631068,-12.653512577466577,-26.488464033777255
+past_vote,Democratic Unionist Party (DUP),Past Vote: Democratic Unionist Party (DUP),11.842349710523552,-14.818679149058005,-26.661028859581556
+gender,Male,Gender: Male,21.079958463136037,-7.291805171639794,-28.37176363477583
+age_band,45-54,Age Band: 45-54,18.75,-11.164784285440138,-29.91478428544014
+education_level,Prefer not to say,Education Level: Prefer not to say,22.980259951255604,-9.698081194118384,-32.67834114537399
+age_band,35-44,Age Band: 35-44,37.283236994219656,2.0233006838075696,-35.25993631041209
+past_vote,Labour,Past Vote: Labour,85.41666666666667,48.70164811284925,-36.71501855381742
