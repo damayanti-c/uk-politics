@@ -1,0 +1,17 @@
+{
+  "complete": false,
+  "status": "partial_public_site_extraction",
+  "date_range": [
+    "2026-03-27",
+    "2026-05-07"
+  ],
+  "rows_in_file": 1460,
+  "earliest_row_in_file": "2026-04-01 10:30:00",
+  "latest_row_in_file": "2026-05-07 10:00:00",
+  "known_gap": "No events captured for 2026-03-27 through 2026-03-31; source file begins on 2026-04-01.",
+  "notes": [
+    "Derived from canvassing_events_apr_may_2026.csv.",
+    "Not a complete export of all Labour events in the requested window.",
+    "Public site access was later blocked by Cloudflare during collection."
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "category": "Canvassing",
+  "date_window": [
+    "2026-03-27",
+    "2026-05-07"
+  ],
+  "approach": "ward-level across GB; in-scope = wards that had a 2026 election (England: contested local wards; Wales: all wards/Senedd; Scotland: all wards/Holyrood)",
+  "in_scope_ward_universe": {
+    "England": 2305,
+    "Wales": 762,
+    "Scotland": 355
+  },
+  "in_scope_ward_universe_total": 3422,
+  "total_events": 12435,
+  "events_mapped_to_ward": 11734,
+  "events_in_scope": 10705,
+  "events_in_scope_by_nation": {
+    "England": 7664,
+    "Wales": 1521,
+    "Scotland": 1520
+  },
+  "events_out_of_scope": {
+    "England (ward not up in 2026)": 1029
+  },
+  "events_unmapped": 701,
+  "in_scope_wards_canvassed": 1349,
+  "in_scope_wards_canvassed_by_nation": {
+    "England": 768,
+    "Wales": 415,
+    "Scotland": 166
+  },
+  "avg_events_per_in_scope_ward": 3.128,
+  "avg_events_per_canvassed_in_scope_ward": 7.936,
+  "top_wards": [
+    {
+      "rank": 1,
+      "ward_name": "Crookes and Crosspool",
+      "council": "Sheffield",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Coalition",
+      "ward_code": "E05010863",
+      "canvassing_events": 82,
+      "vs_avg_ward": 26.2,
+      "vs_avg_canvassed_ward": 10.3
+    },
+    {
+      "rank": 2,
+      "ward_name": "Hyde Werneth",
+      "council": "Tameside",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05014532",
+      "canvassing_events": 74,
+      "vs_avg_ward": 23.7,
+      "vs_avg_canvassed_ward": 9.3
+    },
+    {
+      "rank": 3,
+      "ward_name": "St Peter's",
+      "council": "Tameside",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05014535",
+      "canvassing_events": 67,
+      "vs_avg_ward": 21.4,
+      "vs_avg_canvassed_ward": 8.4
+    },
+    {
+      "rank": 4,
+      "ward_name": "Craigentinny/Duddingston",
+      "council": "City of Edinburgh",
+      "nation": "Scotland",
+      "election": "Holyrood (2026)",
+      "control_group": "",
+      "ward_code": "S13002932",
+      "canvassing_events": 62,
+      "vs_avg_ward": 19.8,
+      "vs_avg_canvassed_ward": 7.8
+    },
+    {
+      "rank": 5,
+      "ward_name": "St Giles",
+      "council": "Southwark",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05011115",
+      "canvassing_events": 57,
+      "vs_avg_ward": 18.2,
+      "vs_avg_canvassed_ward": 7.2
+    },
+    {
+      "rank": 6,
+      "ward_name": "Walkley",
+      "council": "Sheffield",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Coalition",
+      "ward_code": "E05010882",
+      "canvassing_events": 56,
+      "vs_avg_ward": 17.9,
+      "vs_avg_canvassed_ward": 7.1
+    },
+    {
+      "rank": 7,
+      "ward_name": "Park and Arbourthorne",
+      "council": "Sheffield",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Coalition",
+      "ward_code": "E05010876",
+      "canvassing_events": 54,
+      "vs_avg_ward": 17.3,
+      "vs_avg_canvassed_ward": 6.8
+    },
+    {
+      "rank": 8,
+      "ward_name": "East Chesterton",
+      "council": "Cambridge",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05013055",
+      "canvassing_events": 52,
+      "vs_avg_ward": 16.6,
+      "vs_avg_canvassed_ward": 6.6
+    },
+    {
+      "rank": 9,
+      "ward_name": "Brook Green",
+      "council": "Hammersmith and Fulham",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Labour",
+      "ward_code": "E05013735",
+      "canvassing_events": 49,
+      "vs_avg_ward": 15.7,
+      "vs_avg_canvassed_ward": 6.2
+    },
+    {
+      "rank": 10,
+      "ward_name": "Weetwood",
+      "council": "Leeds",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05011413",
+      "canvassing_events": 47,
+      "vs_avg_ward": 15.0,
+      "vs_avg_canvassed_ward": 5.9
+    },
+    {
+      "rank": 11,
+      "ward_name": "Rotherhithe",
+      "council": "Southwark",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05011112",
+      "canvassing_events": 45,
+      "vs_avg_ward": 14.4,
+      "vs_avg_canvassed_ward": 5.7
+    },
+    {
+      "rank": 12,
+      "ward_name": "Streatham Hill East",
+      "council": "Lambeth",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05014113",
+      "canvassing_events": 45,
+      "vs_avg_ward": 14.4,
+      "vs_avg_canvassed_ward": 5.7
+    },
+    {
+      "rank": 13,
+      "ward_name": "Manor Castle",
+      "council": "Sheffield",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Coalition",
+      "ward_code": "E05010873",
+      "canvassing_events": 44,
+      "vs_avg_ward": 14.1,
+      "vs_avg_canvassed_ward": 5.5
+    },
+    {
+      "rank": 14,
+      "ward_name": "Clapham Town",
+      "council": "Lambeth",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05014102",
+      "canvassing_events": 43,
+      "vs_avg_ward": 13.7,
+      "vs_avg_canvassed_ward": 5.4
+    },
+    {
+      "rank": 15,
+      "ward_name": "Rye Lane",
+      "council": "Southwark",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05011113",
+      "canvassing_events": 43,
+      "vs_avg_ward": 13.7,
+      "vs_avg_canvassed_ward": 5.4
+    },
+    {
+      "rank": 16,
+      "ward_name": "South Bermondsey",
+      "council": "Southwark",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05011116",
+      "canvassing_events": 43,
+      "vs_avg_ward": 13.7,
+      "vs_avg_canvassed_ward": 5.4
+    },
+    {
+      "rank": 17,
+      "ward_name": "Hillrise",
+      "council": "Islington",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Labour",
+      "ward_code": "E05013705",
+      "canvassing_events": 42,
+      "vs_avg_ward": 13.4,
+      "vs_avg_canvassed_ward": 5.3
+    },
+    {
+      "rank": 18,
+      "ward_name": "Temple Newsam",
+      "council": "Leeds",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "TBC",
+      "ward_code": "E05013831",
+      "canvassing_events": 42,
+      "vs_avg_ward": 13.4,
+      "vs_avg_canvassed_ward": 5.3
+    },
+    {
+      "rank": 19,
+      "ward_name": "Firth Park",
+      "council": "Sheffield",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Coalition",
+      "ward_code": "E05010868",
+      "canvassing_events": 41,
+      "vs_avg_ward": 13.1,
+      "vs_avg_canvassed_ward": 5.2
+    },
+    {
+      "rank": 20,
+      "ward_name": "Burnage",
+      "council": "Manchester",
+      "nation": "England",
+      "election": "Local (2026)",
+      "control_group": "Labour",
+      "ward_code": "E05011354",
+      "canvassing_events": 40,
+      "vs_avg_ward": 12.8,
+      "vs_avg_canvassed_ward": 5.0
+    }
+  ]
+}

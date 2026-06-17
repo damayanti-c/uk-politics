@@ -1,0 +1,23 @@
+,Loyalist,->Green,->Reform
+n_unweighted,4481.0,706.0,719.0
+weighted_base,3766.0,632.0,605.0
+% male,54.0,41.9,56.9
+mean age,44.4,41.3,47.8
+% under 35,8.1,7.1,5.9
+% 60+,4.6,2.0,6.2
+% graduate,65.6,66.7,29.6
+% prof/mgr,49.3,44.7,24.5
+% routine/semi,9.0,11.2,22.5
+% white,84.0,88.6,93.8
+% env important,35.0,37.8,20.9
+leftRight (0=L..10=R),3.41,2.39,5.46
+lr_scale (0=L..10=R),2.43,1.58,2.26
+al_scale (0=Lib..10=Auth),5.17,4.09,7.62
+redistSelf (0=redistribute..10=not),3.83,2.64,4.3
+taxSpendSelf (0=cut..10=spend),6.74,7.22,5.4
+immigSelf (0=fewer..10=more),4.84,5.57,1.1
+immigEcon (1=bad..7=good),4.88,5.3,2.36
+immigCultural W27 (1=undermine..7=enrich),5.03,5.58,2.53
+EUIntegration (0=unite EU..10=independence),2.64,1.87,6.22
+satDemUK W29 (1=v.dissat..4=v.sat),2.61,2.1,2.37
+partyIdStrength (1=v.strong..4=none),2.18,2.26,2.25

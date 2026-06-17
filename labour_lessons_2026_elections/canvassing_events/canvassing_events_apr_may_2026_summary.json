@@ -1,0 +1,56 @@
+{
+  "id_range": [
+    518000,
+    538500
+  ],
+  "requested_date_window": [
+    "2026-03-27",
+    "2026-05-07"
+  ],
+  "date_range": [
+    "2026-03-27",
+    "2026-05-30"
+  ],
+  "complete": true,
+  "status": "complete_api_extraction",
+  "event_count": 16222,
+  "categories": {
+    "Canvassing": 12437,
+    "Campaigning": 1546,
+    "National Campaign Weekend": 895,
+    "Polling Day Campaign Centre": 655,
+    "Leafletting": 447,
+    "Phonebanking": 64,
+    "Members' Meeting": 31,
+    "Rally or Speech": 30,
+    "Social Event": 28,
+    "Street Stall": 17,
+    "Campaign Prep & Admin": 14,
+    "Online Event": 11,
+    "Telling": 11,
+    "Training (online)": 9,
+    "Public rally or speech": 8,
+    "Local NPF Event": 5,
+    "Fundraiser": 5,
+    "Training (in person)": 4,
+    "Battleground Trip": 3,
+    "National NPF Event": 1,
+    "Conference": 1
+  },
+  "months": {
+    "2026-03": 1357,
+    "2026-04": 11144,
+    "2026-05": 3721
+  },
+  "scan_status_counts": {
+    "ok": 3077,
+    "error": 4,
+    "not_found": 1
+  },
+  "source": "https://events.labour.org.uk/api/v2/event/{id}",
+  "generated_at_utc": "2026-05-31T22:27:58Z",
+  "notes": [
+    "Extracted from the public events.labour.org.uk JSON API by event ID.",
+    "Append-only and deduplicated by event_id; re-running merges only new events."
+  ]
+}

@@ -1,0 +1,1350 @@
+rank,ward_name,council,nation,election,control_group,ward_code,canvassing_events,vs_avg_ward,vs_avg_canvassed_ward
+1,Crookes and Crosspool,Sheffield,England,Local (2026),Coalition,E05010863,82,26.2,10.3
+2,Hyde Werneth,Tameside,England,Local (2026),TBC,E05014532,74,23.7,9.3
+3,St Peter's,Tameside,England,Local (2026),TBC,E05014535,67,21.4,8.4
+4,Craigentinny/Duddingston,City of Edinburgh,Scotland,Holyrood (2026),,S13002932,62,19.8,7.8
+5,St Giles,Southwark,England,Local (2026),TBC,E05011115,57,18.2,7.2
+6,Walkley,Sheffield,England,Local (2026),Coalition,E05010882,56,17.9,7.1
+7,Park and Arbourthorne,Sheffield,England,Local (2026),Coalition,E05010876,54,17.3,6.8
+8,East Chesterton,Cambridge,England,Local (2026),TBC,E05013055,52,16.6,6.6
+9,Brook Green,Hammersmith and Fulham,England,Local (2026),Labour,E05013735,49,15.7,6.2
+10,Weetwood,Leeds,England,Local (2026),TBC,E05011413,47,15.0,5.9
+11,Rotherhithe,Southwark,England,Local (2026),TBC,E05011112,45,14.4,5.7
+12,Streatham Hill East,Lambeth,England,Local (2026),TBC,E05014113,45,14.4,5.7
+13,Manor Castle,Sheffield,England,Local (2026),Coalition,E05010873,44,14.1,5.5
+14,Clapham Town,Lambeth,England,Local (2026),TBC,E05014102,43,13.7,5.4
+15,Rye Lane,Southwark,England,Local (2026),TBC,E05011113,43,13.7,5.4
+16,South Bermondsey,Southwark,England,Local (2026),TBC,E05011116,43,13.7,5.4
+17,Hillrise,Islington,England,Local (2026),Labour,E05013705,42,13.4,5.3
+18,Temple Newsam,Leeds,England,Local (2026),TBC,E05013831,42,13.4,5.3
+19,Firth Park,Sheffield,England,Local (2026),Coalition,E05010868,41,13.1,5.2
+20,Burnage,Manchester,England,Local (2026),Labour,E05011354,40,12.8,5.0
+21,Brixton Rush Common,Lambeth,England,Local (2026),TBC,E05014097,38,12.1,4.8
+22,Nunhead and Queen's Road,Southwark,England,Local (2026),TBC,E05011108,37,11.8,4.7
+23,Peckham Rye,Southwark,England,Local (2026),TBC,E05011111,37,11.8,4.7
+24,Coleridge,Cambridge,England,Local (2026),TBC,E05013054,36,11.5,4.5
+25,Gorton and Abbey Hey,Manchester,England,Local (2026),Labour,E05011365,36,11.5,4.5
+26,Littlemore,Oxford,England,Local (2026),Labour,E05013107,36,11.5,4.5
+27,Paisley East and Central,Renfrewshire,Scotland,Holyrood (2026),,S13003079,36,11.5,4.5
+28,Romsey,Cambridge,England,Local (2026),TBC,E05013061,35,11.2,4.4
+29,White City,Hammersmith and Fulham,England,Local (2026),Labour,E05013752,35,11.2,4.4
+30,Bonnyrigg,Midlothian,Scotland,Holyrood (2026),,S13003019,34,10.9,4.3
+31,Lower Stoke,Coventry,England,Local (2026),TBC,E05001226,33,10.5,4.2
+32,Wensum,Norwich,England,Local (2026),Green,E05012913,33,10.5,4.2
+33,Leith Walk,City of Edinburgh,Scotland,Holyrood (2026),,S13002930,32,10.2,4.0
+34,Southey,Sheffield,England,Local (2026),Coalition,E05010879,32,10.2,4.0
+35,Brandwood and King's Heath,Birmingham,England,Local (2026),TBC,E05011130,31,9.9,3.9
+36,Hyde Park,Westminster,England,Local (2026),Conservative,E05013796,31,9.9,3.9
+37,Withington,Manchester,England,Local (2026),Labour,E05011380,31,9.9,3.9
+38,Bounds Green,Haringey,England,Local (2026),TBC,E05013586,30,9.6,3.8
+39,Carholme,Lincoln,England,Local (2026),Labour,E05010787,30,9.6,3.8
+40,Mildmay,Islington,England,Local (2026),Labour,E05013709,30,9.6,3.8
+41,Newton Mearns South and Eaglesham,East Renfrewshire,Scotland,Holyrood (2026),,S13002918,30,9.6,3.8
+42,Tottenham Central,Haringey,England,Local (2026),TBC,E05013601,30,9.6,3.8
+43,Wolverton,Milton Keynes,England,Local (2026),TBC,E05009423,30,9.6,3.8
+44,Bevois,Southampton,England,Local (2026),TBC,E05015493,29,9.3,3.7
+45,Birkdale,Sefton,England,Local (2026),Labour,E05000933,29,9.3,3.7
+46,Brixton Acre Lane,Lambeth,England,Local (2026),TBC,E05014095,29,9.3,3.7
+47,Cardonald,Glasgow City,Scotland,Holyrood (2026),,S13002970,29,9.3,3.7
+48,East Kilbride Central North,South Lanarkshire,Scotland,Holyrood (2026),,S13003102,29,9.3,3.7
+49,Little Venice,Westminster,England,Local (2026),Conservative,E05013799,29,9.3,3.7
+50,East Ecclesfield,Sheffield,England,Local (2026),Coalition,E05010866,28,9.0,3.5
+51,Greenwich Creekside,Greenwich,England,Local (2026),Labour,E05014080,28,9.0,3.5
+52,Midlothian East,Midlothian,Scotland,Holyrood (2026),,S13003022,28,9.0,3.5
+53,Ryhope,Sunderland,England,Local (2026),Reform UK,E05001164,28,9.0,3.5
+54,Evelyn,Lewisham,England,Local (2026),Green,E05013721,27,8.6,3.4
+55,Moseley,Birmingham,England,Local (2026),TBC,E05011154,27,8.6,3.4
+56,Penistone East,Barnsley,England,Local (2026),Reform UK,E05016245,27,8.6,3.4
+57,Shiregreen and Brightside,Sheffield,England,Local (2026),Coalition,E05010878,27,8.6,3.4
+58,Bayswater,Westminster,England,Local (2026),Conservative,E05013793,26,8.3,3.3
+59,Boultham,Lincoln,England,Local (2026),Labour,E05010786,26,8.3,3.3
+60,"Clarkston, Netherlee and Williamwood",East Renfrewshire,Scotland,Holyrood (2026),,S13002917,26,8.3,3.3
+61,Lillie,Hammersmith and Fulham,England,Local (2026),Labour,E05013742,26,8.3,3.3
+62,St Paul's Cray,Bromley,England,Local (2026),Conservative,E05014007,26,8.3,3.3
+63,Barnsbury,Islington,England,Local (2026),Labour,E05013698,25,8.0,3.2
+64,East Greenwich,Greenwich,England,Local (2026),Labour,E05014076,25,8.0,3.2
+65,Junction,Islington,England,Local (2026),Labour,E05013707,25,8.0,3.2
+66,Liberton/Gilmerton,City of Edinburgh,Scotland,Holyrood (2026),,S13002934,25,8.0,3.2
+67,Lobley Hill and Bensham,Gateshead,England,Local (2026),Reform UK,E05001079,25,8.0,3.2
+68,Midlothian South,Midlothian,Scotland,Holyrood (2026),,S13003023,25,8.0,3.2
+69,North Walworth,Southwark,England,Local (2026),TBC,E05011107,25,8.0,3.2
+70,Paisley Southwest,Renfrewshire,Scotland,Holyrood (2026),,S13003081,25,8.0,3.2
+71,Petersfield,Cambridge,England,Local (2026),TBC,E05013059,25,8.0,3.2
+72,Sands End,Hammersmith and Fulham,England,Local (2026),Labour,E05013747,25,8.0,3.2
+73,Streatham Wells,Lambeth,England,Local (2026),TBC,E05014116,25,8.0,3.2
+74,Walham Green,Hammersmith and Fulham,England,Local (2026),Labour,E05013749,25,8.0,3.2
+75,West Chesterton,Cambridge,England,Local (2026),TBC,E05013063,25,8.0,3.2
+76,Greenwich Park,Greenwich,England,Local (2026),Labour,E05014081,24,7.7,3.0
+77,Harrow Road,Westminster,England,Local (2026),Conservative,E05013795,24,7.7,3.0
+78,Leith,City of Edinburgh,Scotland,Holyrood (2026),,S13002931,24,7.7,3.0
+79,Llantwit Major,Vale of Glamorgan,Wales,Senedd (2026),,W05001392,24,7.7,3.0
+80,Nether Edge and Sharrow,Sheffield,England,Local (2026),Coalition,E05010875,24,7.7,3.0
+81,St Mary's and St James',Islington,England,Local (2026),Labour,E05013710,24,7.7,3.0
+82,Arsenal,Islington,England,Local (2026),Labour,E05013697,23,7.4,2.9
+83,Crome,Norwich,England,Local (2026),Green,E05012903,23,7.4,2.9
+84,Fallowfield,Manchester,England,Local (2026),Labour,E05011364,23,7.4,2.9
+85,Freemantle,Southampton,England,Local (2026),TBC,E05015496,23,7.4,2.9
+86,Greenwich Peninsula,Greenwich,England,Local (2026),Labour,E05014082,23,7.4,2.9
+87,Kidbrooke Park,Greenwich,England,Local (2026),Labour,E05014083,23,7.4,2.9
+88,Kidbrooke Village and Sutcliffe,Greenwich,England,Local (2026),Labour,E05014084,23,7.4,2.9
+89,Kippax and Methley,Leeds,England,Local (2026),TBC,E05011401,23,7.4,2.9
+90,Paisley Southeast,Renfrewshire,Scotland,Holyrood (2026),,S13003080,23,7.4,2.9
+91,Park,Monmouthshire,Wales,Senedd (2026),,W05001789,23,7.4,2.9
+92,St Nicholas,Stevenage,England,Local (2026),Labour,E05015634,23,7.4,2.9
+93,Whitchurch and Tongwynlais,Cardiff,Wales,Senedd (2026),,W05001297,23,7.4,2.9
+94,Arbury,Cambridge,England,Local (2026),TBC,E05013051,22,7.0,2.8
+95,Avonmore,Hammersmith and Fulham,England,Local (2026),Labour,E05013734,22,7.0,2.8
+96,Chaucer,Southwark,England,Local (2026),TBC,E05011098,22,7.0,2.8
+97,Compton,Plymouth,England,Local (2026),Labour,E05002079,22,7.0,2.8
+98,Highbury,Islington,England,Local (2026),Labour,E05013704,22,7.0,2.8
+99,Holloway,Islington,England,Local (2026),Labour,E05013706,22,7.0,2.8
+100,Longsight,Manchester,England,Local (2026),Labour,E05011370,22,7.0,2.8
+101,Middle Park and Horn Park,Greenwich,England,Local (2026),Labour,E05014085,22,7.0,2.8
+102,Park,Lincoln,England,Local (2026),Labour,E05010793,22,7.0,2.8
+103,Ravenscourt,Hammersmith and Fulham,England,Local (2026),Labour,E05013746,22,7.0,2.8
+104,Telegraph Hill,Lewisham,England,Local (2026),Green,E05013732,22,7.0,2.8
+105,Bedwell,Stevenage,England,Local (2026),Labour,E05015626,21,6.7,2.6
+106,Dulwich Hill,Southwark,England,Local (2026),TBC,E05011099,21,6.7,2.6
+107,Giffnock and Thornliebank,East Renfrewshire,Scotland,Holyrood (2026),,S13002916,21,6.7,2.6
+108,Highwoods,Colchester,England,Local (2026),Coalition,E05010830,21,6.7,2.6
+109,Honicknowle,Plymouth,England,Local (2026),Labour,E05002085,21,6.7,2.6
+110,Lancaster Gate,Westminster,England,Local (2026),Conservative,E05013798,21,6.7,2.6
+111,Midlothian West,Midlothian,Scotland,Holyrood (2026),,S13003021,21,6.7,2.6
+112,Moortown,Leeds,England,Local (2026),TBC,E05011405,21,6.7,2.6
+113,Paisley Northwest,Renfrewshire,Scotland,Holyrood (2026),,S13003078,21,6.7,2.6
+114,Riverside,Cardiff,Wales,Senedd (2026),,W05001293,21,6.7,2.6
+115,Shirley,Southampton,England,Local (2026),TBC,E05015502,21,6.7,2.6
+116,Wandle,Merton,England,Local (2026),Labour,E05013826,21,6.7,2.6
+117,Blackheath Westcombe,Greenwich,England,Local (2026),Labour,E05014073,20,6.4,2.5
+118,Caerau,Cardiff,Wales,Senedd (2026),,W05001272,20,6.4,2.5
+119,Forest Gate South,Newham,England,Local (2026),Labour,E05013912,20,6.4,2.5
+120,Heene,Worthing,England,Local (2026),TBC,E05007700,20,6.4,2.5
+121,Hornsey,Haringey,England,Local (2026),TBC,E05013593,20,6.4,2.5
+122,Howlands,Welwyn Hatfield,England,Local (2026),Coalition,E05011066,20,6.4,2.5
+123,Motherwell South East and Ravenscraig,North Lanarkshire,Scotland,Holyrood (2026),,S13003060,20,6.4,2.5
+124,Old Town,Stevenage,England,Local (2026),Labour,E05015631,20,6.4,2.5
+125,Severn,Monmouthshire,Wales,Senedd (2026),,W05001794,20,6.4,2.5
+126,Sharston,Manchester,England,Local (2026),Labour,E05011378,20,6.4,2.5
+127,South Middleton,Rochdale,England,Local (2026),Labour,E05014048,20,6.4,2.5
+128,Splott,Cardiff,Wales,Senedd (2026),,W05001295,20,6.4,2.5
+129,St James',Oldham,England,Local (2026),Labour,E05014662,20,6.4,2.5
+130,St Peters,Wolverhampton,England,Local (2026),Labour,E05014853,20,6.4,2.5
+131,Tattenhoe,Milton Keynes,England,Local (2026),TBC,E05009422,20,6.4,2.5
+132,Town Close,Norwich,England,Local (2026),Green,E05012911,20,6.4,2.5
+133,Uxbridge,Hillingdon,England,Local (2026),Conservative,E05013580,20,6.4,2.5
+134,William Morris,Waltham Forest,England,Local (2026),Green,E05013902,20,6.4,2.5
+135,Balderstone and Kirkholt,Rochdale,England,Local (2026),Labour,E05014033,19,6.1,2.4
+136,Drake,Plymouth,England,Local (2026),Labour,E05002081,19,6.1,2.4
+137,Goose Green,Southwark,England,Local (2026),TBC,E05011103,19,6.1,2.4
+138,Grangetown,Cardiff,Wales,Senedd (2026),,W05001279,19,6.1,2.4
+139,Hatfield East,Welwyn Hatfield,England,Local (2026),Coalition,E05011062,19,6.1,2.4
+140,Hollybush,Welwyn Hatfield,England,Local (2026),Coalition,E05011065,19,6.1,2.4
+141,West End,Westminster,England,Local (2026),Conservative,E05013808,19,6.1,2.4
+142,Wishing Tree,Hastings,England,Local (2026),Green,E05011216,19,6.1,2.4
+143,Wyken,Coventry,England,Local (2026),TBC,E05001235,19,6.1,2.4
+144,Yiewsley,Hillingdon,England,Local (2026),Conservative,E05013584,19,6.1,2.4
+145,"Carse, Kinnaird and Tryst",Falkirk,Scotland,Holyrood (2026),,S13002939,18,5.8,2.3
+146,Castle,Lincoln,England,Local (2026),Labour,E05010788,18,5.8,2.3
+147,Cumnock and New Cumnock,East Ayrshire,Scotland,Holyrood (2026),,S13002899,18,5.8,2.3
+148,Dalkeith,Midlothian,Scotland,Holyrood (2026),,S13003020,18,5.8,2.3
+149,Denton and Westerhope,Newcastle upon Tyne,England,Local (2026),Labour,E05011444,18,5.8,2.3
+150,Friern Barnet,Barnet,England,Local (2026),TBC,E05013640,18,5.8,2.3
+151,Grove Green,Waltham Forest,England,Local (2026),Green,E05013888,18,5.8,2.3
+152,Holywell,Watford,England,Local (2026),Liberal Democrat,E05011048,18,5.8,2.3
+153,Lakenham,Norwich,England,Local (2026),Green,E05012905,18,5.8,2.3
+154,Lemington,Newcastle upon Tyne,England,Local (2026),Labour,E05011451,18,5.8,2.3
+155,Murdostoun,North Lanarkshire,Scotland,Holyrood (2026),,S13003061,18,5.8,2.3
+156,Old Trafford,Trafford,England,Local (2026),Labour,E05015253,18,5.8,2.3
+157,Peverell,Plymouth,England,Local (2026),Labour,E05002087,18,5.8,2.3
+158,Priory Vale,Swindon,England,Local (2026),TBC,E05008965,18,5.8,2.3
+159,Shephall,Stevenage,England,Local (2026),Labour,E05015633,18,5.8,2.3
+160,St James,Waltham Forest,England,Local (2026),Green,E05013899,18,5.8,2.3
+161,Stoke,Plymouth,England,Local (2026),Labour,E05002096,18,5.8,2.3
+162,Tollington,Islington,England,Local (2026),Labour,E05013712,18,5.8,2.3
+163,Wakefield East,Wakefield,England,Local (2026),Reform UK,E05001459,18,5.8,2.3
+164,Bargate,Southampton,England,Local (2026),TBC,E05015491,17,5.4,2.1
+165,Bletchley West,Milton Keynes,England,Local (2026),TBC,E05009408,17,5.4,2.1
+166,Bristnall,Sandwell,England,Local (2026),Reform UK,E05001262,17,5.4,2.1
+167,Central Milton Keynes,Milton Keynes,England,Local (2026),TBC,E05009412,17,5.4,2.1
+168,Chapel Allerton,Leeds,England,Local (2026),TBC,E05011390,17,5.4,2.1
+169,Colham and Cowley,Hillingdon,England,Local (2026),Conservative,E05013566,17,5.4,2.1
+170,Greets Green and Lyng,Sandwell,England,Local (2026),Reform UK,E05001268,17,5.4,2.1
+171,Haldens,Welwyn Hatfield,England,Local (2026),Coalition,E05011059,17,5.4,2.1
+172,Harringay,Haringey,England,Local (2026),TBC,E05013590,17,5.4,2.1
+173,Haydon Wick,Swindon,England,Local (2026),TBC,E05010756,17,5.4,2.1
+174,Inverclyde North,Inverclyde,Scotland,Holyrood (2026),,S13003014,17,5.4,2.1
+175,Kilmarnock East and Hurlford,East Ayrshire,Scotland,Holyrood (2026),,S13002895,17,5.4,2.1
+176,London Bridge and West Bermondsey,Southwark,England,Local (2026),TBC,E05011104,17,5.4,2.1
+177,Longford,Trafford,England,Local (2026),Labour,E05015250,17,5.4,2.1
+178,Maryland,Newham,England,Local (2026),Labour,E05013917,17,5.4,2.1
+179,Moss Side,Manchester,England,Local (2026),Labour,E05011372,17,5.4,2.1
+180,Palmers Green,Enfield,England,Local (2026),TBC,E05013688,17,5.4,2.1
+181,Plasnewydd,Cardiff,Wales,Senedd (2026),,W05001289,17,5.4,2.1
+182,Prestwick,South Ayrshire,Scotland,Holyrood (2026),,S13003088,17,5.4,2.1
+183,Rhyl South West,Denbighshire,Wales,Senedd (2026),,W05001352,17,5.4,2.1
+184,Thorpe Hamlet,Norwich,England,Local (2026),Green,E05012910,17,5.4,2.1
+185,Tottenham Hale,Haringey,England,Local (2026),TBC,E05013602,17,5.4,2.1
+186,Troon,South Ayrshire,Scotland,Holyrood (2026),,S13003087,17,5.4,2.1
+187,Victoria,Southend-on-Sea,England,Local (2026),Coalition,E05002225,17,5.4,2.1
+188,Weoley and Selly Oak,Birmingham,England,Local (2026),TBC,E05011184,17,5.4,2.1
+189,Windhill and Wrose,Bradford,England,Local (2026),TBC,E05001368,17,5.4,2.1
+190,Wood Street,Waltham Forest,England,Local (2026),Green,E05013903,17,5.4,2.1
+191,Barton and Sandhills,Oxford,England,Local (2026),Labour,E05013096,16,5.1,2.0
+192,Brockley,Lewisham,England,Local (2026),Green,E05013716,16,5.1,2.0
+193,Butetown,Cardiff,Wales,Senedd (2026),,W05001271,16,5.1,2.0
+194,Central Rochdale,Rochdale,England,Local (2026),Labour,E05014036,16,5.1,2.0
+195,Crouch End,Haringey,England,Local (2026),TBC,E05013588,16,5.1,2.0
+196,Drumchapel/Anniesland,Glasgow City,Scotland,Holyrood (2026),,S13002980,16,5.1,2.0
+197,East Wickham,Bexley,England,Local (2026),Conservative,E05011224,16,5.1,2.0
+198,Ely,Cardiff,Wales,Senedd (2026),,W05001276,16,5.1,2.0
+199,Farnley and Wortley,Leeds,England,Local (2026),TBC,E05012648,16,5.1,2.0
+200,Fulham Reach,Hammersmith and Fulham,England,Local (2026),Labour,E05013738,16,5.1,2.0
+201,Garscadden/Scotstounhill,Glasgow City,Scotland,Holyrood (2026),,S13002979,16,5.1,2.0
+202,Heaton,Newcastle upon Tyne,England,Local (2026),Labour,E05011448,16,5.1,2.0
+203,Higham Hill,Waltham Forest,England,Local (2026),Green,E05013892,16,5.1,2.0
+204,Kilmarnock West and Crosshouse,East Ayrshire,Scotland,Holyrood (2026),,S13002894,16,5.1,2.0
+205,King's Hedges,Cambridge,England,Local (2026),TBC,E05013056,16,5.1,2.0
+206,Milkstone and Deeplish,Rochdale,England,Local (2026),Labour,E05014042,16,5.1,2.0
+207,Newton Mearns North and Neilston,East Renfrewshire,Scotland,Holyrood (2026),,S13002915,16,5.1,2.0
+208,Plaistow,Bromley,England,Local (2026),Conservative,E05014004,16,5.1,2.0
+209,Radford,Coventry,England,Local (2026),TBC,E05001227,16,5.1,2.0
+210,Roundhay,Leeds,England,Local (2026),TBC,E05011411,16,5.1,2.0
+211,Seven Sisters,Haringey,England,Local (2026),TBC,E05013598,16,5.1,2.0
+212,St Peter and the Waterfront,Plymouth,England,Local (2026),Labour,E05002094,16,5.1,2.0
+213,Trowbridge,Cardiff,Wales,Senedd (2026),,W05001296,16,5.1,2.0
+214,Wishaw,North Lanarkshire,Scotland,Holyrood (2026),,S13003062,16,5.1,2.0
+215,Addiscombe East,Croydon,England,Local (2026),Conservative,E05011462,15,4.8,1.9
+216,Ashton upon Mersey,Trafford,England,Local (2026),Labour,E05015240,15,4.8,1.9
+217,Ballochmyle,East Ayrshire,Scotland,Holyrood (2026),,S13002898,15,4.8,1.9
+218,Blenheim Park,Southend-on-Sea,England,Local (2026),Coalition,E05002213,15,4.8,1.9
+219,Bolehall,Tamworth,England,Local (2026),Labour,E05007068,15,4.8,1.9
+220,Bowes,Enfield,England,Local (2026),TBC,E05013673,15,4.8,1.9
+221,Canton,Cardiff,Wales,Senedd (2026),,W05001273,15,4.8,1.9
+222,Castle,Cambridge,England,Local (2026),TBC,E05013052,15,4.8,1.9
+223,Colville,Kensington and Chelsea,England,Local (2026),Conservative,E05009392,15,4.8,1.9
+224,Fen Ditton and Fulbourn,South Cambridgeshire,England,Local (2026),Liberal Democrat,E05011291,15,4.8,1.9
+225,Forest Hill,Lewisham,England,Local (2026),Green,E05013722,15,4.8,1.9
+226,Gabalfa,Cardiff,Wales,Senedd (2026),,W05001278,15,4.8,1.9
+227,Golborne,Kensington and Chelsea,England,Local (2026),Conservative,E05009396,15,4.8,1.9
+228,Green Street East,Newham,England,Local (2026),Labour,E05013913,15,4.8,1.9
+229,Hanwell Broadway,Ealing,England,Local (2026),Labour,E05013525,15,4.8,1.9
+230,Kyle,South Ayrshire,Scotland,Holyrood (2026),,S13003092,15,4.8,1.9
+231,Lewisham Central,Lewisham,England,Local (2026),Green,E05013727,15,4.8,1.9
+232,Markhouse,Waltham Forest,England,Local (2026),Green,E05013898,15,4.8,1.9
+233,Norwood,Sefton,England,Local (2026),Labour,E05000948,15,4.8,1.9
+234,Pimlico North,Westminster,England,Local (2026),Conservative,E05013802,15,4.8,1.9
+235,Renfrew South and Gallowhill,Renfrewshire,Scotland,Holyrood (2026),,S13003076,15,4.8,1.9
+236,Rushey Green,Lewisham,England,Local (2026),Green,E05013730,15,4.8,1.9
+237,Selhurst,Croydon,England,Local (2026),Conservative,E05011479,15,4.8,1.9
+238,Vicarage,Watford,England,Local (2026),Liberal Democrat,E05011056,15,4.8,1.9
+239,Wingrove,Newcastle upon Tyne,England,Local (2026),Labour,E05011461,15,4.8,1.9
+240,Ayr West,South Ayrshire,Scotland,Holyrood (2026),,S13003091,14,4.5,1.8
+241,Camberwell Green,Southwark,England,Local (2026),TBC,E05011096,14,4.5,1.8
+242,Central,Worthing,England,Local (2026),TBC,E05007696,14,4.5,1.8
+243,Champion Hill,Southwark,England,Local (2026),TBC,E05011097,14,4.5,1.8
+244,Crofton Park,Lewisham,England,Local (2026),Green,E05013718,14,4.5,1.8
+245,Davyhulme,Trafford,England,Local (2026),Labour,E05015245,14,4.5,1.8
+246,Deptford,Lewisham,England,Local (2026),Green,E05013719,14,4.5,1.8
+247,Hatfield Central,Welwyn Hatfield,England,Local (2026),Coalition,E05011061,14,4.5,1.8
+248,High Street,Waltham Forest,England,Local (2026),Green,E05013891,14,4.5,1.8
+249,Ladywell,Lewisham,England,Local (2026),Green,E05013725,14,4.5,1.8
+250,Leytonstone,Waltham Forest,England,Local (2026),Green,E05013897,14,4.5,1.8
+251,Motherwell West,North Lanarkshire,Scotland,Holyrood (2026),,S13003058,14,4.5,1.8
+252,Muswell Hill,Haringey,England,Local (2026),TBC,E05013594,14,4.5,1.8
+253,Newington,Southwark,England,Local (2026),TBC,E05011105,14,4.5,1.8
+254,Paisley Northeast and Ralston,Renfrewshire,Scotland,Holyrood (2026),,S13003077,14,4.5,1.8
+255,Pentwyn,Cardiff,Wales,Senedd (2026),,W05001286,14,4.5,1.8
+256,Pinhoe,Exeter,England,Local (2026),TBC,E05011018,14,4.5,1.8
+257,Shooters Hill,Greenwich,England,Local (2026),Labour,E05014089,14,4.5,1.8
+258,Slade Green and Northend,Bexley,England,Local (2026),Conservative,E05011231,14,4.5,1.8
+259,St Gabriels,Knowsley,England,Local (2026),Labour,E05010944,14,4.5,1.8
+260,West Heywood,Rochdale,England,Local (2026),Labour,E05014051,14,4.5,1.8
+261,Westbourne,Westminster,England,Local (2026),Conservative,E05013809,14,4.5,1.8
+262,Alexandra Park,Haringey,England,Local (2026),TBC,E05013585,13,4.2,1.6
+263,Baguley,Manchester,England,Local (2026),Labour,E05011352,13,4.2,1.6
+264,Banister and Polygon,Southampton,England,Local (2026),TBC,E05015490,13,4.2,1.6
+265,Bunhill,Islington,England,Local (2026),Labour,E05013699,13,4.2,1.6
+266,Cathays,Cardiff,Wales,Senedd (2026),,W05001274,13,4.2,1.6
+267,Charlton Hornfair,Greenwich,England,Local (2026),Labour,E05014074,13,4.2,1.6
+268,Church,Reading,England,Local (2026),Labour,E05013868,13,4.2,1.6
+269,Crawcrook and Greenside,Gateshead,England,Local (2026),Reform UK,E05001072,13,4.2,1.6
+270,Dunblane and Bridge of Allan,Stirling,Scotland,Holyrood (2026),,S13003117,13,4.2,1.6
+271,Fairwater,Cardiff,Wales,Senedd (2026),,W05001277,13,4.2,1.6
+272,Foleshill,Coventry,England,Local (2026),TBC,E05001222,13,4.2,1.6
+273,Hatfield Villages,Welwyn Hatfield,England,Local (2026),Coalition,E05011064,13,4.2,1.6
+274,Kilwinning,North Ayrshire,Scotland,Holyrood (2026),,S13003034,13,4.2,1.6
+275,King's Norton North,Birmingham,England,Local (2026),TBC,E05011148,13,4.2,1.6
+276,Milngavie,East Dunbartonshire,Scotland,Holyrood (2026),,S13002901,13,4.2,1.6
+277,Northumberland Heath,Bexley,England,Local (2026),Conservative,E05011228,13,4.2,1.6
+278,Pimlico South,Westminster,England,Local (2026),Conservative,E05013803,13,4.2,1.6
+279,Shrub End,Colchester,England,Local (2026),Coalition,E05010840,13,4.2,1.6
+280,St Ann's,Haringey,England,Local (2026),TBC,E05013597,13,4.2,1.6
+281,Barnet Vale,Barnet,England,Local (2026),TBC,E05013628,12,3.8,1.5
+282,Battle Hill,North Tyneside,England,Local (2026),Labour,E05015866,12,3.8,1.5
+283,Bitterne Park,Southampton,England,Local (2026),TBC,E05015494,12,3.8,1.5
+284,Blackheath,Lewisham,England,Local (2026),Green,E05013715,12,3.8,1.5
+285,Catton Grove,Norwich,England,Local (2026),Green,E05012902,12,3.8,1.5
+286,Chipping Norton,West Oxfordshire,England,Local (2026),Coalition,E05006637,12,3.8,1.5
+287,Custom House,Newham,England,Local (2026),Labour,E05013908,12,3.8,1.5
+288,Devonport,Plymouth,England,Local (2026),Labour,E05002080,12,3.8,1.5
+289,Eltham Page,Greenwich,England,Local (2026),Labour,E05014077,12,3.8,1.5
+290,Eltham Park and Progress,Greenwich,England,Local (2026),Labour,E05014078,12,3.8,1.5
+291,Ford,Sefton,England,Local (2026),Labour,E05000939,12,3.8,1.5
+292,Heath,Cardiff,Wales,Senedd (2026),,W05001280,12,3.8,1.5
+293,Highfield,Enfield,England,Local (2026),TBC,E05013683,12,3.8,1.5
+294,Manor Park,Newham,England,Local (2026),Labour,E05013916,12,3.8,1.5
+295,Newington and Gipsyville,Kingston upon Hull,England,Local (2026),TBC,E05011537,12,3.8,1.5
+296,Northfield,Birmingham,England,Local (2026),TBC,E05011158,12,3.8,1.5
+297,Northop,Flintshire,Wales,Senedd (2026),,W05001608,12,3.8,1.5
+298,Old Town,Barnsley,England,Local (2026),Reform UK,E05000988,12,3.8,1.5
+299,Old Warley,Sandwell,England,Local (2026),Reform UK,E05001272,12,3.8,1.5
+300,Southbury,Enfield,England,Local (2026),TBC,E05013691,12,3.8,1.5
+301,Sprites,Ipswich,England,Local (2026),Labour,E05007128,12,3.8,1.5
+302,St Bride's Minor and Ynysawdre,Bridgend,Wales,Senedd (2026),,W05001255,12,3.8,1.5
+303,Tarring,Worthing,England,Local (2026),TBC,E05007706,12,3.8,1.5
+304,The Ferry,Dundee City,Scotland,Holyrood (2026),,S13002552,12,3.8,1.5
+305,Vauxhall,Lambeth,England,Local (2026),TBC,E05014117,12,3.8,1.5
+306,Alphington,Exeter,England,Local (2026),TBC,E05011011,11,3.5,1.4
+307,Argoed and New Brighton,Flintshire,Wales,Senedd (2026),,W05001571,11,3.5,1.4
+308,Ayr East,South Ayrshire,Scotland,Holyrood (2026),,S13003090,11,3.5,1.4
+309,Backworth and Holystone,North Tyneside,England,Local (2026),Labour,E05015865,11,3.5,1.4
+310,Banbury Cross and Neithrop,Cherwell,England,Local (2026),Coalition,E05010921,11,3.5,1.4
+311,Battle,Reading,England,Local (2026),Labour,E05013865,11,3.5,1.4
+312,Bearsden North,East Dunbartonshire,Scotland,Holyrood (2026),,S13002902,11,3.5,1.4
+313,Bede,Nuneaton and Bedworth,England,Local (2026),Labour,E05015829,11,3.5,1.4
+314,Braybrooke,Hastings,England,Local (2026),Green,E05011203,11,3.5,1.4
+315,Bridgend Central,Bridgend,Wales,Senedd (2026),,W05001234,11,3.5,1.4
+316,Bucklow-St Martins,Trafford,England,Local (2026),Labour,E05015244,11,3.5,1.4
+317,Bullsmoor,Enfield,England,Local (2026),TBC,E05013675,11,3.5,1.4
+318,Canal,Glasgow City,Scotland,Holyrood (2026),,S13002982,11,3.5,1.4
+319,Castle,Newcastle upon Tyne,England,Local (2026),Labour,E05011441,11,3.5,1.4
+320,Chorlton Park,Manchester,England,Local (2026),Labour,E05011358,11,3.5,1.4
+321,Clackmannanshire South,Clackmannanshire,Scotland,Holyrood (2026),,S13002878,11,3.5,1.4
+322,Clerkenwell,Islington,England,Local (2026),Labour,E05013702,11,3.5,1.4
+323,Cyncoed,Cardiff,Wales,Senedd (2026),,W05001275,11,3.5,1.4
+324,Darnall,Sheffield,England,Local (2026),Coalition,E05010864,11,3.5,1.4
+325,Erith,Bexley,England,Local (2026),Conservative,E05011225,11,3.5,1.4
+326,Falkirk North,Falkirk,Scotland,Holyrood (2026),,S13002941,11,3.5,1.4
+327,Forest,Waltham Forest,England,Local (2026),Green,E05013887,11,3.5,1.4
+328,Hither Green,Lewisham,England,Local (2026),Green,E05013724,11,3.5,1.4
+329,Hoe Street,Waltham Forest,England,Local (2026),Green,E05013893,11,3.5,1.4
+330,Illtyd,Vale of Glamorgan,Wales,Senedd (2026),,W05001389,11,3.5,1.4
+331,Littleborough Lakeside,Rochdale,England,Local (2026),Labour,E05014041,11,3.5,1.4
+332,Llanrumney,Cardiff,Wales,Senedd (2026),,W05001285,11,3.5,1.4
+333,Midstocket/Rosemount,Aberdeen City,Scotland,Holyrood (2026),,S13002841,11,3.5,1.4
+334,New Cross Gate,Lewisham,England,Local (2026),Green,E05013728,11,3.5,1.4
+335,Northenden,Manchester,England,Local (2026),Labour,E05011374,11,3.5,1.4
+336,Plymstock Dunstone,Plymouth,England,Local (2026),Labour,E05002091,11,3.5,1.4
+337,Renfrew North and Braehead,Renfrewshire,Scotland,Holyrood (2026),,S13003075,11,3.5,1.4
+338,Rhyl South,Denbighshire,Wales,Senedd (2026),,W05001351,11,3.5,1.4
+339,Rhyl Tŷ Newydd,Denbighshire,Wales,Senedd (2026),,W05001354,11,3.5,1.4
+340,Rumney,Cardiff,Wales,Senedd (2026),,W05001294,11,3.5,1.4
+341,Silverhill,Hastings,England,Local (2026),Green,E05011213,11,3.5,1.4
+342,Southwick Green,Adur,England,Local (2026),Labour,E05007574,11,3.5,1.4
+343,St Helen's,Kensington and Chelsea,England,Local (2026),Conservative,E05009404,11,3.5,1.4
+344,University,Norwich,England,Local (2026),Green,E05012912,11,3.5,1.4
+345,Upper Walthamstow,Waltham Forest,England,Local (2026),Green,E05013900,11,3.5,1.4
+346,Whitton,Richmond upon Thames,England,Local (2026),Liberal Democrat,E05013791,11,3.5,1.4
+347,Wivenhoe,Colchester,England,Local (2026),Coalition,E05010843,11,3.5,1.4
+348,Alexandra,Ipswich,England,Local (2026),Labour,E05007117,10,3.2,1.3
+349,Banbury Hardwick,Cherwell,England,Local (2026),Coalition,E05010923,10,3.2,1.3
+350,Bonnybridge and Larbert,Falkirk,Scotland,Holyrood (2026),,S13002940,10,3.2,1.3
+351,Brooklands,Trafford,England,Local (2026),Labour,E05015243,10,3.2,1.3
+352,Brunswick Park,Barnet,England,Local (2026),TBC,E05013629,10,3.2,1.3
+353,"Bryntirion, Laleston and Merthyr Mawr",Bridgend,Wales,Senedd (2026),,W05001235,10,3.2,1.3
+354,Cann Hall,Waltham Forest,England,Local (2026),Green,E05013882,10,3.2,1.3
+355,Clock House,Bromley,England,Local (2026),Conservative,E05013994,10,3.2,1.3
+356,Colinton/Fairmilehead,City of Edinburgh,Scotland,Holyrood (2026),,S13002926,10,3.2,1.3
+357,Dalgarno,Kensington and Chelsea,England,Local (2026),Conservative,E05009394,10,3.2,1.3
+358,Darton West,Barnsley,England,Local (2026),Reform UK,E05000980,10,3.2,1.3
+359,Denny and Banknock,Falkirk,Scotland,Holyrood (2026),,S13002938,10,3.2,1.3
+360,Dinas Powys,Vale of Glamorgan,Wales,Senedd (2026),,W05001386,10,3.2,1.3
+361,Eastbrook,Adur,England,Local (2026),Labour,E05007565,10,3.2,1.3
+362,Erskine and Inchinnan,Renfrewshire,Scotland,Holyrood (2026),,S13003086,10,3.2,1.3
+363,Exwick,Exeter,England,Local (2026),TBC,E05011013,10,3.2,1.3
+364,Finsbury Park,Islington,England,Local (2026),Labour,E05013703,10,3.2,1.3
+365,Fortis Green,Haringey,England,Local (2026),TBC,E05013589,10,3.2,1.3
+366,Greenstead,Colchester,England,Local (2026),Coalition,E05010829,10,3.2,1.3
+367,Grove Park,Lewisham,England,Local (2026),Green,E05013723,10,3.2,1.3
+368,Hazlehead/Queens Cross/Countesswells,Aberdeen City,Scotland,Holyrood (2026),,S13002844,10,3.2,1.3
+369,Hermitage and Gardens,Haringey,England,Local (2026),TBC,E05013591,10,3.2,1.3
+370,Kenton,Newcastle upon Tyne,England,Local (2026),Labour,E05011449,10,3.2,1.3
+371,Kew,Sefton,England,Local (2026),Labour,E05000941,10,3.2,1.3
+372,Merry Hill,Wolverhampton,England,Local (2026),Labour,E05014849,10,3.2,1.3
+373,Minster,Lincoln,England,Local (2026),Labour,E05010791,10,3.2,1.3
+374,Norcot,Reading,England,Local (2026),Labour,E05013873,10,3.2,1.3
+375,Norland,Kensington and Chelsea,England,Local (2026),Conservative,E05009398,10,3.2,1.3
+376,Park,Peterborough,England,Local (2026),Labour,E05010820,10,3.2,1.3
+377,Peckham,Southwark,England,Local (2026),TBC,E05011110,10,3.2,1.3
+378,Pitshanger,Ealing,England,Local (2026),Labour,E05013535,10,3.2,1.3
+379,Pontprennau and Old St Mellons,Cardiff,Wales,Senedd (2026),,W05001290,10,3.2,1.3
+380,Royal Albert,Newham,England,Local (2026),Labour,E05013922,10,3.2,1.3
+381,Sale Moor,Trafford,England,Local (2026),Labour,E05015255,10,3.2,1.3
+382,Sherbourne,Coventry,England,Local (2026),TBC,E05001229,10,3.2,1.3
+383,South Norwood,Croydon,England,Local (2026),Conservative,E05011485,10,3.2,1.3
+384,St Mary's,Adur,England,Local (2026),Labour,E05007571,10,3.2,1.3
+385,St Peter's and Canalside,Islington,England,Local (2026),Labour,E05013711,10,3.2,1.3
+386,Stroud Green,Haringey,England,Local (2026),TBC,E05013600,10,3.2,1.3
+387,Tipton Green,Sandwell,England,Local (2026),Reform UK,E05001279,10,3.2,1.3
+388,Town,Newcastle-under-Lyme,England,Local (2026),Reform UK,E05011432,10,3.2,1.3
+389,Wallsend Central,North Tyneside,England,Local (2026),Labour,E05015881,10,3.2,1.3
+390,Woodfield,Stevenage,England,Local (2026),Labour,E05015636,10,3.2,1.3
+391,Adamsdown,Cardiff,Wales,Senedd (2026),,W05001270,9,2.9,1.1
+392,Airdrie North,North Lanarkshire,Scotland,Holyrood (2026),,S13003049,9,2.9,1.1
+393,Ayr North,South Ayrshire,Scotland,Holyrood (2026),,S13003089,9,2.9,1.1
+394,Bablake,Coventry,England,Local (2026),TBC,E05001218,9,2.9,1.1
+395,Batchley and Brockhill,Redditch,England,Local (2026),TBC,E05015616,9,2.9,1.1
+396,Beckton,Newham,England,Local (2026),Labour,E05013904,9,2.9,1.1
+397,Belvedere,Bexley,England,Local (2026),Conservative,E05011218,9,2.9,1.1
+398,"Bishopton, Bridge of Weir and Langbank",Renfrewshire,Scotland,Holyrood (2026),,S13003085,9,2.9,1.1
+399,Blackheath,Sandwell,England,Local (2026),Reform UK,E05001261,9,2.9,1.1
+400,Bo'ness and Blackness,Falkirk,Scotland,Holyrood (2026),,S13002936,9,2.9,1.1
+401,Bridges,Gateshead,England,Local (2026),Reform UK,E05001069,9,2.9,1.1
+402,Burscough Bridge and Rufford,West Lancashire,England,Local (2026),Labour,E05014930,9,2.9,1.1
+403,Cathall,Waltham Forest,England,Local (2026),Green,E05013883,9,2.9,1.1
+404,Chapel End,Waltham Forest,England,Local (2026),Green,E05013884,9,2.9,1.1
+405,Charlton Village and Riverside,Greenwich,England,Local (2026),Labour,E05014075,9,2.9,1.1
+406,Chells,Stevenage,England,Local (2026),Labour,E05015627,9,2.9,1.1
+407,Church Street,Westminster,England,Local (2026),Conservative,E05013794,9,2.9,1.1
+408,Clydach,Swansea,Wales,Senedd (2026),,W05001042,9,2.9,1.1
+409,Clydebank Central,West Dunbartonshire,Scotland,Holyrood (2026),,S13003126,9,2.9,1.1
+410,Crayford,Bexley,England,Local (2026),Conservative,E05011222,9,2.9,1.1
+411,Darton East,Barnsley,England,Local (2026),Reform UK,E05000979,9,2.9,1.1
+412,Doon Valley,East Ayrshire,Scotland,Holyrood (2026),,S13002900,9,2.9,1.1
+413,East Kilbride West,South Lanarkshire,Scotland,Holyrood (2026),,S13003103,9,2.9,1.1
+414,Gorseinon and Penyrheol,Swansea,Wales,Senedd (2026),,W05001047,9,2.9,1.1
+415,Hamilton West and Earnock,South Lanarkshire,Scotland,Holyrood (2026),,S13003112,9,2.9,1.1
+416,Higher Blackley,Manchester,England,Local (2026),Labour,E05011367,9,2.9,1.1
+417,Irvine South,North Ayrshire,Scotland,Holyrood (2026),,S13003041,9,2.9,1.1
+418,Lea Bridge,Waltham Forest,England,Local (2026),Green,E05013895,9,2.9,1.1
+419,Maryfield,Dundee City,Scotland,Holyrood (2026),,S13002549,9,2.9,1.1
+420,Maryhill,Glasgow City,Scotland,Holyrood (2026),,S13002981,9,2.9,1.1
+421,Mash Barn,Adur,England,Local (2026),Labour,E05007569,9,2.9,1.1
+422,New Inn,Torfaen,Wales,Senedd (2026),,W05001370,9,2.9,1.1
+423,Oxley,Wolverhampton,England,Local (2026),Labour,E05014850,9,2.9,1.1
+424,Park,Wolverhampton,England,Local (2026),Labour,E05014851,9,2.9,1.1
+425,Pencoed and Penprysg,Bridgend,Wales,Senedd (2026),,W05001249,9,2.9,1.1
+426,Penylan,Cardiff,Wales,Senedd (2026),,W05001288,9,2.9,1.1
+427,Prestatyn South West,Denbighshire,Wales,Senedd (2026),,W05001348,9,2.9,1.1
+428,Priory,Exeter,England,Local (2026),TBC,E05011019,9,2.9,1.1
+429,Roby,Knowsley,England,Local (2026),Labour,E05010942,9,2.9,1.1
+430,Royal Victoria,Newham,England,Local (2026),Labour,E05013923,9,2.9,1.1
+431,Rushmere,Ipswich,England,Local (2026),Labour,E05007125,9,2.9,1.1
+432,Selden,Worthing,England,Local (2026),TBC,E05007705,9,2.9,1.1
+433,Sketty,Swansea,Wales,Senedd (2026),,W05001064,9,2.9,1.1
+434,Springburn/Robroyston,Glasgow City,Scotland,Holyrood (2026),,S13002983,9,2.9,1.1
+435,Stirling West,Stirling,Scotland,Holyrood (2026),,S13003119,9,2.9,1.1
+436,Sutton and Mount Gould,Plymouth,England,Local (2026),Labour,E05002097,9,2.9,1.1
+437,Thamesmead Moorings,Greenwich,England,Local (2026),Labour,E05014090,9,2.9,1.1
+438,Town,Monmouthshire,Wales,Senedd (2026),,W05001798,9,2.9,1.1
+439,Wallsend North,North Tyneside,England,Local (2026),Labour,E05015882,9,2.9,1.1
+440,Whitley,Reading,England,Local (2026),Labour,E05013879,9,2.9,1.1
+441,Whitley Bay North,North Tyneside,England,Local (2026),Labour,E05015884,9,2.9,1.1
+442,Wombwell,Barnsley,England,Local (2026),Reform UK,E05000995,9,2.9,1.1
+443,Woodhouse,Sheffield,England,Local (2026),Coalition,E05010884,9,2.9,1.1
+444,Addiscombe West,Croydon,England,Local (2026),Conservative,E05011463,8,2.6,1.0
+445,Arthur's Hill,Newcastle upon Tyne,England,Local (2026),Labour,E05011436,8,2.6,1.0
+446,Bensham Manor,Croydon,England,Local (2026),Conservative,E05011464,8,2.6,1.0
+447,Binley and Willenhall,Coventry,England,Local (2026),TBC,E05001219,8,2.6,1.0
+448,Blantyre,South Lanarkshire,Scotland,Holyrood (2026),,S13003109,8,2.6,1.0
+449,Brinnington and Stockport Central,Stockport,England,Local (2026),Liberal Democrat,E05015018,8,2.6,1.0
+450,"Burntisland, Kinghorn and Western Kirkcaldy",Fife,Scotland,Holyrood (2026),,S13002953,8,2.6,1.0
+451,Caversham Heights,Reading,England,Local (2026),Labour,E05013867,8,2.6,1.0
+452,Chepstow Castle and Larkfield,Monmouthshire,Wales,Senedd (2026),,W05001767,8,2.6,1.0
+453,Clackmannanshire North,Clackmannanshire,Scotland,Holyrood (2026),,S13002876,8,2.6,1.0
+454,Clapham Park,Lambeth,England,Local (2026),TBC,E05014101,8,2.6,1.0
+455,Clydebank Waterfront,West Dunbartonshire,Scotland,Holyrood (2026),,S13003127,8,2.6,1.0
+456,Coity Higher,Bridgend,Wales,Senedd (2026),,W05001238,8,2.6,1.0
+457,Coningham,Hammersmith and Fulham,England,Local (2026),Labour,E05013737,8,2.6,1.0
+458,Cumbernauld North,North Lanarkshire,Scotland,Holyrood (2026),,S13003043,8,2.6,1.0
+459,Dyfan,Vale of Glamorgan,Wales,Senedd (2026),,W05001387,8,2.6,1.0
+460,Eltham Town and Avery Hill,Greenwich,England,Local (2026),Labour,E05014079,8,2.6,1.0
+461,Greenlands and Lakeside,Redditch,England,Local (2026),TBC,E05015618,8,2.6,1.0
+462,High Barnet,Barnet,England,Local (2026),TBC,E05013644,8,2.6,1.0
+463,Hollington,Hastings,England,Local (2026),Green,E05011208,8,2.6,1.0
+464,Kentwood,Reading,England,Local (2026),Labour,E05013872,8,2.6,1.0
+465,Ladywood,Birmingham,England,Local (2026),TBC,E05011151,8,2.6,1.0
+466,Leyton,Waltham Forest,England,Local (2026),Green,E05013896,8,2.6,1.0
+467,Lostock and Barton,Trafford,England,Local (2026),Labour,E05015251,8,2.6,1.0
+468,Mold: Broncoed,Flintshire,Wales,Senedd (2026),,W05001603,8,2.6,1.0
+469,New Southgate,Enfield,England,Local (2026),TBC,E05013686,8,2.6,1.0
+470,Newtown and St Leonard's,Exeter,England,Local (2026),TBC,E05011016,8,2.6,1.0
+471,Norbury Park,Croydon,England,Local (2026),Conservative,E05011473,8,2.6,1.0
+472,Notting Dale,Kensington and Chelsea,England,Local (2026),Conservative,E05009399,8,2.6,1.0
+473,Old Heath and the Hythe,Colchester,England,Local (2026),Coalition,E05010836,8,2.6,1.0
+474,Porthcawl East Central,Bridgend,Wales,Senedd (2026),,W05001251,8,2.6,1.0
+475,Priory Heath,Ipswich,England,Local (2026),Labour,E05007124,8,2.6,1.0
+476,Rhiwbina,Cardiff,Wales,Senedd (2026),,W05001292,8,2.6,1.0
+477,Royds,Bradford,England,Local (2026),TBC,E05001361,8,2.6,1.0
+478,Sale Central,Trafford,England,Local (2026),Labour,E05015254,8,2.6,1.0
+479,St John's,Ipswich,England,Local (2026),Labour,E05007126,8,2.6,1.0
+480,St Luke's,Southend-on-Sea,England,Local (2026),Coalition,E05002221,8,2.6,1.0
+481,Stirling North,Stirling,Scotland,Holyrood (2026),,S13003118,8,2.6,1.0
+482,Stony Stratford,Milton Keynes,England,Local (2026),TBC,E05009421,8,2.6,1.0
+483,Swanside,Knowsley,England,Local (2026),Labour,E05010947,8,2.6,1.0
+484,Upper Stoke,Coventry,England,Local (2026),TBC,E05001230,8,2.6,1.0
+485,Woodside,Croydon,England,Local (2026),Conservative,E05011489,8,2.6,1.0
+486,Woughton and Fishermead,Milton Keynes,England,Local (2026),TBC,E05009424,8,2.6,1.0
+487,Abbey Wood,Greenwich,England,Local (2026),Labour,E05014072,7,2.2,0.9
+488,Annick,East Ayrshire,Scotland,Holyrood (2026),,S13002892,7,2.2,0.9
+489,Balham,Wandsworth,England,Local (2026),TBC,E05014009,7,2.2,0.9
+490,Bilston North,Wolverhampton,England,Local (2026),Labour,E05014838,7,2.2,0.9
+491,Bradwell,Milton Keynes,England,Local (2026),TBC,E05009409,7,2.2,0.9
+492,Bridge,Ipswich,England,Local (2026),Labour,E05007119,7,2.2,0.9
+493,Cadoc,Vale of Glamorgan,Wales,Senedd (2026),,W05001381,7,2.2,0.9
+494,Calton,Glasgow City,Scotland,Holyrood (2026),,S13002975,7,2.2,0.9
+495,Charville,Hillingdon,England,Local (2026),Conservative,E05013565,7,2.2,0.9
+496,Chirk South,Wrexham,Wales,Senedd (2026),,W05001725,7,2.2,0.9
+497,Chorlton,Manchester,England,Local (2026),Labour,E05011357,7,2.2,0.9
+498,Clackmannanshire East,Clackmannanshire,Scotland,Holyrood (2026),,S13002879,7,2.2,0.9
+499,Clackmannanshire West,Clackmannanshire,Scotland,Holyrood (2026),,S13002875,7,2.2,0.9
+500,"Crynant, Onllwyn and Seven Sisters",Neath Port Talbot,Wales,Senedd (2026),,W05001694,7,2.2,0.9
+501,Dearne North,Barnsley,England,Local (2026),Reform UK,E05000981,7,2.2,0.9
+502,Fulwell,Sunderland,England,Local (2026),Reform UK,E05001157,7,2.2,0.9
+503,Gensing,Hastings,England,Local (2026),Green,E05011207,7,2.2,0.9
+504,Hackney Central,Hackney,England,Local (2026),Green,E05009372,7,2.2,0.9
+505,Holywell West,Flintshire,Wales,Senedd (2026),,W05001598,7,2.2,0.9
+506,Inverclyde West,Inverclyde,Scotland,Holyrood (2026),,S13003015,7,2.2,0.9
+507,Kennington,Lambeth,England,Local (2026),TBC,E05014105,7,2.2,0.9
+508,Kilmarnock North,East Ayrshire,Scotland,Holyrood (2026),,S13002893,7,2.2,0.9
+509,Kilmarnock South,East Ayrshire,Scotland,Holyrood (2026),,S13002896,7,2.2,0.9
+510,Kilsyth,North Lanarkshire,Scotland,Holyrood (2026),,S13003042,7,2.2,0.9
+511,Laycock,Islington,England,Local (2026),Labour,E05013708,7,2.2,0.9
+512,Llansamlet,Swansea,Wales,Senedd (2026),,W05001052,7,2.2,0.9
+513,Llay,Wrexham,Wales,Senedd (2026),,W05001742,7,2.2,0.9
+514,Marine,Worthing,England,Local (2026),TBC,E05007701,7,2.2,0.9
+515,Old Hastings,Hastings,England,Local (2026),Green,E05011210,7,2.2,0.9
+516,Old Kent Road,Southwark,England,Local (2026),TBC,E05011109,7,2.2,0.9
+517,Oldcastle,Bridgend,Wales,Senedd (2026),,W05001248,7,2.2,0.9
+518,Porthcawl West Central,Bridgend,Wales,Senedd (2026),,W05001252,7,2.2,0.9
+519,Radyr,Cardiff,Wales,Senedd (2026),,W05001291,7,2.2,0.9
+520,Rhyl East,Denbighshire,Wales,Senedd (2026),,W05001350,7,2.2,0.9
+521,Rhyl Trellewelyn,Denbighshire,Wales,Senedd (2026),,W05001353,7,2.2,0.9
+522,Rodbourne Cheney,Swindon,England,Local (2026),TBC,E05008967,7,2.2,0.9
+523,Ruabon,Wrexham,Wales,Senedd (2026),,W05001757,7,2.2,0.9
+524,South Croydon,Croydon,England,Local (2026),Conservative,E05011484,7,2.2,0.9
+525,Southside Central,Glasgow City,Scotland,Holyrood (2026),,S13002974,7,2.2,0.9
+526,Southside/Newington,City of Edinburgh,Scotland,Holyrood (2026),,S13002933,7,2.2,0.9
+527,St Laurence,Southend-on-Sea,England,Local (2026),Coalition,E05002220,7,2.2,0.9
+528,St Michaels,Knowsley,England,Local (2026),Labour,E05010945,7,2.2,0.9
+529,Stanley and Outwood East,Wakefield,England,Local (2026),Reform UK,E05001458,7,2.2,0.9
+530,Thamesmead East,Bexley,England,Local (2026),Conservative,E05011232,7,2.2,0.9
+531,Tynemouth,North Tyneside,England,Local (2026),Labour,E05015880,7,2.2,0.9
+532,Uplands,Swansea,Wales,Senedd (2026),,W05001067,7,2.2,0.9
+533,Westborough,Southend-on-Sea,England,Local (2026),Coalition,E05002226,7,2.2,0.9
+534,Westoe,South Tyneside,England,Local (2026),Reform UK,E05001149,7,2.2,0.9
+535,Airyhall/Broomhill/Garthdee,Aberdeen City,Scotland,Holyrood (2026),,S13002845,6,1.9,0.8
+536,Allens Cross,Birmingham,England,Local (2026),TBC,E05011119,6,1.9,0.8
+537,Banbury Grimsbury and Hightown,Cherwell,England,Local (2026),Coalition,E05010922,6,1.9,0.8
+538,Bannockburn,Stirling,Scotland,Holyrood (2026),,S13003121,6,1.9,0.8
+539,Bellingham,Lewisham,England,Local (2026),Green,E05013714,6,1.9,0.8
+540,Bordesley and Highgate,Birmingham,England,Local (2026),TBC,E05011126,6,1.9,0.8
+541,Bruce Castle,Haringey,England,Local (2026),TBC,E05013587,6,1.9,0.8
+542,Buckingham,Adur,England,Local (2026),Labour,E05007562,6,1.9,0.8
+543,Camp Hill,Nuneaton and Bedworth,England,Local (2026),Labour,E05015831,6,1.9,0.8
+544,Clackmannanshire Central,Clackmannanshire,Scotland,Holyrood (2026),,S13002877,6,1.9,0.8
+545,Coldside,Dundee City,Scotland,Holyrood (2026),,S13002548,6,1.9,0.8
+546,Dearne South,Barnsley,England,Local (2026),Reform UK,E05000982,6,1.9,0.8
+547,Dwyrain Bangor,Gwynedd,Wales,Senedd (2026),,W05001530,6,1.9,0.8
+548,East Kilbride Central South,South Lanarkshire,Scotland,Holyrood (2026),,S13003101,6,1.9,0.8
+549,Elswick,Newcastle upon Tyne,England,Local (2026),Labour,E05011445,6,1.9,0.8
+550,Faraday,Southwark,England,Local (2026),TBC,E05011102,6,1.9,0.8
+551,George St/Harbour,Aberdeen City,Scotland,Holyrood (2026),,S13002842,6,1.9,0.8
+552,Glyn,Conwy,Wales,Senedd (2026),,W05001414,6,1.9,0.8
+553,Great Bridge,Sandwell,England,Local (2026),Reform UK,E05001267,6,1.9,0.8
+554,Heath,Nuneaton and Bedworth,England,Local (2026),Labour,E05015836,6,1.9,0.8
+555,Henley,Coventry,England,Local (2026),TBC,E05001223,6,1.9,0.8
+556,Hilton/Woodside/Stockethill,Aberdeen City,Scotland,Holyrood (2026),,S13002839,6,1.9,0.8
+557,Homerton,Hackney,England,Local (2026),Green,E05009376,6,1.9,0.8
+558,Inverclyde South West,Inverclyde,Scotland,Holyrood (2026),,S13003016,6,1.9,0.8
+559,Irvine West,North Ayrshire,Scotland,Holyrood (2026),,S13003032,6,1.9,0.8
+560,Langley,Sandwell,England,Local (2026),Reform UK,E05001270,6,1.9,0.8
+561,Lee Green,Lewisham,England,Local (2026),Green,E05013726,6,1.9,0.8
+562,Linlithgow,West Lothian,Scotland,Holyrood (2026),,S13002820,6,1.9,0.8
+563,Mincinglake and Whipton,Exeter,England,Local (2026),TBC,E05011015,6,1.9,0.8
+564,Mold East,Flintshire,Wales,Senedd (2026),,W05001604,6,1.9,0.8
+565,Morningside,City of Edinburgh,Scotland,Holyrood (2026),,S13002928,6,1.9,0.8
+566,Mumbles,Swansea,Wales,Senedd (2026),,W05001056,6,1.9,0.8
+567,North East,Barnsley,England,Local (2026),Reform UK,E05000987,6,1.9,0.8
+568,North Edgbaston,Birmingham,England,Local (2026),TBC,E05011157,6,1.9,0.8
+569,Ormskirk West,West Lancashire,England,Local (2026),Labour,E05014935,6,1.9,0.8
+570,Oval,Lambeth,England,Local (2026),TBC,E05014108,6,1.9,0.8
+571,Partick East/Kelvindale,Glasgow City,Scotland,Holyrood (2026),,S13002989,6,1.9,0.8
+572,Pembroke Dock: Bush,Pembrokeshire,Wales,Senedd (2026),,W05001474,6,1.9,0.8
+573,Saltcoats and Stevenston,North Ayrshire,Scotland,Holyrood (2026),,S13003149,6,1.9,0.8
+574,St Augustine's,Vale of Glamorgan,Wales,Senedd (2026),,W05001399,6,1.9,0.8
+575,St Helens,Hastings,England,Local (2026),Green,E05011212,6,1.9,0.8
+576,St Mary's,Nuneaton and Bedworth,England,Local (2026),Labour,E05015840,6,1.9,0.8
+577,Sydenham,Lewisham,England,Local (2026),Green,E05013731,6,1.9,0.8
+578,Teifi,Ceredigion,Wales,Senedd (2026),,W05001327,6,1.9,0.8
+579,Topsham,Exeter,England,Local (2026),TBC,E05011023,6,1.9,0.8
+580,Torry/Ferryhill,Aberdeen City,Scotland,Holyrood (2026),,S13002846,6,1.9,0.8
+581,Town,Merthyr Tydfil,Wales,Senedd (2026),,W05001624,6,1.9,0.8
+582,Townhill,Swansea,Wales,Senedd (2026),,W05001066,6,1.9,0.8
+583,Valley,Waltham Forest,England,Local (2026),Green,E05013901,6,1.9,0.8
+584,West Dulwich,Lambeth,England,Local (2026),TBC,E05014119,6,1.9,0.8
+585,West Ham,Newham,England,Local (2026),Labour,E05013927,6,1.9,0.8
+586,West Heath,Bexley,England,Local (2026),Conservative,E05011233,6,1.9,0.8
+587,West St Leonards,Hastings,England,Local (2026),Green,E05011215,6,1.9,0.8
+588,Whetstone,Barnet,England,Local (2026),TBC,E05013650,6,1.9,0.8
+589,Woodberry Down,Hackney,England,Local (2026),Green,E05009387,6,1.9,0.8
+590,Aberdare West and Llwydcoed,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001074,5,1.6,0.6
+591,Aberkenfig,Bridgend,Wales,Senedd (2026),,W05001228,5,1.6,0.6
+592,Aethwy,Isle of Anglesey,Wales,Senedd (2026),,W05001492,5,1.6,0.6
+593,Banbury Ruscote,Cherwell,England,Local (2026),Coalition,E05010924,5,1.6,0.6
+594,Barnehurst,Bexley,England,Local (2026),Conservative,E05011217,5,1.6,0.6
+595,Boleyn,Newham,England,Local (2026),Labour,E05013905,5,1.6,0.6
+596,Burnt Oak,Barnet,England,Local (2026),TBC,E05013630,5,1.6,0.6
+597,Canning Town South,Newham,England,Local (2026),Labour,E05013907,5,1.6,0.6
+598,Castle,Hastings,England,Local (2026),Green,E05011204,5,1.6,0.6
+599,Castleland,Vale of Glamorgan,Wales,Senedd (2026),,W05001382,5,1.6,0.6
+600,Cefn-glas,Bridgend,Wales,Senedd (2026),,W05001237,5,1.6,0.6
+601,Charlestown,Manchester,England,Local (2026),Labour,E05011355,5,1.6,0.6
+602,Chilvers Coton,Nuneaton and Bedworth,England,Local (2026),Labour,E05015832,5,1.6,0.6
+603,Churchill,Oxford,England,Local (2026),Labour,E05013099,5,1.6,0.6
+604,Coley,Reading,England,Local (2026),Labour,E05013869,5,1.6,0.6
+605,Court,Vale of Glamorgan,Wales,Senedd (2026),,W05001384,5,1.6,0.6
+606,Croesyceiliog,Torfaen,Wales,Senedd (2026),,W05001364,5,1.6,0.6
+607,Crook Log,Bexley,England,Local (2026),Conservative,E05011223,5,1.6,0.6
+608,Crystal Palace and Anerley,Bromley,England,Local (2026),Conservative,E05013995,5,1.6,0.6
+609,Cumbernauld South,North Lanarkshire,Scotland,Holyrood (2026),,S13003044,5,1.6,0.6
+610,De Beauvoir,Hackney,England,Local (2026),Green,E05009371,5,1.6,0.6
+611,Denton West,Tameside,England,Local (2026),TBC,E05014525,5,1.6,0.6
+612,Downham,Lewisham,England,Local (2026),Green,E05013720,5,1.6,0.6
+613,East Acton,Ealing,England,Local (2026),Labour,E05013522,5,1.6,0.6
+614,East Barnet,Barnet,England,Local (2026),TBC,E05013635,5,1.6,0.6
+615,East End,Dundee City,Scotland,Holyrood (2026),,S13002551,5,1.6,0.6
+616,East Finchley,Barnet,England,Local (2026),TBC,E05013636,5,1.6,0.6
+617,East Kilbride East,South Lanarkshire,Scotland,Holyrood (2026),,S13003104,5,1.6,0.6
+618,Fairwater,Torfaen,Wales,Senedd (2026),,W05001365,5,1.6,0.6
+619,Flint: Coleshill and Trelawny,Flintshire,Wales,Senedd (2026),,W05001588,5,1.6,0.6
+620,Forest Hall,North Tyneside,England,Local (2026),Labour,E05015870,5,1.6,0.6
+621,Fortissat,North Lanarkshire,Scotland,Holyrood (2026),,S13003054,5,1.6,0.6
+622,Gibbonsdown,Vale of Glamorgan,Wales,Senedd (2026),,W05001388,5,1.6,0.6
+623,Glascote,Tamworth,England,Local (2026),Labour,E05007070,5,1.6,0.6
+624,Graig and Pontypridd West,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001085,5,1.6,0.6
+625,Gwaun-Cae-Gurwen and Lower Brynamman,Neath Port Talbot,Wales,Senedd (2026),,W05001700,5,1.6,0.6
+626,Hamilton South,South Lanarkshire,Scotland,Holyrood (2026),,S13003113,5,1.6,0.6
+627,Holywells,Ipswich,England,Local (2026),Labour,E05007123,5,1.6,0.6
+628,Inverclyde South,Inverclyde,Scotland,Holyrood (2026),,S13003017,5,1.6,0.6
+629,Irvine East,North Ayrshire,Scotland,Holyrood (2026),,S13003033,5,1.6,0.6
+630,Irvine Valley,East Ayrshire,Scotland,Holyrood (2026),,S13002897,5,1.6,0.6
+631,Larkhall,South Lanarkshire,Scotland,Holyrood (2026),,S13003114,5,1.6,0.6
+632,Lisvane and Thornhill,Cardiff,Wales,Senedd (2026),,W05001281,5,1.6,0.6
+633,Llandaff North,Cardiff,Wales,Senedd (2026),,W05001283,5,1.6,0.6
+634,Maida Vale,Westminster,England,Local (2026),Conservative,E05013800,5,1.6,0.6
+635,"Maybole, North Carrick and Coylton",South Ayrshire,Scotland,Holyrood (2026),,S13003093,5,1.6,0.6
+636,Merthyr Vale,Merthyr Tydfil,Wales,Senedd (2026),,W05001620,5,1.6,0.6
+637,Mold South,Flintshire,Wales,Senedd (2026),,W05001605,5,1.6,0.6
+638,Mold West,Flintshire,Wales,Senedd (2026),,W05001606,5,1.6,0.6
+639,North East,Dundee City,Scotland,Holyrood (2026),,S13002830,5,1.6,0.6
+640,Northbrook,Worthing,England,Local (2026),TBC,E05007702,5,1.6,0.6
+641,Panteg,Torfaen,Wales,Senedd (2026),,W05001371,5,1.6,0.6
+642,Pembroke: Monkton and St Mary South,Pembrokeshire,Wales,Senedd (2026),,W05001478,5,1.6,0.6
+643,Pen-sarn Pentre Mawr,Conwy,Wales,Senedd (2026),,W05001427,5,1.6,0.6
+644,Pentland Hills,City of Edinburgh,Scotland,Holyrood (2026),,S13002920,5,1.6,0.6
+645,Plymouth,Merthyr Tydfil,Wales,Senedd (2026),,W05001623,5,1.6,0.6
+646,Pontnewydd,Torfaen,Wales,Senedd (2026),,W05001372,5,1.6,0.6
+647,Shepherd's Bush Green,Hammersmith and Fulham,England,Local (2026),Labour,E05013748,5,1.6,0.6
+648,Shotton East and Shotton Higher,Flintshire,Wales,Senedd (2026),,W05001612,5,1.6,0.6
+649,Springfield,Hackney,England,Local (2026),Green,E05009383,5,1.6,0.6
+650,St Mary's,North Tyneside,England,Local (2026),Labour,E05015879,5,1.6,0.6
+651,Stirling East,Stirling,Scotland,Holyrood (2026),,S13003120,5,1.6,0.6
+652,Stratford,Newham,England,Local (2026),Labour,E05013924,5,1.6,0.6
+653,Taff's Well,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001103,5,1.6,0.6
+654,Tudno,Conwy,Wales,Senedd (2026),,W05001430,5,1.6,0.6
+655,Tufnell Park,Islington,England,Local (2026),Labour,E05013713,5,1.6,0.6
+656,Waddon,Croydon,England,Local (2026),Conservative,E05011487,5,1.6,0.6
+657,Walker,Newcastle upon Tyne,England,Local (2026),Labour,E05011458,5,1.6,0.6
+658,Waltham Cross,Broxbourne,England,Local (2026),Conservative,E05009010,5,1.6,0.6
+659,Walton Manor,Oxford,England,Local (2026),Labour,E05013118,5,1.6,0.6
+660,Welshpool Castle,Powys,Wales,Senedd (2026),,W05001172,5,1.6,0.6
+661,West Cross,Swansea,Wales,Senedd (2026),,W05001070,5,1.6,0.6
+662,West Finchley,Barnet,England,Local (2026),TBC,E05013648,5,1.6,0.6
+663,West Thornton,Croydon,England,Local (2026),Conservative,E05011488,5,1.6,0.6
+664,Ynys Gybi,Isle of Anglesey,Wales,Senedd (2026),,W05001505,5,1.6,0.6
+665,Aberaman,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001071,4,1.3,0.5
+666,Acrefair North,Wrexham,Wales,Senedd (2026),,W05001713,4,1.3,0.5
+667,Acton and Maesydre,Wrexham,Wales,Senedd (2026),,W05001714,4,1.3,0.5
+668,Airdrie Central,North Lanarkshire,Scotland,Holyrood (2026),,S13003050,4,1.3,0.5
+669,Airdrie South,North Lanarkshire,Scotland,Holyrood (2026),,S13003053,4,1.3,0.5
+670,Banchory and Mid Deeside,Aberdeenshire,Scotland,Holyrood (2026),,S13002863,4,1.3,0.5
+671,Barnoldswick,Pendle,England,Local (2026),Independent,E05015546,4,1.3,0.5
+672,Bixley,Ipswich,England,Local (2026),Labour,E05007118,4,1.3,0.5
+673,Bowthorpe,Norwich,England,Local (2026),Green,E05012901,4,1.3,0.5
+674,Broad Green,Croydon,England,Local (2026),Conservative,E05011465,4,1.3,0.5
+675,Buttrills,Vale of Glamorgan,Wales,Senedd (2026),,W05001380,4,1.3,0.5
+676,Calverley and Farsley,Leeds,England,Local (2026),TBC,E05011389,4,1.3,0.5
+677,Cambuslang West,South Lanarkshire,Scotland,Holyrood (2026),,S13003107,4,1.3,0.5
+678,Camperdown,North Tyneside,England,Local (2026),Labour,E05015867,4,1.3,0.5
+679,Canonbury,Islington,England,Local (2026),Labour,E05013701,4,1.3,0.5
+680,Catford South,Lewisham,England,Local (2026),Green,E05013717,4,1.3,0.5
+681,Central St Leonards,Hastings,England,Local (2026),Green,E05011205,4,1.3,0.5
+682,Chadderton North,Oldham,England,Local (2026),Labour,E05014648,4,1.3,0.5
+683,Church Village,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001077,4,1.3,0.5
+684,Colney Heath,St Albans,England,Local (2026),Liberal Democrat,E05013950,4,1.3,0.5
+685,Cornerswell,Vale of Glamorgan,Wales,Senedd (2026),,W05001383,4,1.3,0.5
+686,Cowbridge,Vale of Glamorgan,Wales,Senedd (2026),,W05001385,4,1.3,0.5
+687,Cradley North and Wollescote,Dudley,England,Local (2026),Conservative,E05015909,4,1.3,0.5
+688,Cross Gates and Whinmoor,Leeds,England,Local (2026),TBC,E05011391,4,1.3,0.5
+689,Cullercoats and Whitley Bay South,North Tyneside,England,Local (2026),Labour,E05015869,4,1.3,0.5
+690,Cwm,Blaenau Gwent,Wales,Senedd (2026),,W05001260,4,1.3,0.5
+691,Cyfarthfa,Merthyr Tydfil,Wales,Senedd (2026),,W05001617,4,1.3,0.5
+692,Dennistoun,Glasgow City,Scotland,Holyrood (2026),,S13002988,4,1.3,0.5
+693,East Garioch,Aberdeenshire,Scotland,Holyrood (2026),,S13002859,4,1.3,0.5
+694,East Ham South,Newham,England,Local (2026),Labour,E05013910,4,1.3,0.5
+695,Eirias,Conwy,Wales,Senedd (2026),,W05001412,4,1.3,0.5
+696,Falkirk South,Falkirk,Scotland,Holyrood (2026),,S13002942,4,1.3,0.5
+697,Glyder,Gwynedd,Wales,Senedd (2026),,W05001536,4,1.3,0.5
+698,Gogarth Mostyn,Conwy,Wales,Senedd (2026),,W05001416,4,1.3,0.5
+699,Govan,Glasgow City,Scotland,Holyrood (2026),,S13002971,4,1.3,0.5
+700,Gowerton,Swansea,Wales,Senedd (2026),,W05001049,4,1.3,0.5
+701,Greenfield,Flintshire,Wales,Senedd (2026),,W05001590,4,1.3,0.5
+702,Gwernaffield and Gwernymynydd,Flintshire,Wales,Senedd (2026),,W05001591,4,1.3,0.5
+703,Hackney Downs,Hackney,England,Local (2026),Green,E05009373,4,1.3,0.5
+704,Hale End and Highams Park South,Waltham Forest,England,Local (2026),Green,E05013889,4,1.3,0.5
+705,Halesowen North,Dudley,England,Local (2026),Conservative,E05015911,4,1.3,0.5
+706,Hatch Lane and Highams Park North,Waltham Forest,England,Local (2026),Green,E05013890,4,1.3,0.5
+707,Holywell East,Flintshire,Wales,Senedd (2026),,W05001597,4,1.3,0.5
+708,Howdon,North Tyneside,England,Local (2026),Labour,E05015871,4,1.3,0.5
+709,Hoyland Milton,Barnsley,England,Local (2026),Reform UK,E05000984,4,1.3,0.5
+710,"Huntly, Strathbogie and Howe of Alford",Aberdeenshire,Scotland,Holyrood (2026),,S13002861,4,1.3,0.5
+711,Inverclyde East,Inverclyde,Scotland,Holyrood (2026),,S13003011,4,1.3,0.5
+712,Killingworth,North Tyneside,England,Local (2026),Labour,E05015872,4,1.3,0.5
+713,Kursaal,Southend-on-Sea,England,Local (2026),Coalition,E05002216,4,1.3,0.5
+714,Lea Bridge,Hackney,England,Local (2026),Green,E05009380,4,1.3,0.5
+715,Llangollen,Denbighshire,Wales,Senedd (2026),,W05001341,4,1.3,0.5
+716,Llanishen,Cardiff,Wales,Senedd (2026),,W05001284,4,1.3,0.5
+717,Longbenton and Benton,North Tyneside,England,Local (2026),Labour,E05015873,4,1.3,0.5
+718,Lye Valley,Oxford,England,Local (2026),Labour,E05013108,4,1.3,0.5
+719,Milton,Southend-on-Sea,England,Local (2026),Coalition,E05002218,4,1.3,0.5
+720,Morgan Jones,Caerphilly,Wales,Senedd (2026),,W05001663,4,1.3,0.5
+721,Morriston,Swansea,Wales,Senedd (2026),,W05001055,4,1.3,0.5
+722,Nelson,Norwich,England,Local (2026),Green,E05012908,4,1.3,0.5
+723,New Town and Christ Church,Colchester,England,Local (2026),Coalition,E05010835,4,1.3,0.5
+724,Newport and Dinas,Pembrokeshire,Wales,Senedd (2026),,W05001470,4,1.3,0.5
+725,Newtown,Birmingham,England,Local (2026),TBC,E05011156,4,1.3,0.5
+726,Norbury and Pollards Hill,Croydon,England,Local (2026),Conservative,E05011472,4,1.3,0.5
+727,North,Peterborough,England,Local (2026),Labour,E05010817,4,1.3,0.5
+728,North East,Glasgow City,Scotland,Holyrood (2026),,S13003133,4,1.3,0.5
+729,Norwood Green,Ealing,England,Local (2026),Labour,E05013533,4,1.3,0.5
+730,Old Moat,Manchester,England,Local (2026),Labour,E05011375,4,1.3,0.5
+731,Old Skelmersdale,West Lancashire,England,Local (2026),Labour,E05014933,4,1.3,0.5
+732,Pant and Johnstown,Wrexham,Wales,Senedd (2026),,W05001749,4,1.3,0.5
+733,Parc a'r Mynydd,Isle of Anglesey,Wales,Senedd (2026),,W05001500,4,1.3,0.5
+734,Penge and Cator,Bromley,England,Local (2026),Conservative,E05014002,4,1.3,0.5
+735,Perry Vale,Lewisham,England,Local (2026),Green,E05013729,4,1.3,0.5
+736,Plaistow West and Canning Town East,Newham,England,Local (2026),Labour,E05013920,4,1.3,0.5
+737,Prestatyn North,Denbighshire,Wales,Senedd (2026),,W05001347,4,1.3,0.5
+738,Resolven and Tonna,Neath Port Talbot,Wales,Senedd (2026),,W05001708,4,1.3,0.5
+739,Royston,Barnsley,England,Local (2026),Reform UK,E05000992,4,1.3,0.5
+740,Royton North,Oldham,England,Local (2026),Labour,E05014656,4,1.3,0.5
+741,Rutherglen Central and North,South Lanarkshire,Scotland,Holyrood (2026),,S13003106,4,1.3,0.5
+742,Shacklewell,Hackney,England,Local (2026),Green,E05009382,4,1.3,0.5
+743,Shiremoor,North Tyneside,England,Local (2026),Labour,E05015878,4,1.3,0.5
+744,Smethwick,Sandwell,England,Local (2026),Reform UK,E05001277,4,1.3,0.5
+745,Southall West,Ealing,England,Local (2026),Labour,E05013539,4,1.3,0.5
+746,Southwick,Sunderland,England,Local (2026),Reform UK,E05001172,4,1.3,0.5
+747,St Martins,Caerphilly,Wales,Senedd (2026),,W05001674,4,1.3,0.5
+748,St Mary's,Wandsworth,England,Local (2026),TBC,E05014018,4,1.3,0.5
+749,St Thomas,Exeter,England,Local (2026),TBC,E05011022,4,1.3,0.5
+750,St Thomas,Swansea,Wales,Senedd (2026),,W05001065,4,1.3,0.5
+751,Stanwell,Vale of Glamorgan,Wales,Senedd (2026),,W05001400,4,1.3,0.5
+752,Urmston,Trafford,England,Local (2026),Labour,E05015259,4,1.3,0.5
+753,Victoria Park,Glasgow City,Scotland,Holyrood (2026),,S13002978,4,1.3,0.5
+754,Vincent Square,Westminster,England,Local (2026),Conservative,E05013807,4,1.3,0.5
+755,Wakefield North,Wakefield,England,Local (2026),Reform UK,E05001460,4,1.3,0.5
+756,West Drayton,Hillingdon,England,Local (2026),Conservative,E05013581,4,1.3,0.5
+757,West Hendon,Barnet,England,Local (2026),TBC,E05013649,4,1.3,0.5
+758,Westhill and District,Aberdeenshire,Scotland,Holyrood (2026),,S13002860,4,1.3,0.5
+759,Whiston and Cronton,Knowsley,England,Local (2026),Labour,E05010948,4,1.3,0.5
+760,Whitehouse,Ipswich,England,Local (2026),Labour,E05007131,4,1.3,0.5
+761,Whoberley,Coventry,England,Local (2026),TBC,E05001233,4,1.3,0.5
+762,Woodside,Haringey,England,Local (2026),TBC,E05013605,4,1.3,0.5
+763,Woolwich Dockyard,Greenwich,England,Local (2026),Labour,E05014094,4,1.3,0.5
+764,Wyke,Bradford,England,Local (2026),TBC,E05001370,4,1.3,0.5
+765,Aberbargoed and Bargoed,Caerphilly,Wales,Senedd (2026),,W05001649,3,1.0,0.4
+766,Abercynon,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001072,3,1.0,0.4
+767,Addison,Hammersmith and Fulham,England,Local (2026),Labour,E05013733,3,1.0,0.4
+768,Allt-wen,Neath Port Talbot,Wales,Senedd (2026),,W05001681,3,1.0,0.4
+769,Attleborough,Nuneaton and Bedworth,England,Local (2026),Labour,E05015828,3,1.0,0.4
+770,Baglan,Neath Port Talbot,Wales,Senedd (2026),,W05001682,3,1.0,0.4
+771,Baruc,Vale of Glamorgan,Wales,Senedd (2026),,W05001379,3,1.0,0.4
+772,Bearsden South,East Dunbartonshire,Scotland,Holyrood (2026),,S13002903,3,1.0,0.4
+773,Beddau and Tyn-y-nant,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001075,3,1.0,0.4
+774,Bedlinog and Trelewis,Merthyr Tydfil,Wales,Senedd (2026),,W05001616,3,1.0,0.4
+775,Bedwas and Trethomas,Caerphilly,Wales,Senedd (2026),,W05001652,3,1.0,0.4
+776,Bilston South,Wolverhampton,England,Local (2026),Labour,E05014839,3,1.0,0.4
+777,Bodelwyddan,Denbighshire,Wales,Senedd (2026),,W05001333,3,1.0,0.4
+778,Borras Park,Wrexham,Wales,Senedd (2026),,W05001716,3,1.0,0.4
+779,Brackla East Central,Bridgend,Wales,Senedd (2026),,W05001231,3,1.0,0.4
+780,Brackla West Central,Bridgend,Wales,Senedd (2026),,W05001233,3,1.0,0.4
+781,Briton Ferry East,Neath Port Talbot,Wales,Senedd (2026),,W05001684,3,1.0,0.4
+782,Brixton Windrush,Lambeth,England,Local (2026),TBC,E05014098,3,1.0,0.4
+783,Bromley North,Tower Hamlets,England,Local (2026),Aspire,E05009321,3,1.0,0.4
+784,Bryn-coch South,Neath Port Talbot,Wales,Senedd (2026),,W05001688,3,1.0,0.4
+785,Brynna and Llanharan,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001076,3,1.0,0.4
+786,Burngreave,Sheffield,England,Local (2026),Coalition,E05010861,3,1.0,0.4
+787,Bushbury South and Low Hill,Wolverhampton,England,Local (2026),Labour,E05014842,3,1.0,0.4
+788,Caergwrle,Flintshire,Wales,Senedd (2026),,W05001580,3,1.0,0.4
+789,Callowland,Watford,England,Local (2026),Liberal Democrat,E05011046,3,1.0,0.4
+790,Cambuslang East,South Lanarkshire,Scotland,Holyrood (2026),,S13003108,3,1.0,0.4
+791,Canning Town North,Newham,England,Local (2026),Labour,E05013906,3,1.0,0.4
+792,Castle,Swansea,Wales,Senedd (2026),,W05001041,3,1.0,0.4
+793,Castle and Priory,Dudley,England,Local (2026),Conservative,E05015907,3,1.0,0.4
+794,Cazenove,Hackney,England,Local (2026),Green,E05009368,3,1.0,0.4
+795,Chapel,Newcastle upon Tyne,England,Local (2026),Labour,E05011442,3,1.0,0.4
+796,Chirton and Percy Main,North Tyneside,England,Local (2026),Labour,E05015868,3,1.0,0.4
+797,Chiswick Homefields,Hounslow,England,Local (2026),Labour,E05013610,3,1.0,0.4
+798,Cimla and Pelenna,Neath Port Talbot,Wales,Senedd (2026),,W05001690,3,1.0,0.4
+799,Coedpoeth,Wrexham,Wales,Senedd (2026),,W05001726,3,1.0,0.4
+800,Connah's Quay: Golftyn,Flintshire,Wales,Senedd (2026),,W05001584,3,1.0,0.4
+801,Cornelly,Bridgend,Wales,Senedd (2026),,W05001239,3,1.0,0.4
+802,Cradley Heath and Old Hill,Sandwell,England,Local (2026),Reform UK,E05001264,3,1.0,0.4
+803,Cricklewood,Barnet,England,Local (2026),TBC,E05013634,3,1.0,0.4
+804,Crystal Palace and Upper Norwood,Croydon,England,Local (2026),Conservative,E05011467,3,1.0,0.4
+805,Denbigh Lower,Denbighshire,Wales,Senedd (2026),,W05001335,3,1.0,0.4
+806,Dogsthorpe,Peterborough,England,Local (2026),Labour,E05010808,3,1.0,0.4
+807,Dowlais and Pant,Merthyr Tydfil,Wales,Senedd (2026),,W05001618,3,1.0,0.4
+808,Esclusham,Wrexham,Wales,Senedd (2026),,W05001729,3,1.0,0.4
+809,Failsworth East,Oldham,England,Local (2026),Labour,E05014652,3,1.0,0.4
+810,Ferndale and Maerdy,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001082,3,1.0,0.4
+811,Fishguard: North West,Pembrokeshire,Wales,Senedd (2026),,W05001443,3,1.0,0.4
+812,Fountainbridge/Craiglockhart,City of Edinburgh,Scotland,Holyrood (2026),,S13002927,3,1.0,0.4
+813,Graiseley,Wolverhampton,England,Local (2026),Labour,E05014847,3,1.0,0.4
+814,Grangemouth,Falkirk,Scotland,Holyrood (2026),,S13002937,3,1.0,0.4
+815,Greater Pollok,Glasgow City,Scotland,Holyrood (2026),,S13002969,3,1.0,0.4
+816,Halton Lea,Halton,England,Local (2026),Labour,E05013180,3,1.0,0.4
+817,Hampton Vale,Peterborough,England,Local (2026),Labour,E05010815,3,1.0,0.4
+818,Haverfordwest: Portfield,Pembrokeshire,Wales,Senedd (2026),,W05001447,3,1.0,0.4
+819,Hermitage,Wrexham,Wales,Senedd (2026),,W05001738,3,1.0,0.4
+820,Higher Kinnerton,Flintshire,Wales,Senedd (2026),,W05001595,3,1.0,0.4
+821,Holywell Central,Flintshire,Wales,Senedd (2026),,W05001596,3,1.0,0.4
+822,Hope,Flintshire,Wales,Senedd (2026),,W05001599,3,1.0,0.4
+823,Hulton,Bolton,England,Local (2026),Labour,E05014829,3,1.0,0.4
+824,Inverclyde Central,Inverclyde,Scotland,Holyrood (2026),,S13003013,3,1.0,0.4
+825,Island Gardens,Tower Hamlets,England,Local (2026),Aspire,E05009324,3,1.0,0.4
+826,Kingston Town,Kingston upon Thames,England,Local (2026),Liberal Democrat,E05013938,3,1.0,0.4
+827,Kinmel Bay,Conwy,Wales,Senedd (2026),,W05001417,3,1.0,0.4
+828,Kirkcaldy North,Fife,Scotland,Holyrood (2026),,S13002954,3,1.0,0.4
+829,Larkswood,Waltham Forest,England,Local (2026),Green,E05013894,3,1.0,0.4
+830,Llanasa and Trelawnyd,Flintshire,Wales,Senedd (2026),,W05001601,3,1.0,0.4
+831,Llandaff,Cardiff,Wales,Senedd (2026),,W05001282,3,1.0,0.4
+832,Llantarnam,Torfaen,Wales,Senedd (2026),,W05001368,3,1.0,0.4
+833,Llantrisant and Talbot Green,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001089,3,1.0,0.4
+834,Llwchwr,Swansea,Wales,Senedd (2026),,W05001053,3,1.0,0.4
+835,Longford,Coventry,England,Local (2026),TBC,E05001225,3,1.0,0.4
+836,Lower Braes,Falkirk,Scotland,Holyrood (2026),,S13002943,3,1.0,0.4
+837,Machynlleth,Powys,Wales,Senedd (2026),,W05001158,3,1.0,0.4
+838,Maesteg East,Bridgend,Wales,Senedd (2026),,W05001242,3,1.0,0.4
+839,Manor,Trafford,England,Local (2026),Labour,E05015252,3,1.0,0.4
+840,Manorbier and Penally,Pembrokeshire,Wales,Senedd (2026),,W05001459,3,1.0,0.4
+841,Maze Hill,Hastings,England,Local (2026),Green,E05011209,3,1.0,0.4
+842,Mile Cross,Norwich,England,Local (2026),Green,E05012907,3,1.0,0.4
+843,Mile End,Tower Hamlets,England,Local (2026),Aspire,E05009327,3,1.0,0.4
+844,Milford: East,Pembrokeshire,Wales,Senedd (2026),,W05001463,3,1.0,0.4
+845,Milford: West,Pembrokeshire,Wales,Senedd (2026),,W05001467,3,1.0,0.4
+846,Motherwell North,North Lanarkshire,Scotland,Holyrood (2026),,S13003059,3,1.0,0.4
+847,Mountain Ash,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001092,3,1.0,0.4
+848,Narberth: Urban,Pembrokeshire,Wales,Senedd (2026),,W05001468,3,1.0,0.4
+849,Neyland: East,Pembrokeshire,Wales,Senedd (2026),,W05001471,3,1.0,0.4
+850,North Acton,Ealing,England,Local (2026),Labour,E05013527,3,1.0,0.4
+851,North Shields,North Tyneside,England,Local (2026),Labour,E05015876,3,1.0,0.4
+852,Northfield Brook,Oxford,England,Local (2026),Labour,E05013110,3,1.0,0.4
+853,Northolt Mandeville,Ealing,England,Local (2026),Labour,E05013531,3,1.0,0.4
+854,Penmaenmawr,Conwy,Wales,Senedd (2026),,W05001425,3,1.0,0.4
+855,Penrhiw-ceibr,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001093,3,1.0,0.4
+856,Piccadilly,Manchester,England,Local (2026),Labour,E05011376,3,1.0,0.4
+857,Plashet,Newham,England,Local (2026),Labour,E05013921,3,1.0,0.4
+858,Plymouth,Vale of Glamorgan,Wales,Senedd (2026),,W05001394,3,1.0,0.4
+859,Pollokshields,Glasgow City,Scotland,Holyrood (2026),,S13002972,3,1.0,0.4
+860,Ponders End,Enfield,England,Local (2026),TBC,E05013689,3,1.0,0.4
+861,Pontarddulais,Swansea,Wales,Senedd (2026),,W05001062,3,1.0,0.4
+862,Pontlliw and Tircoed,Swansea,Wales,Senedd (2026),,W05001063,3,1.0,0.4
+863,Pontypool Fawr,Torfaen,Wales,Senedd (2026),,W05001374,3,1.0,0.4
+864,Port Talbot,Neath Port Talbot,Wales,Senedd (2026),,W05001707,3,1.0,0.4
+865,Prestatyn East,Denbighshire,Wales,Senedd (2026),,W05001345,3,1.0,0.4
+866,"Pyle, Kenfig Hill and Cefn Cribwr",Bridgend,Wales,Senedd (2026),,W05001253,3,1.0,0.4
+867,Quarry and Risinghurst,Oxford,England,Local (2026),Labour,E05013112,3,1.0,0.4
+868,Queensferry and Sealand,Flintshire,Wales,Senedd (2026),,W05001610,3,1.0,0.4
+869,Quinton,Birmingham,England,Local (2026),TBC,E05011163,3,1.0,0.4
+870,Rhuddlan,Denbighshire,Wales,Senedd (2026),,W05001349,3,1.0,0.4
+871,Rossett,Wrexham,Wales,Senedd (2026),,W05001756,3,1.0,0.4
+872,Rutherglen South,South Lanarkshire,Scotland,Holyrood (2026),,S13003105,3,1.0,0.4
+873,Saltney Ferry,Flintshire,Wales,Senedd (2026),,W05001611,3,1.0,0.4
+874,Sandfields East,Neath Port Talbot,Wales,Senedd (2026),,W05001710,3,1.0,0.4
+875,Sirhowy,Blaenau Gwent,Wales,Senedd (2026),,W05001268,3,1.0,0.4
+876,St Margaret's,Ipswich,England,Local (2026),Labour,E05007127,3,1.0,0.4
+877,St Nicolas,Adur,England,Local (2026),Labour,E05007572,3,1.0,0.4
+878,St. Dials,Torfaen,Wales,Senedd (2026),,W05001375,3,1.0,0.4
+879,"Stepps, Chryston and Muirhead",North Lanarkshire,Scotland,Holyrood (2026),,S13003134,3,1.0,0.4
+880,Stoke Newington,Hackney,England,Local (2026),Green,E05009385,3,1.0,0.4
+881,Streatham St Leonard's,Lambeth,England,Local (2026),TBC,E05014115,3,1.0,0.4
+882,Sutton Vesey,Birmingham,England,Local (2026),TBC,E05011179,3,1.0,0.4
+883,Tenby: South,Pembrokeshire,Wales,Senedd (2026),,W05001489,3,1.0,0.4
+884,Tillydrone/Seaton/Old Aberdeen,Aberdeen City,Scotland,Holyrood (2026),,S13002840,3,1.0,0.4
+885,Two Locks,Torfaen,Wales,Senedd (2026),,W05001377,3,1.0,0.4
+886,Wakefield West,Wakefield,England,Local (2026),Reform UK,E05001463,3,1.0,0.4
+887,Wenvoe,Vale of Glamorgan,Wales,Senedd (2026),,W05001402,3,1.0,0.4
+888,West Bromwich Central,Sandwell,England,Local (2026),Reform UK,E05001283,3,1.0,0.4
+889,West Fenham,Newcastle upon Tyne,England,Local (2026),Labour,E05011460,3,1.0,0.4
+890,Westgate,Ipswich,England,Local (2026),Labour,E05007130,3,1.0,0.4
+891,White Hart Lane,Haringey,England,Local (2026),TBC,E05013604,3,1.0,0.4
+892,Whitton,Ipswich,England,Local (2026),Labour,E05007132,3,1.0,0.4
+893,Y Faenol,Gwynedd,Wales,Senedd (2026),,W05001568,3,1.0,0.4
+894,Ystrad Mynach,Caerphilly,Wales,Senedd (2026),,W05001678,3,1.0,0.4
+895,Aber-craf and Ystradgynlais,Powys,Wales,Senedd (2026),,W05001117,2,0.6,0.3
+896,Aberavon,Neath Port Talbot,Wales,Senedd (2026),,W05001679,2,0.6,0.3
+897,Aberdulais,Neath Port Talbot,Wales,Senedd (2026),,W05001680,2,0.6,0.3
+898,Aberporth and Y Ferwig,Ceredigion,Wales,Senedd (2026),,W05001299,2,0.6,0.3
+899,Abertillery and Six Bells,Blaenau Gwent,Wales,Senedd (2026),,W05001256,2,0.6,0.3
+900,Armley,Leeds,England,Local (2026),TBC,E05011385,2,0.6,0.3
+901,Avondale and Stonehouse,South Lanarkshire,Scotland,Holyrood (2026),,S13003099,2,0.6,0.3
+902,Beaufort,Blaenau Gwent,Wales,Senedd (2026),,W05001257,2,0.6,0.3
+903,Bethnal Green East,Tower Hamlets,England,Local (2026),Aspire,E05009317,2,0.6,0.3
+904,Birchfield,Birmingham,England,Local (2026),TBC,E05011125,2,0.6,0.3
+905,Blackbird Leys,Oxford,England,Local (2026),Labour,E05013097,2,0.6,0.3
+906,Blaina,Blaenau Gwent,Wales,Senedd (2026),,W05001258,2,0.6,0.3
+907,Bow East,Tower Hamlets,England,Local (2026),Aspire,E05009319,2,0.6,0.3
+908,Bow West,Tower Hamlets,England,Local (2026),Aspire,E05009320,2,0.6,0.3
+909,Brackla East and Coychurch Lower,Bridgend,Wales,Senedd (2026),,W05001230,2,0.6,0.3
+910,Broadheath,Trafford,England,Local (2026),Labour,E05015242,2,0.6,0.3
+911,Brooklands,Manchester,England,Local (2026),Labour,E05011353,2,0.6,0.3
+912,Broughton South,Flintshire,Wales,Senedd (2026),,W05001574,2,0.6,0.3
+913,Bryn,Conwy,Wales,Senedd (2026),,W05001405,2,0.6,0.3
+914,Bryn and Cwmavon,Neath Port Talbot,Wales,Senedd (2026),,W05001686,2,0.6,0.3
+915,Brynford and Halkyn,Flintshire,Wales,Senedd (2026),,W05001575,2,0.6,0.3
+916,Brynmawr,Blaenau Gwent,Wales,Senedd (2026),,W05001259,2,0.6,0.3
+917,Buckley: Bistre West,Flintshire,Wales,Senedd (2026),,W05001577,2,0.6,0.3
+918,Buckley: Pentrobin,Flintshire,Wales,Senedd (2026),,W05001579,2,0.6,0.3
+919,Budshead,Plymouth,England,Local (2026),Labour,E05002078,2,0.6,0.3
+920,Bôn-y-maen,Swansea,Wales,Senedd (2026),,W05001040,2,0.6,0.3
+921,Cadoxton,Neath Port Talbot,Wales,Senedd (2026),,W05001689,2,0.6,0.3
+922,Caerau,Bridgend,Wales,Senedd (2026),,W05001236,2,0.6,0.3
+923,Caerwys,Flintshire,Wales,Senedd (2026),,W05001581,2,0.6,0.3
+924,Caldicot Cross,Monmouthshire,Wales,Senedd (2026),,W05001765,2,0.6,0.3
+925,Caledonian,Islington,England,Local (2026),Labour,E05013700,2,0.6,0.3
+926,Canol Bangor,Gwynedd,Wales,Senedd (2026),,W05001517,2,0.6,0.3
+927,Castle,Worthing,England,Local (2026),TBC,E05007695,2,0.6,0.3
+928,Cefn West,Wrexham,Wales,Senedd (2026),,W05001723,2,0.6,0.3
+929,Central,Barnsley,England,Local (2026),Reform UK,E05000976,2,0.6,0.3
+930,Central Greenford,Ealing,England,Local (2026),Labour,E05013518,2,0.6,0.3
+931,Chadderton Central,Oldham,England,Local (2026),Labour,E05014647,2,0.6,0.3
+932,Childs Hill,Barnet,England,Local (2026),TBC,E05013631,2,0.6,0.3
+933,Cilgerran and Eglwyswrw,Pembrokeshire,Wales,Senedd (2026),,W05001439,2,0.6,0.3
+934,City Centre,Preston,England,Local (2026),TBC,E05012196,2,0.6,0.3
+935,Clapham Common and Abbeville,Lambeth,England,Local (2026),TBC,E05014099,2,0.6,0.3
+936,Clydesdale West,South Lanarkshire,Scotland,Holyrood (2026),,S13003095,2,0.6,0.3
+937,Coatbridge South,North Lanarkshire,Scotland,Holyrood (2026),,S13003052,2,0.6,0.3
+938,Coatbridge West,North Lanarkshire,Scotland,Holyrood (2026),,S13003051,2,0.6,0.3
+939,Cockett,Swansea,Wales,Senedd (2026),,W05001043,2,0.6,0.3
+940,Coed Eva,Torfaen,Wales,Senedd (2026),,W05001363,2,0.6,0.3
+941,Colliers Wood,Merton,England,Local (2026),Labour,E05013812,2,0.6,0.3
+942,Connah's Quay: Wepre,Flintshire,Wales,Senedd (2026),,W05001586,2,0.6,0.3
+943,Conwy,Conwy,Wales,Senedd (2026),,W05001408,2,0.6,0.3
+944,Cudworth,Barnsley,England,Local (2026),Reform UK,E05000977,2,0.6,0.3
+945,Cwmtillery,Blaenau Gwent,Wales,Senedd (2026),,W05001261,2,0.6,0.3
+946,Cymer,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001081,2,0.6,0.3
+947,Dalston,Hackney,England,Local (2026),Green,E05009370,2,0.6,0.3
+948,Denton North East,Tameside,England,Local (2026),TBC,E05014523,2,0.6,0.3
+949,Didsbury West,Manchester,England,Local (2026),Labour,E05011363,2,0.6,0.3
+950,Dulwich Wood,Southwark,England,Local (2026),TBC,E05011101,2,0.6,0.3
+951,Duryard and St James,Exeter,England,Local (2026),TBC,E05011012,2,0.6,0.3
+952,Earlsdon,Coventry,England,Local (2026),TBC,E05001221,2,0.6,0.3
+953,East,Peterborough,England,Local (2026),Labour,E05010809,2,0.6,0.3
+954,East Park,Wolverhampton,England,Local (2026),Labour,E05014843,2,0.6,0.3
+955,Ebbw Vale South,Blaenau Gwent,Wales,Senedd (2026),,W05001263,2,0.6,0.3
+956,Efford and Lipson,Plymouth,England,Local (2026),Labour,E05002082,2,0.6,0.3
+957,Ettingshall South and Spring Vale,Wolverhampton,England,Local (2026),Labour,E05014845,2,0.6,0.3
+958,Faenor,Ceredigion,Wales,Senedd (2026),,W05001307,2,0.6,0.3
+959,Fairfield,Croydon,England,Local (2026),Conservative,E05011468,2,0.6,0.3
+960,Flint: Castle,Flintshire,Wales,Senedd (2026),,W05001587,2,0.6,0.3
+961,Gainsborough,Ipswich,England,Local (2026),Labour,E05007121,2,0.6,0.3
+962,Garden Village,Wrexham,Wales,Senedd (2026),,W05001730,2,0.6,0.3
+963,Gele and Llanddulas,Conwy,Wales,Senedd (2026),,W05001413,2,0.6,0.3
+964,Georgetown,Blaenau Gwent,Wales,Senedd (2026),,W05001264,2,0.6,0.3
+965,Girvan and South Carrick,South Ayrshire,Scotland,Holyrood (2026),,S13003094,2,0.6,0.3
+966,Glynneath Central and East,Neath Port Talbot,Wales,Senedd (2026),,W05001698,2,0.6,0.3
+967,Goodwick,Pembrokeshire,Wales,Senedd (2026),,W05001444,2,0.6,0.3
+968,Gorse Hill and Cornbrook,Trafford,England,Local (2026),Labour,E05015247,2,0.6,0.3
+969,Gresford East and West,Wrexham,Wales,Senedd (2026),,W05001731,2,0.6,0.3
+970,Gwenfro,Wrexham,Wales,Senedd (2026),,W05001733,2,0.6,0.3
+971,Haddington and Lammermuir,East Lothian,Scotland,Holyrood (2026),,S13002912,2,0.6,0.3
+972,Hamilton North and East,South Lanarkshire,Scotland,Holyrood (2026),,S13003111,2,0.6,0.3
+973,Hammersmith Broadway,Hammersmith and Fulham,England,Local (2026),Labour,E05013741,2,0.6,0.3
+974,Harborne,Birmingham,England,Local (2026),TBC,E05011144,2,0.6,0.3
+975,Hawarden: Aston,Flintshire,Wales,Senedd (2026),,W05001592,2,0.6,0.3
+976,Hawarden: Mancot,Flintshire,Wales,Senedd (2026),,W05001594,2,0.6,0.3
+977,Heathrow Villages,Hillingdon,England,Local (2026),Conservative,E05013570,2,0.6,0.3
+978,Heckmondwike,Kirklees,England,Local (2026),Labour,E05001403,2,0.6,0.3
+979,Hengoed,Caerphilly,Wales,Senedd (2026),,W05001659,2,0.6,0.3
+980,"Hirwaun, Penderyn and Rhigos",Rhondda Cynon Taf,Wales,Senedd (2026),,W05001087,2,0.6,0.3
+981,Holt,Wrexham,Wales,Senedd (2026),,W05001739,2,0.6,0.3
+982,Holyhead,Birmingham,England,Local (2026),TBC,E05011147,2,0.6,0.3
+983,Hoxton East and Shoreditch,Hackney,England,Local (2026),Green,E05009377,2,0.6,0.3
+984,Hoxton West,Hackney,England,Local (2026),Green,E05009378,2,0.6,0.3
+985,Kilgetty and Begelly,Pembrokeshire,Wales,Senedd (2026),,W05001452,2,0.6,0.3
+986,Kilpatrick,West Dunbartonshire,Scotland,Holyrood (2026),,S13003125,2,0.6,0.3
+987,Kincorth/Nigg/Cove,Aberdeen City,Scotland,Holyrood (2026),,S13002847,2,0.6,0.3
+988,Knighton with Beguildy,Powys,Wales,Senedd (2026),,W05001138,2,0.6,0.3
+989,Lampeter,Ceredigion,Wales,Senedd (2026),,W05001308,2,0.6,0.3
+990,Landore,Swansea,Wales,Senedd (2026),,W05001050,2,0.6,0.3
+991,Langside,Glasgow City,Scotland,Holyrood (2026),,S13002973,2,0.6,0.3
+992,Lansdown,Monmouthshire,Wales,Senedd (2026),,W05001776,2,0.6,0.3
+993,Little Acton,Wrexham,Wales,Senedd (2026),,W05001740,2,0.6,0.3
+994,Llandough,Vale of Glamorgan,Wales,Senedd (2026),,W05001390,2,0.6,0.3
+995,Llandysilio,Powys,Wales,Senedd (2026),,W05001145,2,0.6,0.3
+996,Llanfoist Fawr and Govilon,Monmouthshire,Wales,Senedd (2026),,W05001779,2,0.6,0.3
+997,Llanfrechfa and Ponthir,Torfaen,Wales,Senedd (2026),,W05001367,2,0.6,0.3
+998,Llangynwyd,Bridgend,Wales,Senedd (2026),,W05001241,2,0.6,0.3
+999,Llanhilleth,Blaenau Gwent,Wales,Senedd (2026),,W05001265,2,0.6,0.3
+1000,Llanrhian,Pembrokeshire,Wales,Senedd (2026),,W05001457,2,0.6,0.3
+1001,Llantwit Fardre,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001090,2,0.6,0.3
+1002,Machen and Rudry,Caerphilly,Wales,Senedd (2026),,W05001661,2,0.6,0.3
+1003,Maenclochog,Pembrokeshire,Wales,Senedd (2026),,W05001458,2,0.6,0.3
+1004,Maesteg West,Bridgend,Wales,Senedd (2026),,W05001243,2,0.6,0.3
+1005,Maesycwmmer,Caerphilly,Wales,Senedd (2026),,W05001662,2,0.6,0.3
+1006,Magor East with Undy,Monmouthshire,Wales,Senedd (2026),,W05001782,2,0.6,0.3
+1007,Marchwiel,Wrexham,Wales,Senedd (2026),,W05001743,2,0.6,0.3
+1008,Marford and Hoseley,Wrexham,Wales,Senedd (2026),,W05001744,2,0.6,0.3
+1009,Margam and Tai-bach,Neath Port Talbot,Wales,Senedd (2026),,W05001702,2,0.6,0.3
+1010,Merlin's Bridge,Pembrokeshire,Wales,Senedd (2026),,W05001461,2,0.6,0.3
+1011,Monk Bretton,Barnsley,England,Local (2026),Reform UK,E05000986,2,0.6,0.3
+1012,Monument,Newcastle upon Tyne,England,Local (2026),Labour,E05011453,2,0.6,0.3
+1013,Mynydd-bach,Swansea,Wales,Senedd (2026),,W05001057,2,0.6,0.3
+1014,Nairn and Cawdor,Highland,Scotland,Holyrood (2026),,S13003007,2,0.6,0.3
+1015,Nelson,Caerphilly,Wales,Senedd (2026),,W05001665,2,0.6,0.3
+1016,Nelson,Portsmouth,England,Local (2026),Liberal Democrat,E05002451,2,0.6,0.3
+1017,New Broughton,Wrexham,Wales,Senedd (2026),,W05001746,2,0.6,0.3
+1018,Newlands/Auldburn,Glasgow City,Scotland,Holyrood (2026),,S13002968,2,0.6,0.3
+1019,Nottage,Bridgend,Wales,Senedd (2026),,W05001246,2,0.6,0.3
+1020,Offa,Wrexham,Wales,Senedd (2026),,W05001747,2,0.6,0.3
+1021,Orton Longueville,Peterborough,England,Local (2026),Labour,E05010818,2,0.6,0.3
+1022,Pembroke Dock: Central,Pembrokeshire,Wales,Senedd (2026),,W05001475,2,0.6,0.3
+1023,Pen-clawdd,Swansea,Wales,Senedd (2026),,W05001058,2,0.6,0.3
+1024,Pennard,Swansea,Wales,Senedd (2026),,W05001061,2,0.6,0.3
+1025,Penycae and Ruabon South,Wrexham,Wales,Senedd (2026),,W05001751,2,0.6,0.3
+1026,Penyrheol,Caerphilly,Wales,Senedd (2026),,W05001669,2,0.6,0.3
+1027,Plaistow North,Newham,England,Local (2026),Labour,E05013918,2,0.6,0.3
+1028,Plumstead Common,Greenwich,England,Local (2026),Labour,E05014088,2,0.6,0.3
+1029,Poplar,Tower Hamlets,England,Local (2026),Aspire,E05009328,2,0.6,0.3
+1030,Queen's Park,Westminster,England,Local (2026),Conservative,E05013804,2,0.6,0.3
+1031,Rastrick,Calderdale,England,Local (2026),Reform UK,E05001381,2,0.6,0.3
+1032,Redlands,Reading,England,Local (2026),Labour,E05013875,2,0.6,0.3
+1033,Regent's Park,Westminster,England,Local (2026),Conservative,E05013805,2,0.6,0.3
+1034,Rest Bay,Bridgend,Wales,Senedd (2026),,W05001254,2,0.6,0.3
+1035,Rhiw,Conwy,Wales,Senedd (2026),,W05001428,2,0.6,0.3
+1036,Rhoose,Vale of Glamorgan,Wales,Senedd (2026),,W05001395,2,0.6,0.3
+1037,Rhos,Wrexham,Wales,Senedd (2026),,W05001754,2,0.6,0.3
+1038,Rhydfelen Central,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001102,2,0.6,0.3
+1039,Rockingham,Barnsley,England,Local (2026),Reform UK,E05000991,2,0.6,0.3
+1040,Rural South,West Lancashire,England,Local (2026),Labour,E05014937,2,0.6,0.3
+1041,Ruthin,Denbighshire,Wales,Senedd (2026),,W05001356,2,0.6,0.3
+1042,Saddleworth North,Oldham,England,Local (2026),Labour,E05014658,2,0.6,0.3
+1043,Shotton West,Flintshire,Wales,Senedd (2026),,W05001613,2,0.6,0.3
+1044,Southlands,Adur,England,Local (2026),Labour,E05007573,2,0.6,0.3
+1045,Spitalfields and Banglatown,Tower Hamlets,England,Local (2026),Aspire,E05009333,2,0.6,0.3
+1046,St Asaph East,Denbighshire,Wales,Senedd (2026),,W05001357,2,0.6,0.3
+1047,St Bride's Major,Vale of Glamorgan,Wales,Senedd (2026),,W05001397,2,0.6,0.3
+1048,St Cattwg,Caerphilly,Wales,Senedd (2026),,W05001673,2,0.6,0.3
+1049,St David's,Pembrokeshire,Wales,Senedd (2026),,W05001484,2,0.6,0.3
+1050,St Dogmaels,Pembrokeshire,Wales,Senedd (2026),,W05001485,2,0.6,0.3
+1051,St Dunstan's,Tower Hamlets,England,Local (2026),Aspire,E05009329,2,0.6,0.3
+1052,St Edward's,Havering,England,Local (2026),Reform UK,E05013983,2,0.6,0.3
+1053,St James's,Westminster,England,Local (2026),Conservative,E05013806,2,0.6,0.3
+1054,St Katharine's and Wapping,Tower Hamlets,England,Local (2026),Aspire,E05009330,2,0.6,0.3
+1055,St Martin's,Lambeth,England,Local (2026),TBC,E05014109,2,0.6,0.3
+1056,Stairfoot,Barnsley,England,Local (2026),Reform UK,E05000994,2,0.6,0.3
+1057,Thorniewood,North Lanarkshire,Scotland,Holyrood (2026),,S13003055,2,0.6,0.3
+1058,Tilehurst,Reading,England,Local (2026),Labour,E05013878,2,0.6,0.3
+1059,Tredegar,Blaenau Gwent,Wales,Senedd (2026),,W05001269,2,0.6,0.3
+1060,Tref Cybi,Isle of Anglesey,Wales,Senedd (2026),,W05001503,2,0.6,0.3
+1061,Treharris,Merthyr Tydfil,Wales,Senedd (2026),,W05001625,2,0.6,0.3
+1062,Treherbert,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001111,2,0.6,0.3
+1063,Trinity,Wandsworth,England,Local (2026),TBC,E05014025,2,0.6,0.3
+1064,Tweeddale East,Scottish Borders,Scotland,Holyrood (2026),,S13002762,2,0.6,0.3
+1065,Tyldesley and Mosley Common,Wigan,England,Local (2026),Labour,E05015009,2,0.6,0.3
+1066,Tylorstown and Ynyshir,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001113,2,0.6,0.3
+1067,Vaynor,Merthyr Tydfil,Wales,Senedd (2026),,W05001626,2,0.6,0.3
+1068,Victoria,Hackney,England,Local (2026),Green,E05009386,2,0.6,0.3
+1069,Walkergate,Newcastle upon Tyne,England,Local (2026),Labour,E05011459,2,0.6,0.3
+1070,Walpole,Ealing,England,Local (2026),Labour,E05013541,2,0.6,0.3
+1071,Washington South,Sunderland,England,Local (2026),Reform UK,E05001176,2,0.6,0.3
+1072,Waunarlwydd,Swansea,Wales,Senedd (2026),,W05001069,2,0.6,0.3
+1073,Weavers,Tower Hamlets,England,Local (2026),Aspire,E05009335,2,0.6,0.3
+1074,Wendell Park,Hammersmith and Fulham,England,Local (2026),Labour,E05013750,2,0.6,0.3
+1075,West Ecclesfield,Sheffield,England,Local (2026),Coalition,E05010883,2,0.6,0.3
+1076,West Garioch,Aberdeenshire,Scotland,Holyrood (2026),,S13002857,2,0.6,0.3
+1077,Whitechapel,Tower Hamlets,England,Local (2026),Aspire,E05009336,2,0.6,0.3
+1078,Woodhouse,Barnet,England,Local (2026),TBC,E05013651,2,0.6,0.3
+1079,Woodhouse Park,Manchester,England,Local (2026),Labour,E05011381,2,0.6,0.3
+1080,Woolwich Arsenal,Greenwich,England,Local (2026),Labour,E05014092,2,0.6,0.3
+1081,Wyesham,Monmouthshire,Wales,Senedd (2026),,W05001800,2,0.6,0.3
+1082,Abbey,Merton,England,Local (2026),Labour,E05013810,1,0.3,0.1
+1083,Aber Valley,Caerphilly,Wales,Senedd (2026),,W05001648,1,0.3,0.1
+1084,Aberdare East,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001073,1,0.3,0.1
+1085,Abersychan,Torfaen,Wales,Senedd (2026),,W05001361,1,0.3,0.1
+1086,Aberystwyth Morfa a Glais,Ceredigion,Wales,Senedd (2026),,W05001300,1,0.3,0.1
+1087,Aberystwyth Penparcau,Ceredigion,Wales,Senedd (2026),,W05001301,1,0.3,0.1
+1088,Aberystwyth Rheidol,Ceredigion,Wales,Senedd (2026),,W05001302,1,0.3,0.1
+1089,Altrincham,Trafford,England,Local (2026),Labour,E05015239,1,0.3,0.1
+1090,Alway,Newport,Wales,Senedd (2026),,W05001628,1,0.3,0.1
+1091,Alwoodley,Leeds,England,Local (2026),TBC,E05012842,1,0.3,0.1
+1092,Amroth and Saundersfoot North,Pembrokeshire,Wales,Senedd (2026),,W05001433,1,0.3,0.1
+1093,Ancoats and Beswick,Manchester,England,Local (2026),Labour,E05011350,1,0.3,0.1
+1094,Ardwick,Manchester,England,Local (2026),Labour,E05011351,1,0.3,0.1
+1095,Arnos Grove,Enfield,England,Local (2026),TBC,E05013672,1,0.3,0.1
+1096,Bagillt,Flintshire,Wales,Senedd (2026),,W05001572,1,0.3,0.1
+1097,Bandley Hill and Poplars,Stevenage,England,Local (2026),Labour,E05015625,1,0.3,0.1
+1098,Bangor Is-y-Coed,Wrexham,Wales,Senedd (2026),,W05001715,1,0.3,0.1
+1099,Barrowford and Pendleside,Pendle,England,Local (2026),Independent,E05013201,1,0.3,0.1
+1100,Beacon and Bents,South Tyneside,England,Local (2026),Reform UK,E05001135,1,0.3,0.1
+1101,Bethnal Green West,Tower Hamlets,England,Local (2026),Aspire,E05009331,1,0.3,0.1
+1102,Bickley and Sundridge,Bromley,England,Local (2026),Conservative,E05013988,1,0.3,0.1
+1103,Blaenavon,Torfaen,Wales,Senedd (2026),,W05001362,1,0.3,0.1
+1104,Blaengwrach and Glynneath West,Neath Port Talbot,Wales,Senedd (2026),,W05001683,1,0.3,0.1
+1105,Bordesley Green,Birmingham,England,Local (2026),TBC,E05011127,1,0.3,0.1
+1106,Brackla West,Bridgend,Wales,Senedd (2026),,W05001232,1,0.3,0.1
+1107,Brecon East,Powys,Wales,Senedd (2026),,W05001120,1,0.3,0.1
+1108,Brecon West,Powys,Wales,Senedd (2026),,W05001121,1,0.3,0.1
+1109,Brereton and Ravenhill,Cannock Chase,England,Local (2026),TBC,E05015742,1,0.3,0.1
+1110,Briton Ferry West,Neath Port Talbot,Wales,Senedd (2026),,W05001685,1,0.3,0.1
+1111,Bromley South,Tower Hamlets,England,Local (2026),Aspire,E05009322,1,0.3,0.1
+1112,Bromley Town,Bromley,England,Local (2026),Conservative,E05013991,1,0.3,0.1
+1113,Brookfield,Preston,England,Local (2026),TBC,E05012194,1,0.3,0.1
+1114,Broomhill and Sharrow Vale,Sheffield,England,Local (2026),Coalition,E05010860,1,0.3,0.1
+1115,Broughton North East,Flintshire,Wales,Senedd (2026),,W05001573,1,0.3,0.1
+1116,Brymbo,Wrexham,Wales,Senedd (2026),,W05001718,1,0.3,0.1
+1117,Bryn-coch North,Neath Port Talbot,Wales,Senedd (2026),,W05001687,1,0.3,0.1
+1118,Buckley: Bistre East,Flintshire,Wales,Senedd (2026),,W05001576,1,0.3,0.1
+1119,Burmantofts and Richmond Hill,Leeds,England,Local (2026),TBC,E05011388,1,0.3,0.1
+1120,Burton,Pembrokeshire,Wales,Senedd (2026),,W05001435,1,0.3,0.1
+1121,Bush Hill Park,Enfield,England,Local (2026),TBC,E05013676,1,0.3,0.1
+1122,Caldicot Castle,Monmouthshire,Wales,Senedd (2026),,W05001764,1,0.3,0.1
+1123,Canary Wharf,Tower Hamlets,England,Local (2026),Aspire,E05009323,1,0.3,0.1
+1124,Cannock Longford and Bridgtown,Cannock Chase,England,Local (2026),TBC,E05015744,1,0.3,0.1
+1125,Canol Bethesda,Gwynedd,Wales,Senedd (2026),,W05001518,1,0.3,0.1
+1126,Carew and Jeffreyston,Pembrokeshire,Wales,Senedd (2026),,W05001438,1,0.3,0.1
+1127,Castle Vale,Birmingham,England,Local (2026),TBC,E05011132,1,0.3,0.1
+1128,Cefn Fforest and Pengam,Caerphilly,Wales,Senedd (2026),,W05001654,1,0.3,0.1
+1129,Cheetham,Manchester,England,Local (2026),Labour,E05011356,1,0.3,0.1
+1130,Cherryfield,Knowsley,England,Local (2026),Labour,E05010935,1,0.3,0.1
+1131,Cilfynydd,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001078,1,0.3,0.1
+1132,City Centre,City of Edinburgh,Scotland,Holyrood (2026),,S13002929,1,0.3,0.1
+1133,Clissold,Hackney,England,Local (2026),Green,E05009369,1,0.3,0.1
+1134,Clydesdale South,South Lanarkshire,Scotland,Holyrood (2026),,S13003098,1,0.3,0.1
+1135,Coedffranc Central,Neath Port Talbot,Wales,Senedd (2026),,W05001691,1,0.3,0.1
+1136,Coedffranc West,Neath Port Talbot,Wales,Senedd (2026),,W05001693,1,0.3,0.1
+1137,Connah's Quay Central,Flintshire,Wales,Senedd (2026),,W05001583,1,0.3,0.1
+1138,Connah's Quay South,Flintshire,Wales,Senedd (2026),,W05001585,1,0.3,0.1
+1139,Craig-y-don,Conwy,Wales,Senedd (2026),,W05001409,1,0.3,0.1
+1140,Crickhowell with Cwmdu and Tretower,Powys,Wales,Senedd (2026),,W05001126,1,0.3,0.1
+1141,Crumpsall,Manchester,England,Local (2026),Labour,E05011360,1,0.3,0.1
+1142,Culloden and Ardersier,Highland,Scotland,Holyrood (2026),,S13003006,1,0.3,0.1
+1143,Cumbernauld East,North Lanarkshire,Scotland,Holyrood (2026),,S13003045,1,0.3,0.1
+1144,Cwm Clydach,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001079,1,0.3,0.1
+1145,Cwmbach,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001080,1,0.3,0.1
+1146,Cwmbwrla,Swansea,Wales,Senedd (2026),,W05001044,1,0.3,0.1
+1147,"Daresbury, Moore and Sandymoor",Halton,England,Local (2026),Labour,E05013175,1,0.3,0.1
+1148,Darwen South,Blackburn with Darwen,England,Local (2026),TBC,E05011515,1,0.3,0.1
+1149,Deansgate,Manchester,England,Local (2026),Labour,E05011361,1,0.3,0.1
+1150,Dewi,Gwynedd,Wales,Senedd (2026),,W05001527,1,0.3,0.1
+1151,Dewstow,Monmouthshire,Wales,Senedd (2026),,W05001771,1,0.3,0.1
+1152,Ealing Common,Ealing,England,Local (2026),Labour,E05013521,1,0.3,0.1
+1153,East Putney,Wandsworth,England,Local (2026),TBC,E05014011,1,0.3,0.1
+1154,Ebbw Vale North,Blaenau Gwent,Wales,Senedd (2026),,W05001262,1,0.3,0.1
+1155,Edeirnion,Denbighshire,Wales,Senedd (2026),,W05001337,1,0.3,0.1
+1156,Edgbaston,Birmingham,England,Local (2026),TBC,E05011134,1,0.3,0.1
+1157,Edmonton Green,Enfield,England,Local (2026),TBC,E05013679,1,0.3,0.1
+1158,Erddig,Wrexham,Wales,Senedd (2026),,W05001728,1,0.3,0.1
+1159,Falconbrook,Wandsworth,England,Local (2026),TBC,E05014012,1,0.3,0.1
+1160,Fallings Park,Wolverhampton,England,Local (2026),Labour,E05014846,1,0.3,0.1
+1161,Fareham Town,Fareham,England,Local (2026),Conservative,E05015666,1,0.3,0.1
+1162,Fishwick and Frenchwood,Preston,England,Local (2026),TBC,E05012198,1,0.3,0.1
+1163,Flint: Oakenholt,Flintshire,Wales,Senedd (2026),,W05001589,1,0.3,0.1
+1164,Forden and Montgomery,Powys,Wales,Senedd (2026),,W05001130,1,0.3,0.1
+1165,Frankley Great Park,Birmingham,England,Local (2026),TBC,E05011136,1,0.3,0.1
+1166,Garrison,Preston,England,Local (2026),TBC,E05012199,1,0.3,0.1
+1167,"Gartcosh, Glenboig and Moodiesburn",North Lanarkshire,Scotland,Holyrood (2026),,S13003047,1,0.3,0.1
+1168,Garw Valley,Bridgend,Wales,Senedd (2026),,W05001240,1,0.3,0.1
+1169,Gilfach,Caerphilly,Wales,Senedd (2026),,W05001658,1,0.3,0.1
+1170,Gipsy Hill,Lambeth,England,Local (2026),TBC,E05014103,1,0.3,0.1
+1171,Glyn y Marl,Conwy,Wales,Senedd (2026),,W05001415,1,0.3,0.1
+1172,Glyn-coch,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001084,1,0.3,0.1
+1173,Great Horton,Bradford,England,Local (2026),TBC,E05001351,1,0.3,0.1
+1174,Green Street West,Newham,England,Local (2026),Labour,E05013914,1,0.3,0.1
+1175,Greenmeadow,Torfaen,Wales,Senedd (2026),,W05001366,1,0.3,0.1
+1176,Gwersyllt West,Wrexham,Wales,Senedd (2026),,W05001737,1,0.3,0.1
+1177,Hackney Wick,Hackney,England,Local (2026),Green,E05009374,1,0.3,0.1
+1178,Ham,Plymouth,England,Local (2026),Labour,E05002084,1,0.3,0.1
+1179,Handsworth,Birmingham,England,Local (2026),TBC,E05011142,1,0.3,0.1
+1180,Handsworth Wood,Birmingham,England,Local (2026),TBC,E05011143,1,0.3,0.1
+1181,Haverfordwest: Castle,Pembrokeshire,Wales,Senedd (2026),,W05001445,1,0.3,0.1
+1182,Haverfordwest: Garth,Pembrokeshire,Wales,Senedd (2026),,W05001446,1,0.3,0.1
+1183,Haverfordwest: Prendergast,Pembrokeshire,Wales,Senedd (2026),,W05001448,1,0.3,0.1
+1184,Haverfordwest: Priory,Pembrokeshire,Wales,Senedd (2026),,W05001449,1,0.3,0.1
+1185,Hawarden: Ewloe,Flintshire,Wales,Senedd (2026),,W05001593,1,0.3,0.1
+1186,Hay,Powys,Wales,Senedd (2026),,W05001135,1,0.3,0.1
+1187,Hetton,Sunderland,England,Local (2026),Reform UK,E05001159,1,0.3,0.1
+1188,Hillingdon East,Hillingdon,England,Local (2026),Conservative,E05013571,1,0.3,0.1
+1189,Holborn and Covent Garden,Camden,England,Local (2026),Labour,E05013662,1,0.3,0.1
+1190,Holland,Kensington and Chelsea,England,Local (2026),Conservative,E05009397,1,0.3,0.1
+1191,Inverness Central,Highland,Scotland,Holyrood (2026),,S13003003,1,0.3,0.1
+1192,Inverness South,Highland,Scotland,Holyrood (2026),,S13003008,1,0.3,0.1
+1193,Inverness West,Highland,Scotland,Holyrood (2026),,S13003002,1,0.3,0.1
+1194,Johnston,Pembrokeshire,Wales,Senedd (2026),,W05001451,1,0.3,0.1
+1195,Katesgrove,Reading,England,Local (2026),Labour,E05013871,1,0.3,0.1
+1196,Kelsey and Eden Park,Bromley,England,Local (2026),Conservative,E05013999,1,0.3,0.1
+1197,Kingstone,Barnsley,England,Local (2026),Reform UK,E05000985,1,0.3,0.1
+1198,Kingsway,Rochdale,England,Local (2026),Labour,E05014040,1,0.3,0.1
+1199,Kirkcaldy Central,Fife,Scotland,Holyrood (2026),,S13002955,1,0.3,0.1
+1200,Lansbury,Tower Hamlets,England,Local (2026),Aspire,E05009325,1,0.3,0.1
+1201,Little Ilford,Newham,England,Local (2026),Labour,E05013915,1,0.3,0.1
+1202,Llanbadarn Fawr,Ceredigion,Wales,Senedd (2026),,W05001310,1,0.3,0.1
+1203,Llanbradach,Caerphilly,Wales,Senedd (2026),,W05001660,1,0.3,0.1
+1204,Llandrinio,Powys,Wales,Senedd (2026),,W05001144,1,0.3,0.1
+1205,Llandysul South,Ceredigion,Wales,Senedd (2026),,W05001314,1,0.3,0.1
+1206,Llanfynydd,Flintshire,Wales,Senedd (2026),,W05001602,1,0.3,0.1
+1207,Llangattock and Llangynidr,Powys,Wales,Senedd (2026),,W05001149,1,0.3,0.1
+1208,Llangyniew and Meifod,Powys,Wales,Senedd (2026),,W05001152,1,0.3,0.1
+1209,Llanidloes,Powys,Wales,Senedd (2026),,W05001153,1,0.3,0.1
+1210,Llanrhaeadr-ym-Mochnant and Llansilin,Powys,Wales,Senedd (2026),,W05001154,1,0.3,0.1
+1211,Llanwrtyd Wells,Powys,Wales,Senedd (2026),,W05001156,1,0.3,0.1
+1212,London Fields,Hackney,England,Local (2026),Green,E05009381,1,0.3,0.1
+1213,Low Fell,Gateshead,England,Local (2026),Reform UK,E05001080,1,0.3,0.1
+1214,Manor,Stockport,England,Local (2026),Liberal Democrat,E05015028,1,0.3,0.1
+1215,Marylebone,Westminster,England,Local (2026),Conservative,E05013801,1,0.3,0.1
+1216,Merton Park,Merton,England,Local (2026),Labour,E05013820,1,0.3,0.1
+1217,Mid Argyll,Argyll and Bute,Scotland,Holyrood (2026),,S13002518,1,0.3,0.1
+1218,Milford: North,Pembrokeshire,Wales,Senedd (2026),,W05001466,1,0.3,0.1
+1219,Milton and Waterbeach,South Cambridgeshire,England,Local (2026),Liberal Democrat,E05011301,1,0.3,0.1
+1220,Moriah and Pontlottyn,Caerphilly,Wales,Senedd (2026),,W05001664,1,0.3,0.1
+1221,Mostyn,Flintshire,Wales,Senedd (2026),,W05001607,1,0.3,0.1
+1222,"Mottingham, Coldharbour and New Eltham",Greenwich,England,Local (2026),Labour,E05014086,1,0.3,0.1
+1223,Nantyglo,Blaenau Gwent,Wales,Senedd (2026),,W05001266,1,0.3,0.1
+1224,Neath East,Neath Port Talbot,Wales,Senedd (2026),,W05001703,1,0.3,0.1
+1225,Neath North,Neath Port Talbot,Wales,Senedd (2026),,W05001704,1,0.3,0.1
+1226,Neath South,Neath Port Talbot,Wales,Senedd (2026),,W05001705,1,0.3,0.1
+1227,Netteswell,Harlow,England,Local (2026),Conservative,E05015687,1,0.3,0.1
+1228,New Addington North,Croydon,England,Local (2026),Conservative,E05011470,1,0.3,0.1
+1229,New Addington South,Croydon,England,Local (2026),Conservative,E05011471,1,0.3,0.1
+1230,New Tredegar,Caerphilly,Wales,Senedd (2026),,W05001666,1,0.3,0.1
+1231,Newtown East,Powys,Wales,Senedd (2026),,W05001161,1,0.3,0.1
+1232,Neyland: West,Pembrokeshire,Wales,Senedd (2026),,W05001472,1,0.3,0.1
+1233,Noel Park,Haringey,England,Local (2026),TBC,E05013595,1,0.3,0.1
+1234,North Bermondsey,Southwark,England,Local (2026),TBC,E05011106,1,0.3,0.1
+1235,North Hanwell,Ealing,England,Local (2026),Labour,E05013529,1,0.3,0.1
+1236,North Middleton,Rochdale,England,Local (2026),Labour,E05014046,1,0.3,0.1
+1237,Northfield/Mastrick North,Aberdeen City,Scotland,Holyrood (2026),,S13002838,1,0.3,0.1
+1238,Northwick Park,Brent,England,Local (2026),TBC,E05013505,1,0.3,0.1
+1239,Pandy,Conwy,Wales,Senedd (2026),,W05001424,1,0.3,0.1
+1240,Park,Merthyr Tydfil,Wales,Senedd (2026),,W05001621,1,0.3,0.1
+1241,Park Hill and Whitgift,Croydon,England,Local (2026),Conservative,E05011475,1,0.3,0.1
+1242,Passmores,Harlow,England,Local (2026),Conservative,E05015689,1,0.3,0.1
+1243,Pembroke Dock: Bufferland,Pembrokeshire,Wales,Senedd (2026),,W05001473,1,0.3,0.1
+1244,Pen Y Fal,Monmouthshire,Wales,Senedd (2026),,W05001790,1,0.3,0.1
+1245,Pen-y-fai,Bridgend,Wales,Senedd (2026),,W05001250,1,0.3,0.1
+1246,Pen-y-ffordd,Flintshire,Wales,Senedd (2026),,W05001609,1,0.3,0.1
+1247,Pen-y-graig,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001095,1,0.3,0.1
+1248,Penderry,Swansea,Wales,Senedd (2026),,W05001059,1,0.3,0.1
+1249,Penicuik,Midlothian,Scotland,Holyrood (2026),,S13003018,1,0.3,0.1
+1250,Penistone West,Barnsley,England,Local (2026),Reform UK,E05000990,1,0.3,0.1
+1251,Penn,Wolverhampton,England,Local (2026),Labour,E05014852,1,0.3,0.1
+1252,Pennsylvania,Exeter,England,Local (2026),TBC,E05011017,1,0.3,0.1
+1253,Pentre,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001094,1,0.3,0.1
+1254,Pentyrch and St Fagans,Cardiff,Wales,Senedd (2026),,W05001287,1,0.3,0.1
+1255,Penydarren,Merthyr Tydfil,Wales,Senedd (2026),,W05001622,1,0.3,0.1
+1256,Perry Barr,Birmingham,England,Local (2026),TBC,E05011160,1,0.3,0.1
+1257,Perry Common,Birmingham,England,Local (2026),TBC,E05011161,1,0.3,0.1
+1258,Peterston-super-Ely,Vale of Glamorgan,Wales,Senedd (2026),,W05001393,1,0.3,0.1
+1259,Plaistow South,Newham,England,Local (2026),Labour,E05013919,1,0.3,0.1
+1260,Plumstead and Glyndon,Greenwich,England,Local (2026),Labour,E05014087,1,0.3,0.1
+1261,Ponciau,Wrexham,Wales,Senedd (2026),,W05001752,1,0.3,0.1
+1262,Pontllanfraith,Caerphilly,Wales,Senedd (2026),,W05001670,1,0.3,0.1
+1263,Pontnewynydd and Snatchwood,Torfaen,Wales,Senedd (2026),,W05001373,1,0.3,0.1
+1264,Pontyclun Central,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001097,1,0.3,0.1
+1265,Pontypridd Town,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001100,1,0.3,0.1
+1266,Popley,Basingstoke and Deane,England,Local (2026),Coalition,E05013089,1,0.3,0.1
+1267,Portobello/Craigmillar,City of Edinburgh,Scotland,Holyrood (2026),,S13002935,1,0.3,0.1
+1268,Portskewett,Monmouthshire,Wales,Senedd (2026),,W05001791,1,0.3,0.1
+1269,Prestatyn Central,Denbighshire,Wales,Senedd (2026),,W05001344,1,0.3,0.1
+1270,Prestatyn Meliden,Denbighshire,Wales,Senedd (2026),,W05001346,1,0.3,0.1
+1271,Prittlewell,Southend-on-Sea,England,Local (2026),Coalition,E05002219,1,0.3,0.1
+1272,Pype Hayes,Birmingham,England,Local (2026),TBC,E05011162,1,0.3,0.1
+1273,Queensway,Wrexham,Wales,Senedd (2026),,W05001753,1,0.3,0.1
+1274,Rassau and Garnlydan,Blaenau Gwent,Wales,Senedd (2026),,W05001267,1,0.3,0.1
+1275,Ravensbury,Merton,England,Local (2026),Labour,E05013822,1,0.3,0.1
+1276,Reddish North,Stockport,England,Local (2026),Liberal Democrat,E05015033,1,0.3,0.1
+1277,Rhos,Neath Port Talbot,Wales,Senedd (2026),,W05001709,1,0.3,0.1
+1278,Rhyl West,Denbighshire,Wales,Senedd (2026),,W05001355,1,0.3,0.1
+1279,Rogiet,Monmouthshire,Wales,Senedd (2026),,W05001793,1,0.3,0.1
+1280,Rose Hill and Iffley,Oxford,England,Local (2026),Labour,E05013113,1,0.3,0.1
+1281,Rowley,Sandwell,England,Local (2026),Reform UK,E05001275,1,0.3,0.1
+1282,Roxeth,Harrow,England,Local (2026),Conservative,E05013559,1,0.3,0.1
+1283,Rush Green and Crowlands,Havering,England,Local (2026),Reform UK,E05013980,1,0.3,0.1
+1284,Saddleworth West and Lees,Oldham,England,Local (2026),Labour,E05014660,1,0.3,0.1
+1285,Seiriol,Isle of Anglesey,Wales,Senedd (2026),,W05001501,1,0.3,0.1
+1286,Shaftesbury,Newport,Wales,Senedd (2026),,W05001643,1,0.3,0.1
+1287,Shaw,Oldham,England,Local (2026),Labour,E05014661,1,0.3,0.1
+1288,Shirley South,Croydon,England,Local (2026),Conservative,E05011483,1,0.3,0.1
+1289,Sighthill/Gorgie,City of Edinburgh,Scotland,Holyrood (2026),,S13002925,1,0.3,0.1
+1290,Slough,Nuneaton and Bedworth,England,Local (2026),Labour,E05015839,1,0.3,0.1
+1291,Smithfield,Wrexham,Wales,Senedd (2026),,W05001758,1,0.3,0.1
+1292,Solva,Pembrokeshire,Wales,Senedd (2026),,W05001483,1,0.3,0.1
+1293,South Tottenham,Haringey,England,Local (2026),TBC,E05013599,1,0.3,0.1
+1294,Southfield,Ealing,England,Local (2026),Labour,E05013540,1,0.3,0.1
+1295,St Alban's,Havering,England,Local (2026),Reform UK,E05013981,1,0.3,0.1
+1296,St Asaph West,Denbighshire,Wales,Senedd (2026),,W05001358,1,0.3,0.1
+1297,St David's,Exeter,England,Local (2026),TBC,E05011020,1,0.3,0.1
+1298,St Nicholas and Llancarfan,Vale of Glamorgan,Wales,Senedd (2026),,W05001398,1,0.3,0.1
+1299,St Pauls,Sandwell,England,Local (2026),Reform UK,E05001276,1,0.3,0.1
+1300,Stansty,Wrexham,Wales,Senedd (2026),,W05001759,1,0.3,0.1
+1301,Stepney Green,Tower Hamlets,England,Local (2026),Aspire,E05009334,1,0.3,0.1
+1302,Stirchley,Birmingham,England,Local (2026),TBC,E05011172,1,0.3,0.1
+1303,Stocksbridge and Upper Don,Sheffield,England,Local (2026),Coalition,E05016246,1,0.3,0.1
+1304,Stockwell East,Lambeth,England,Local (2026),TBC,E05014110,1,0.3,0.1
+1305,Stockwell West and Larkhall,Lambeth,England,Local (2026),TBC,E05014111,1,0.3,0.1
+1306,Stoke Park,Ipswich,England,Local (2026),Labour,E05007129,1,0.3,0.1
+1307,Stonydelph,Tamworth,England,Local (2026),Labour,E05007073,1,0.3,0.1
+1308,Streatham Common and Vale,Lambeth,England,Local (2026),TBC,E05014112,1,0.3,0.1
+1309,Stubbington,Fareham,England,Local (2026),Conservative,E05015675,1,0.3,0.1
+1310,Sully,Vale of Glamorgan,Wales,Senedd (2026),,W05001401,1,0.3,0.1
+1311,Summertown,Oxford,England,Local (2026),Labour,E05013116,1,0.3,0.1
+1312,Talgarth,Powys,Wales,Senedd (2026),,W05001168,1,0.3,0.1
+1313,Tawe Uchaf,Powys,Wales,Senedd (2026),,W05001170,1,0.3,0.1
+1314,Thames,Reading,England,Local (2026),Labour,E05013877,1,0.3,0.1
+1315,Thornton Heath,Croydon,England,Local (2026),Conservative,E05011486,1,0.3,0.1
+1316,Ton-teg,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001104,1,0.3,0.1
+1317,Tonyrefail West,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001107,1,0.3,0.1
+1318,Trebanos,Neath Port Talbot,Wales,Senedd (2026),,W05001712,1,0.3,0.1
+1319,Treforest,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001110,1,0.3,0.1
+1320,Treorchy,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001112,1,0.3,0.1
+1321,Treuddyn,Flintshire,Wales,Senedd (2026),,W05001614,1,0.3,0.1
+1322,Trevethin and Penygarn,Torfaen,Wales,Senedd (2026),,W05001376,1,0.3,0.1
+1323,Twyn Carno,Caerphilly,Wales,Senedd (2026),,W05001675,1,0.3,0.1
+1324,Upper Braes,Falkirk,Scotland,Holyrood (2026),,S13002944,1,0.3,0.1
+1325,Upper Rhydfelen and Glyn-taf,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001114,1,0.3,0.1
+1326,Van,Caerphilly,Wales,Senedd (2026),,W05001676,1,0.3,0.1
+1327,Victoria,Newport,Wales,Senedd (2026),,W05001647,1,0.3,0.1
+1328,Wandsworth Town,Wandsworth,England,Local (2026),TBC,E05014028,1,0.3,0.1
+1329,Wanstead Park,Redbridge,England,Local (2026),Labour,E05011254,1,0.3,0.1
+1330,Wanstead Village,Redbridge,England,Local (2026),Labour,E05011255,1,0.3,0.1
+1331,Wardley and Leam Lane,Gateshead,England,Local (2026),Reform UK,E05001084,1,0.3,0.1
+1332,Washington East,Sunderland,England,Local (2026),Reform UK,E05001174,1,0.3,0.1
+1333,Waterfront,Swansea,Wales,Senedd (2026),,W05001068,1,0.3,0.1
+1334,Waterloo and South Bank,Lambeth,England,Local (2026),TBC,E05014118,1,0.3,0.1
+1335,West Barnes,Merton,England,Local (2026),Labour,E05013827,1,0.3,0.1
+1336,West Green,Haringey,England,Local (2026),TBC,E05013603,1,0.3,0.1
+1337,West Kensington,Hammersmith and Fulham,England,Local (2026),Labour,E05013751,1,0.3,0.1
+1338,Wetherby,Leeds,England,Local (2026),TBC,E05011414,1,0.3,0.1
+1339,Whalley Range,Manchester,England,Local (2026),Labour,E05011379,1,0.3,0.1
+1340,Whitford,Flintshire,Wales,Senedd (2026),,W05001615,1,0.3,0.1
+1341,Winchmore Hill,Enfield,England,Local (2026),TBC,E05013696,1,0.3,0.1
+1342,Wood End,Hillingdon,England,Local (2026),Conservative,E05013582,1,0.3,0.1
+1343,Woolwich Common,Greenwich,England,Local (2026),Labour,E05014093,1,0.3,0.1
+1344,Wormholt,Hammersmith and Fulham,England,Local (2026),Labour,E05013753,1,0.3,0.1
+1345,Worsbrough,Barnsley,England,Local (2026),Reform UK,E05000996,1,0.3,0.1
+1346,Wynnstay,Wrexham,Wales,Senedd (2026),,W05001761,1,0.3,0.1
+1347,Ynyscedwyn,Powys,Wales,Senedd (2026),,W05001175,1,0.3,0.1
+1348,Ynysddu,Caerphilly,Wales,Senedd (2026),,W05001677,1,0.3,0.1
+1349,Ynysybwl,Rhondda Cynon Taf,Wales,Senedd (2026),,W05001115,1,0.3,0.1
