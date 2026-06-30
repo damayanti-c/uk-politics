@@ -57,6 +57,9 @@ EXT = BASE_DIR.parent.parent / "source_data" / "election_results" / "local_elect
 RACES_CSV = EXT / "electionresults_uk_races.csv"
 CANDIDATES_CSV = EXT / "electionresults_uk_candidates.csv"            # all years (pre-2026 carry ONS codes)
 CANDIDATES_2026_CSV = EXT / "electionresults_uk_candidates_2026.csv"  # 2026-only (Democracy Club slugs)
+GE2024_CSV = (BASE_DIR.parent.parent / "source_data" / "election_results" /
+              "national_general_elections" / "2024_results_analysis" /
+              "HoC-GE2024-results-by-constituency.csv")
 EC_SUFFIX = re.compile(r"(E05\d{6})$", re.IGNORECASE)
 
 START_DATE, END_DATE = "2026-03-27", "2026-05-07"
@@ -76,6 +79,59 @@ def classify_party(party: str) -> str | None:
     if "reform" in p:
         return "Reform"
     return None
+
+
+def _rankdata(values: np.ndarray) -> np.ndarray:
+    """Average (tie-corrected) ranks, like scipy.stats.rankdata, via numpy only."""
+    values = np.asarray(values, dtype=float)
+    uniques, inverse, counts = np.unique(values, return_inverse=True, return_counts=True)
+    cumulative = np.cumsum(counts)
+    group_start = cumulative - counts
+    average_rank = (group_start + cumulative + 1) / 2.0  # mean of the 1-based ranks in each tie group
+    return average_rank[inverse]
+
+
+def spearman(x, y) -> float:
+    return float(np.corrcoef(_rankdata(x), _rankdata(y))[0, 1])
+
+
+def pearson(x, y) -> float:
+    return float(np.corrcoef(x, y)[0, 1])
+
+
+def partial_corr(r_xy: float, r_xz: float, r_yz: float) -> float:
+    """First-order partial correlation of x,y controlling for z."""
+    return (r_xy - r_xz * r_yz) / (((1 - r_xz ** 2) * (1 - r_yz ** 2)) ** 0.5)
+
+
+def labour_ge2024_share_by_constituency() -> dict[str, float]:
+    """Labour share of valid votes at GE2024, keyed by Westminster ONS ID (E14…)."""
+    out: dict[str, float] = {}
+    with GE2024_CSV.open(encoding="utf-8-sig", newline="") as handle:
+        for row in csv.DictReader(handle):
+            try:
+                lab = float(row["Lab"] or 0)
+                valid = float(row["Valid votes"] or 0)
+            except (ValueError, KeyError):
+                continue
+            if valid > 0:
+                out[row["ONS ID"]] = 100 * lab / valid
+    return out
+
+
+def canvassing_by_constituency() -> Counter:
+    """Count in-window canvassing events per Westminster ONS constituency code."""
+    events = json.loads(EVENTS_JSON.read_text(encoding="utf-8"))
+    counts: Counter = Counter()
+    for e in events:
+        if e.get("category_name") != "Canvassing":
+            continue
+        if not (START_DATE <= (e.get("start_time") or "")[:10] <= END_DATE):
+            continue
+        code = (e.get("constituency_code") or "").strip()
+        if code:
+            counts[code] += 1
+    return counts
 
 
 def canvassing_by_ward_code() -> Counter:
@@ -228,6 +284,7 @@ def main() -> int:
             "canvassing_events": canv.get(code, 0),
             "labour_share_last": last[code]["labour_share"] if code in last else None,
             "last_election_year": last[code]["last_election_year"] if code in last else None,
+            "labour_share_2026": meta["labour_share"],
             "green_share_2026": meta["green_share"],
             "reform_share_2026": meta["reform_share"],
         })
@@ -295,7 +352,8 @@ def main() -> int:
     # ---- data CSV ----
     out_csv = BASE_DIR / "canvassing_vs_voteshare.csv"
     fields = ["ward_code", "council", "ward_name", "canvassing_events",
-              "labour_share_last", "last_election_year", "green_share_2026", "reform_share_2026"]
+              "labour_share_last", "last_election_year", "labour_share_2026",
+              "green_share_2026", "reform_share_2026"]
     with out_csv.open("w", newline="", encoding="utf-8") as handle:
         w = csv.DictWriter(handle, fieldnames=fields, extrasaction="ignore")
         w.writeheader()
@@ -303,10 +361,68 @@ def main() -> int:
             w.writerow({k: (round(v, 2) if isinstance(v, float) else v) for k, v in r.items()})
     print(f"Wrote {out_csv.name}")
 
-    print("\nCorrelations with canvassing intensity:")
-    print(f"  Labour  share (last election) vs canvassing: r = {np.corrcoef(lab, lab_cv)[0, 1]:+.3f}")
-    print(f"  Green   share (2026)          vs canvassing: r = {np.corrcoef(grn, cv)[0, 1]:+.3f}")
-    print(f"  Reform  share (2026)          vs canvassing: r = {np.corrcoef(ref, cv)[0, 1]:+.3f}")
+    # ---- Correlations: ward level (Pearson + rank-based Spearman) ----
+    lab2026 = np.array([r["labour_share_2026"] for r in rows])  # endogenous: effort may lift share
+    ward_corr = {
+        "labour_share_last": {"pearson": pearson(lab, lab_cv), "spearman": spearman(lab, lab_cv), "n": len(lab)},
+        "labour_share_2026_ENDOGENOUS": {"pearson": pearson(lab2026, cv), "spearman": spearman(lab2026, cv), "n": len(cv)},
+        "green_share_2026": {"pearson": pearson(grn, cv), "spearman": spearman(grn, cv), "n": len(cv)},
+        "reform_share_2026": {"pearson": pearson(ref, cv), "spearman": spearman(ref, cv), "n": len(cv)},
+    }
+
+    # ---- Partial correlations on the prior-result wards: does effort track the
+    #      Green / Reform threat INDEPENDENTLY of Labour's own prior strength? ----
+    # All four series must share the same ward set (those with a prior Labour share).
+    pl = np.array([r["labour_share_last"] for r in lab_rows])
+    pg = np.array([r["green_share_2026"] for r in lab_rows])
+    pr = np.array([r["reform_share_2026"] for r in lab_rows])
+    pc = lab_cv
+    r_cg, r_cl, r_gl = pearson(pc, pg), pearson(pc, pl), pearson(pg, pl)
+    r_cr, r_rl = pearson(pc, pr), pearson(pr, pl)
+    partials = {
+        "green_2026_controlling_labour_last": partial_corr(r_cg, r_cl, r_gl),
+        "reform_2026_controlling_labour_last": partial_corr(r_cr, r_cl, r_rl),
+        "labour_last_controlling_green_2026": partial_corr(r_cl, r_cg, r_gl),
+    }
+
+    # ---- Constituency level: Labour GE2024 share vs canvassing volume ----
+    canv_con = canvassing_by_constituency()
+    ge = labour_ge2024_share_by_constituency()
+    joined = [(code, canv_con[code], ge[code]) for code in canv_con if code in ge]
+    con_n = np.array([float(n) for _, n, _ in joined])
+    con_s = np.array([s for _, _, s in joined])
+    eng = [(c, n, s) for c, n, s in joined if c.startswith("E14")]
+    eng_n = np.array([float(n) for _, n, _ in eng])
+    eng_s = np.array([s for _, _, s in eng])
+    constituency_corr = {
+        "ge2024_labour_share_vs_canvassing_GB": {
+            "pearson": pearson(con_s, con_n), "spearman": spearman(con_s, con_n), "n": len(joined)},
+        "ge2024_labour_share_vs_canvassing_England": {
+            "pearson": pearson(eng_s, eng_n), "spearman": spearman(eng_s, eng_n), "n": len(eng)},
+    }
+
+    print("\nWard-level correlations with canvassing intensity (Pearson | Spearman, n):")
+    for name, c in ward_corr.items():
+        print(f"  {name:32s} {c['pearson']:+.3f} | {c['spearman']:+.3f}  (n={c['n']})")
+    print("\nPartial correlations (control for confound; prior-result wards only,"
+          f" n={len(lab_rows)}):")
+    for name, val in partials.items():
+        print(f"  {name:36s} {val:+.3f}")
+    print("\nConstituency-level (Labour GE2024 share vs # canvassing events):")
+    for name, c in constituency_corr.items():
+        print(f"  {name:42s} {c['pearson']:+.3f} | {c['spearman']:+.3f}  (n={c['n']})")
+
+    corr_json = BASE_DIR / "canvassing_vs_voteshare_correlations.json"
+    corr_json.write_text(json.dumps({
+        "note": ("Pearson and Spearman correlations of Labour canvassing intensity with "
+                 "vote share. Labour's own 2026 share is ENDOGENOUS (canvassing may have "
+                 "lifted it) so treat as an upper bound, not targeting evidence. Partials "
+                 "show Green/Reform effects net of Labour's own prior strength."),
+        "ward_level": ward_corr,
+        "ward_level_partials": partials,
+        "constituency_level": constituency_corr,
+    }, indent=2) + "\n", encoding="utf-8")
+    print(f"\nWrote {corr_json.name}")
     return 0
 
 

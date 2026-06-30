@@ -74,6 +74,16 @@ Dependencies: `curl_cffi` (TLS impersonation).
   x, grouped into ~100-ward bins, one dot per bin = bin mean; trend lines and r use
   the full ward-level data). `canvassing_green_vs_reform_2026.png` — ward-level
   scatter on Green (x) × Reform (y) 2026 shares, point size = canvassing events,
-  colour = Labour share at the last election. Also `canvassing_vs_voteshare.csv`.
+  colour = Labour share at the last election. Also `canvassing_vs_voteshare.csv`
+  (now carries `labour_share_2026` alongside `labour_share_last`).
+  The script also writes `canvassing_vs_voteshare_correlations.json`:
+    - **Ward level** — Pearson + Spearman of canvassing volume vs Labour-last,
+      Labour-2026 (flagged endogenous — effort may have lifted it), Green-2026 and
+      Reform-2026 share.
+    - **Partials** — Green/Reform-2026 effects net of Labour's own prior strength.
+      Labour canvassed more where Greens were strong even controlling for its own
+      strength (green r≈+0.23 partial), and *less* where Reform was strong (≈−0.20).
+    - **Constituency level** — Labour GE2024 share vs canvassing volume, joined on
+      Westminster ONS code (GB and England-only), from the GE2024 results file.
 
 Analysis dependencies: `matplotlib`, `numpy` (and `curl_cffi` for the postcode lookup).

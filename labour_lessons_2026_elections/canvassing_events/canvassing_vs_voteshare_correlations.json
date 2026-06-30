@@ -1,0 +1,42 @@
+{
+  "note": "Pearson and Spearman correlations of Labour canvassing intensity with vote share. Labour's own 2026 share is ENDOGENOUS (canvassing may have lifted it) so treat as an upper bound, not targeting evidence. Partials show Green/Reform effects net of Labour's own prior strength.",
+  "ward_level": {
+    "labour_share_last": {
+      "pearson": 0.2569562552373085,
+      "spearman": 0.3794854878581104,
+      "n": 2301
+    },
+    "labour_share_2026_ENDOGENOUS": {
+      "pearson": 0.34623712452383626,
+      "spearman": 0.4726271359578637,
+      "n": 2301
+    },
+    "green_share_2026": {
+      "pearson": 0.2858528456195957,
+      "spearman": 0.3924770442201932,
+      "n": 2301
+    },
+    "reform_share_2026": {
+      "pearson": -0.1961581430296139,
+      "spearman": -0.24620303880926156,
+      "n": 2301
+    }
+  },
+  "ward_level_partials": {
+    "green_2026_controlling_labour_last": 0.23061594125006837,
+    "reform_2026_controlling_labour_last": -0.20082770949024523,
+    "labour_last_controlling_green_2026": 0.19238266393154246
+  },
+  "constituency_level": {
+    "ge2024_labour_share_vs_canvassing_GB": {
+      "pearson": 0.29746980463079115,
+      "spearman": 0.29662652754241847,
+      "n": 325
+    },
+    "ge2024_labour_share_vs_canvassing_England": {
+      "pearson": 0.318307156810395,
+      "spearman": 0.34151687619330423,
+      "n": 251
+    }
+  }
+}
