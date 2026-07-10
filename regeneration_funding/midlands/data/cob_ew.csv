@@ -1,0 +1,994 @@
+Lower tier local authorities Code,Lower tier local authorities,Country of birth (UK) (3 categories) Code,Country of birth (UK) (3 categories),Observation
+E06000001,Hartlepool,-8,Does not apply,0
+E06000001,Hartlepool,1,Born in the UK,88673
+E06000001,Hartlepool,2,Born outside the UK,3665
+E06000002,Middlesbrough,-8,Does not apply,0
+E06000002,Middlesbrough,1,Born in the UK,126242
+E06000002,Middlesbrough,2,Born outside the UK,17682
+E06000003,Redcar and Cleveland,-8,Does not apply,0
+E06000003,Redcar and Cleveland,1,Born in the UK,132550
+E06000003,Redcar and Cleveland,2,Born outside the UK,3981
+E06000004,Stockton-on-Tees,-8,Does not apply,0
+E06000004,Stockton-on-Tees,1,Born in the UK,184328
+E06000004,Stockton-on-Tees,2,Born outside the UK,12267
+E06000005,Darlington,-8,Does not apply,0
+E06000005,Darlington,1,Born in the UK,99373
+E06000005,Darlington,2,Born outside the UK,8426
+E06000006,Halton,-8,Does not apply,0
+E06000006,Halton,1,Born in the UK,122350
+E06000006,Halton,2,Born outside the UK,6128
+E06000007,Warrington,-8,Does not apply,0
+E06000007,Warrington,1,Born in the UK,191226
+E06000007,Warrington,2,Born outside the UK,19748
+E06000008,Blackburn with Darwen,-8,Does not apply,0
+E06000008,Blackburn with Darwen,1,Born in the UK,126745
+E06000008,Blackburn with Darwen,2,Born outside the UK,27993
+E06000009,Blackpool,-8,Does not apply,0
+E06000009,Blackpool,1,Born in the UK,129903
+E06000009,Blackpool,2,Born outside the UK,11133
+E06000010,Kingston upon Hull,-8,Does not apply,0
+E06000010,Kingston upon Hull,1,Born in the UK,232051
+E06000010,Kingston upon Hull,2,Born outside the UK,34963
+E06000011,East Riding of Yorkshire,-8,Does not apply,0
+E06000011,East Riding of Yorkshire,1,Born in the UK,325230
+E06000011,East Riding of Yorkshire,2,Born outside the UK,16985
+E06000012,North East Lincolnshire,-8,Does not apply,0
+E06000012,North East Lincolnshire,1,Born in the UK,146658
+E06000012,North East Lincolnshire,2,Born outside the UK,10308
+E06000013,North Lincolnshire,-8,Does not apply,0
+E06000013,North Lincolnshire,1,Born in the UK,153709
+E06000013,North Lincolnshire,2,Born outside the UK,15971
+E06000014,York,-8,Does not apply,0
+E06000014,York,1,Born in the UK,180964
+E06000014,York,2,Born outside the UK,21857
+E06000015,Derby,-8,Does not apply,0
+E06000015,Derby,1,Born in the UK,210170
+E06000015,Derby,2,Born outside the UK,51194
+E06000016,Leicester,-8,Does not apply,0
+E06000016,Leicester,1,Born in the UK,217078
+E06000016,Leicester,2,Born outside the UK,151493
+E06000017,Rutland,-8,Does not apply,0
+E06000017,Rutland,1,Born in the UK,37658
+E06000017,Rutland,2,Born outside the UK,3391
+E06000018,Nottingham,-8,Does not apply,0
+E06000018,Nottingham,1,Born in the UK,244133
+E06000018,Nottingham,2,Born outside the UK,79499
+E06000019,Herefordshire,-8,Does not apply,0
+E06000019,Herefordshire,1,Born in the UK,170958
+E06000019,Herefordshire,2,Born outside the UK,16076
+E06000020,Telford and Wrekin,-8,Does not apply,0
+E06000020,Telford and Wrekin,1,Born in the UK,164432
+E06000020,Telford and Wrekin,2,Born outside the UK,21109
+E06000021,Stoke-on-Trent,-8,Does not apply,0
+E06000021,Stoke-on-Trent,1,Born in the UK,224531
+E06000021,Stoke-on-Trent,2,Born outside the UK,33838
+E06000022,Bath and North East Somerset,-8,Does not apply,0
+E06000022,Bath and North East Somerset,1,Born in the UK,170090
+E06000022,Bath and North East Somerset,2,Born outside the UK,23319
+E06000023,Bristol,-8,Does not apply,0
+E06000023,Bristol,1,Born in the UK,383497
+E06000023,Bristol,2,Born outside the UK,88968
+E06000024,North Somerset,-8,Does not apply,0
+E06000024,North Somerset,1,Born in the UK,198533
+E06000024,North Somerset,2,Born outside the UK,18195
+E06000025,South Gloucestershire,-8,Does not apply,0
+E06000025,South Gloucestershire,1,Born in the UK,259756
+E06000025,South Gloucestershire,2,Born outside the UK,30668
+E06000026,Plymouth,-8,Does not apply,0
+E06000026,Plymouth,1,Born in the UK,240345
+E06000026,Plymouth,2,Born outside the UK,24350
+E06000027,Torbay,-8,Does not apply,0
+E06000027,Torbay,1,Born in the UK,129424
+E06000027,Torbay,2,Born outside the UK,9900
+E06000030,Swindon,-8,Does not apply,0
+E06000030,Swindon,1,Born in the UK,185756
+E06000030,Swindon,2,Born outside the UK,47654
+E06000031,Peterborough,-8,Does not apply,0
+E06000031,Peterborough,1,Born in the UK,154787
+E06000031,Peterborough,2,Born outside the UK,60886
+E06000032,Luton,-8,Does not apply,0
+E06000032,Luton,1,Born in the UK,138675
+E06000032,Luton,2,Born outside the UK,86587
+E06000033,Southend-on-Sea,-8,Does not apply,0
+E06000033,Southend-on-Sea,1,Born in the UK,158100
+E06000033,Southend-on-Sea,2,Born outside the UK,22586
+E06000034,Thurrock,-8,Does not apply,0
+E06000034,Thurrock,1,Born in the UK,139059
+E06000034,Thurrock,2,Born outside the UK,36941
+E06000035,Medway,-8,Does not apply,0
+E06000035,Medway,1,Born in the UK,241119
+E06000035,Medway,2,Born outside the UK,38654
+E06000036,Bracknell Forest,-8,Does not apply,0
+E06000036,Bracknell Forest,1,Born in the UK,102964
+E06000036,Bracknell Forest,2,Born outside the UK,21643
+E06000037,West Berkshire,-8,Does not apply,0
+E06000037,West Berkshire,1,Born in the UK,141996
+E06000037,West Berkshire,2,Born outside the UK,19452
+E06000038,Reading,-8,Does not apply,0
+E06000038,Reading,1,Born in the UK,115894
+E06000038,Reading,2,Born outside the UK,58330
+E06000039,Slough,-8,Does not apply,0
+E06000039,Slough,1,Born in the UK,88806
+E06000039,Slough,2,Born outside the UK,69694
+E06000040,Windsor and Maidenhead,-8,Does not apply,0
+E06000040,Windsor and Maidenhead,1,Born in the UK,120245
+E06000040,Windsor and Maidenhead,2,Born outside the UK,33251
+E06000041,Wokingham,-8,Does not apply,0
+E06000041,Wokingham,1,Born in the UK,143891
+E06000041,Wokingham,2,Born outside the UK,33611
+E06000042,Milton Keynes,-8,Does not apply,0
+E06000042,Milton Keynes,1,Born in the UK,213215
+E06000042,Milton Keynes,2,Born outside the UK,73845
+E06000043,Brighton and Hove,-8,Does not apply,0
+E06000043,Brighton and Hove,1,Born in the UK,222760
+E06000043,Brighton and Hove,2,Born outside the UK,54343
+E06000044,Portsmouth,-8,Does not apply,0
+E06000044,Portsmouth,1,Born in the UK,172763
+E06000044,Portsmouth,2,Born outside the UK,35240
+E06000045,Southampton,-8,Does not apply,0
+E06000045,Southampton,1,Born in the UK,188823
+E06000045,Southampton,2,Born outside the UK,60099
+E06000046,Isle of Wight,-8,Does not apply,0
+E06000046,Isle of Wight,1,Born in the UK,131851
+E06000046,Isle of Wight,2,Born outside the UK,8608
+E06000047,County Durham,-8,Does not apply,0
+E06000047,County Durham,1,Born in the UK,499175
+E06000047,County Durham,2,Born outside the UK,22893
+E06000049,Cheshire East,-8,Does not apply,0
+E06000049,Cheshire East,1,Born in the UK,365637
+E06000049,Cheshire East,2,Born outside the UK,33135
+E06000050,Cheshire West and Chester,-8,Does not apply,0
+E06000050,Cheshire West and Chester,1,Born in the UK,330940
+E06000050,Cheshire West and Chester,2,Born outside the UK,26209
+E06000051,Shropshire,-8,Does not apply,0
+E06000051,Shropshire,1,Born in the UK,304471
+E06000051,Shropshire,2,Born outside the UK,19135
+E06000052,Cornwall,-8,Does not apply,0
+E06000052,Cornwall,1,Born in the UK,540148
+E06000052,Cornwall,2,Born outside the UK,30157
+E06000053,Isles of Scilly,-8,Does not apply,0
+E06000053,Isles of Scilly,1,Born in the UK,1940
+E06000053,Isles of Scilly,2,Born outside the UK,114
+E06000054,Wiltshire,-8,Does not apply,0
+E06000054,Wiltshire,1,Born in the UK,459802
+E06000054,Wiltshire,2,Born outside the UK,50531
+E06000055,Bedford,-8,Does not apply,0
+E06000055,Bedford,1,Born in the UK,145586
+E06000055,Bedford,2,Born outside the UK,39639
+E06000056,Central Bedfordshire,-8,Does not apply,0
+E06000056,Central Bedfordshire,1,Born in the UK,261763
+E06000056,Central Bedfordshire,2,Born outside the UK,32489
+E06000057,Northumberland,-8,Does not apply,0
+E06000057,Northumberland,1,Born in the UK,309315
+E06000057,Northumberland,2,Born outside the UK,11252
+E06000058,"Bournemouth, Christchurch and Poole",-8,Does not apply,0
+E06000058,"Bournemouth, Christchurch and Poole",1,Born in the UK,338248
+E06000058,"Bournemouth, Christchurch and Poole",2,Born outside the UK,61948
+E06000059,Dorset,-8,Does not apply,0
+E06000059,Dorset,1,Born in the UK,354852
+E06000059,Dorset,2,Born outside the UK,24727
+E06000060,Buckinghamshire,-8,Does not apply,0
+E06000060,Buckinghamshire,1,Born in the UK,461030
+E06000060,Buckinghamshire,2,Born outside the UK,92048
+E06000061,North Northamptonshire,-8,Does not apply,0
+E06000061,North Northamptonshire,1,Born in the UK,303952
+E06000061,North Northamptonshire,2,Born outside the UK,55573
+E06000062,West Northamptonshire,-8,Does not apply,0
+E06000062,West Northamptonshire,1,Born in the UK,345735
+E06000062,West Northamptonshire,2,Born outside the UK,79988
+E07000008,Cambridge,-8,Does not apply,0
+E07000008,Cambridge,1,Born in the UK,90388
+E07000008,Cambridge,2,Born outside the UK,55286
+E07000009,East Cambridgeshire,-8,Does not apply,0
+E07000009,East Cambridgeshire,1,Born in the UK,77395
+E07000009,East Cambridgeshire,2,Born outside the UK,10367
+E07000010,Fenland,-8,Does not apply,0
+E07000010,Fenland,1,Born in the UK,89691
+E07000010,Fenland,2,Born outside the UK,12771
+E07000011,Huntingdonshire,-8,Does not apply,0
+E07000011,Huntingdonshire,1,Born in the UK,158430
+E07000011,Huntingdonshire,2,Born outside the UK,22402
+E07000012,South Cambridgeshire,-8,Does not apply,0
+E07000012,South Cambridgeshire,1,Born in the UK,135924
+E07000012,South Cambridgeshire,2,Born outside the UK,26195
+E07000026,Allerdale,-8,Does not apply,0
+E07000026,Allerdale,1,Born in the UK,93035
+E07000026,Allerdale,2,Born outside the UK,3119
+E07000027,Barrow-in-Furness,-8,Does not apply,0
+E07000027,Barrow-in-Furness,1,Born in the UK,64829
+E07000027,Barrow-in-Furness,2,Born outside the UK,2575
+E07000028,Carlisle,-8,Does not apply,0
+E07000028,Carlisle,1,Born in the UK,102654
+E07000028,Carlisle,2,Born outside the UK,7370
+E07000029,Copeland,-8,Does not apply,0
+E07000029,Copeland,1,Born in the UK,65116
+E07000029,Copeland,2,Born outside the UK,1960
+E07000030,Eden,-8,Does not apply,0
+E07000030,Eden,1,Born in the UK,51963
+E07000030,Eden,2,Born outside the UK,2772
+E07000031,South Lakeland,-8,Does not apply,0
+E07000031,South Lakeland,1,Born in the UK,98125
+E07000031,South Lakeland,2,Born outside the UK,6325
+E07000032,Amber Valley,-8,Does not apply,0
+E07000032,Amber Valley,1,Born in the UK,121480
+E07000032,Amber Valley,2,Born outside the UK,4726
+E07000033,Bolsover,-8,Does not apply,0
+E07000033,Bolsover,1,Born in the UK,75662
+E07000033,Bolsover,2,Born outside the UK,4611
+E07000034,Chesterfield,-8,Does not apply,0
+E07000034,Chesterfield,1,Born in the UK,98498
+E07000034,Chesterfield,2,Born outside the UK,5071
+E07000035,Derbyshire Dales,-8,Does not apply,0
+E07000035,Derbyshire Dales,1,Born in the UK,68848
+E07000035,Derbyshire Dales,2,Born outside the UK,2693
+E07000036,Erewash,-8,Does not apply,0
+E07000036,Erewash,1,Born in the UK,106972
+E07000036,Erewash,2,Born outside the UK,5935
+E07000037,High Peak,-8,Does not apply,0
+E07000037,High Peak,1,Born in the UK,87157
+E07000037,High Peak,2,Born outside the UK,3779
+E07000038,North East Derbyshire,-8,Does not apply,0
+E07000038,North East Derbyshire,1,Born in the UK,98829
+E07000038,North East Derbyshire,2,Born outside the UK,3172
+E07000039,South Derbyshire,-8,Does not apply,0
+E07000039,South Derbyshire,1,Born in the UK,100786
+E07000039,South Derbyshire,2,Born outside the UK,6420
+E07000040,East Devon,-8,Does not apply,0
+E07000040,East Devon,1,Born in the UK,141530
+E07000040,East Devon,2,Born outside the UK,9298
+E07000041,Exeter,-8,Does not apply,0
+E07000041,Exeter,1,Born in the UK,111104
+E07000041,Exeter,2,Born outside the UK,19604
+E07000042,Mid Devon,-8,Does not apply,0
+E07000042,Mid Devon,1,Born in the UK,77676
+E07000042,Mid Devon,2,Born outside the UK,5176
+E07000043,North Devon,-8,Does not apply,0
+E07000043,North Devon,1,Born in the UK,93196
+E07000043,North Devon,2,Born outside the UK,5415
+E07000044,South Hams,-8,Does not apply,0
+E07000044,South Hams,1,Born in the UK,83086
+E07000044,South Hams,2,Born outside the UK,5541
+E07000045,Teignbridge,-8,Does not apply,0
+E07000045,Teignbridge,1,Born in the UK,127824
+E07000045,Teignbridge,2,Born outside the UK,6980
+E07000046,Torridge,-8,Does not apply,0
+E07000046,Torridge,1,Born in the UK,65384
+E07000046,Torridge,2,Born outside the UK,2728
+E07000047,West Devon,-8,Does not apply,0
+E07000047,West Devon,1,Born in the UK,53989
+E07000047,West Devon,2,Born outside the UK,3107
+E07000061,Eastbourne,-8,Does not apply,0
+E07000061,Eastbourne,1,Born in the UK,86238
+E07000061,Eastbourne,2,Born outside the UK,15448
+E07000062,Hastings,-8,Does not apply,0
+E07000062,Hastings,1,Born in the UK,80653
+E07000062,Hastings,2,Born outside the UK,10342
+E07000063,Lewes,-8,Does not apply,0
+E07000063,Lewes,1,Born in the UK,91059
+E07000063,Lewes,2,Born outside the UK,8846
+E07000064,Rother,-8,Does not apply,0
+E07000064,Rother,1,Born in the UK,86089
+E07000064,Rother,2,Born outside the UK,7021
+E07000065,Wealden,-8,Does not apply,0
+E07000065,Wealden,1,Born in the UK,147986
+E07000065,Wealden,2,Born outside the UK,12165
+E07000066,Basildon,-8,Does not apply,0
+E07000066,Basildon,1,Born in the UK,165407
+E07000066,Basildon,2,Born outside the UK,22164
+E07000067,Braintree,-8,Does not apply,0
+E07000067,Braintree,1,Born in the UK,144076
+E07000067,Braintree,2,Born outside the UK,11192
+E07000068,Brentwood,-8,Does not apply,0
+E07000068,Brentwood,1,Born in the UK,68392
+E07000068,Brentwood,2,Born outside the UK,8655
+E07000069,Castle Point,-8,Does not apply,0
+E07000069,Castle Point,1,Born in the UK,85303
+E07000069,Castle Point,2,Born outside the UK,4284
+E07000070,Chelmsford,-8,Does not apply,0
+E07000070,Chelmsford,1,Born in the UK,159914
+E07000070,Chelmsford,2,Born outside the UK,21609
+E07000071,Colchester,-8,Does not apply,0
+E07000071,Colchester,1,Born in the UK,164707
+E07000071,Colchester,2,Born outside the UK,28008
+E07000072,Epping Forest,-8,Does not apply,0
+E07000072,Epping Forest,1,Born in the UK,116277
+E07000072,Epping Forest,2,Born outside the UK,18703
+E07000073,Harlow,-8,Does not apply,0
+E07000073,Harlow,1,Born in the UK,76255
+E07000073,Harlow,2,Born outside the UK,17073
+E07000074,Maldon,-8,Does not apply,0
+E07000074,Maldon,1,Born in the UK,63255
+E07000074,Maldon,2,Born outside the UK,2953
+E07000075,Rochford,-8,Does not apply,0
+E07000075,Rochford,1,Born in the UK,82203
+E07000075,Rochford,2,Born outside the UK,3458
+E07000076,Tendring,-8,Does not apply,0
+E07000076,Tendring,1,Born in the UK,140821
+E07000076,Tendring,2,Born outside the UK,7471
+E07000077,Uttlesford,-8,Does not apply,0
+E07000077,Uttlesford,1,Born in the UK,83396
+E07000077,Uttlesford,2,Born outside the UK,7944
+E07000078,Cheltenham,-8,Does not apply,0
+E07000078,Cheltenham,1,Born in the UK,101541
+E07000078,Cheltenham,2,Born outside the UK,17295
+E07000079,Cotswold,-8,Does not apply,0
+E07000079,Cotswold,1,Born in the UK,82833
+E07000079,Cotswold,2,Born outside the UK,7998
+E07000080,Forest of Dean,-8,Does not apply,0
+E07000080,Forest of Dean,1,Born in the UK,82569
+E07000080,Forest of Dean,2,Born outside the UK,4435
+E07000081,Gloucester,-8,Does not apply,0
+E07000081,Gloucester,1,Born in the UK,113343
+E07000081,Gloucester,2,Born outside the UK,19073
+E07000082,Stroud,-8,Does not apply,0
+E07000082,Stroud,1,Born in the UK,113160
+E07000082,Stroud,2,Born outside the UK,7944
+E07000083,Tewkesbury,-8,Does not apply,0
+E07000083,Tewkesbury,1,Born in the UK,87116
+E07000083,Tewkesbury,2,Born outside the UK,7768
+E07000084,Basingstoke and Deane,-8,Does not apply,0
+E07000084,Basingstoke and Deane,1,Born in the UK,157505
+E07000084,Basingstoke and Deane,2,Born outside the UK,27655
+E07000085,East Hampshire,-8,Does not apply,0
+E07000085,East Hampshire,1,Born in the UK,113737
+E07000085,East Hampshire,2,Born outside the UK,12007
+E07000086,Eastleigh,-8,Does not apply,0
+E07000086,Eastleigh,1,Born in the UK,123713
+E07000086,Eastleigh,2,Born outside the UK,12731
+E07000087,Fareham,-8,Does not apply,0
+E07000087,Fareham,1,Born in the UK,106737
+E07000087,Fareham,2,Born outside the UK,7776
+E07000088,Gosport,-8,Does not apply,0
+E07000088,Gosport,1,Born in the UK,75997
+E07000088,Gosport,2,Born outside the UK,5955
+E07000089,Hart,-8,Does not apply,0
+E07000089,Hart,1,Born in the UK,87770
+E07000089,Hart,2,Born outside the UK,11638
+E07000090,Havant,-8,Does not apply,0
+E07000090,Havant,1,Born in the UK,116201
+E07000090,Havant,2,Born outside the UK,8007
+E07000091,New Forest,-8,Does not apply,0
+E07000091,New Forest,1,Born in the UK,163689
+E07000091,New Forest,2,Born outside the UK,12096
+E07000092,Rushmoor,-8,Does not apply,0
+E07000092,Rushmoor,1,Born in the UK,75967
+E07000092,Rushmoor,2,Born outside the UK,23789
+E07000093,Test Valley,-8,Does not apply,0
+E07000093,Test Valley,1,Born in the UK,115982
+E07000093,Test Valley,2,Born outside the UK,14509
+E07000094,Winchester,-8,Does not apply,0
+E07000094,Winchester,1,Born in the UK,113477
+E07000094,Winchester,2,Born outside the UK,13967
+E07000095,Broxbourne,-8,Does not apply,0
+E07000095,Broxbourne,1,Born in the UK,81314
+E07000095,Broxbourne,2,Born outside the UK,17696
+E07000096,Dacorum,-8,Does not apply,0
+E07000096,Dacorum,1,Born in the UK,132881
+E07000096,Dacorum,2,Born outside the UK,22200
+E07000098,Hertsmere,-8,Does not apply,0
+E07000098,Hertsmere,1,Born in the UK,83151
+E07000098,Hertsmere,2,Born outside the UK,24676
+E07000099,North Hertfordshire,-8,Does not apply,0
+E07000099,North Hertfordshire,1,Born in the UK,117793
+E07000099,North Hertfordshire,2,Born outside the UK,15417
+E07000102,Three Rivers,-8,Does not apply,0
+E07000102,Three Rivers,1,Born in the UK,75953
+E07000102,Three Rivers,2,Born outside the UK,17818
+E07000103,Watford,-8,Does not apply,0
+E07000103,Watford,1,Born in the UK,67527
+E07000103,Watford,2,Born outside the UK,34719
+E07000105,Ashford,-8,Does not apply,0
+E07000105,Ashford,1,Born in the UK,114942
+E07000105,Ashford,2,Born outside the UK,17805
+E07000106,Canterbury,-8,Does not apply,0
+E07000106,Canterbury,1,Born in the UK,137129
+E07000106,Canterbury,2,Born outside the UK,20300
+E07000107,Dartford,-8,Does not apply,0
+E07000107,Dartford,1,Born in the UK,93777
+E07000107,Dartford,2,Born outside the UK,22976
+E07000108,Dover,-8,Does not apply,0
+E07000108,Dover,1,Born in the UK,106575
+E07000108,Dover,2,Born outside the UK,9835
+E07000109,Gravesham,-8,Does not apply,0
+E07000109,Gravesham,1,Born in the UK,86328
+E07000109,Gravesham,2,Born outside the UK,20572
+E07000110,Maidstone,-8,Does not apply,0
+E07000110,Maidstone,1,Born in the UK,151237
+E07000110,Maidstone,2,Born outside the UK,24544
+E07000111,Sevenoaks,-8,Does not apply,0
+E07000111,Sevenoaks,1,Born in the UK,107235
+E07000111,Sevenoaks,2,Born outside the UK,13279
+E07000112,Folkestone and Hythe,-8,Does not apply,0
+E07000112,Folkestone and Hythe,1,Born in the UK,98281
+E07000112,Folkestone and Hythe,2,Born outside the UK,11477
+E07000113,Swale,-8,Does not apply,0
+E07000113,Swale,1,Born in the UK,139533
+E07000113,Swale,2,Born outside the UK,12144
+E07000114,Thanet,-8,Does not apply,0
+E07000114,Thanet,1,Born in the UK,126862
+E07000114,Thanet,2,Born outside the UK,13725
+E07000115,Tonbridge and Malling,-8,Does not apply,0
+E07000115,Tonbridge and Malling,1,Born in the UK,120359
+E07000115,Tonbridge and Malling,2,Born outside the UK,11846
+E07000116,Tunbridge Wells,-8,Does not apply,0
+E07000116,Tunbridge Wells,1,Born in the UK,99728
+E07000116,Tunbridge Wells,2,Born outside the UK,15583
+E07000117,Burnley,-8,Does not apply,0
+E07000117,Burnley,1,Born in the UK,82579
+E07000117,Burnley,2,Born outside the UK,12067
+E07000118,Chorley,-8,Does not apply,0
+E07000118,Chorley,1,Born in the UK,111902
+E07000118,Chorley,2,Born outside the UK,5830
+E07000119,Fylde,-8,Does not apply,0
+E07000119,Fylde,1,Born in the UK,76530
+E07000119,Fylde,2,Born outside the UK,4844
+E07000120,Hyndburn,-8,Does not apply,0
+E07000120,Hyndburn,1,Born in the UK,74872
+E07000120,Hyndburn,2,Born outside the UK,7362
+E07000121,Lancaster,-8,Does not apply,0
+E07000121,Lancaster,1,Born in the UK,129346
+E07000121,Lancaster,2,Born outside the UK,13590
+E07000122,Pendle,-8,Does not apply,0
+E07000122,Pendle,1,Born in the UK,78852
+E07000122,Pendle,2,Born outside the UK,16905
+E07000123,Preston,-8,Does not apply,0
+E07000123,Preston,1,Born in the UK,119341
+E07000123,Preston,2,Born outside the UK,28494
+E07000124,Ribble Valley,-8,Does not apply,0
+E07000124,Ribble Valley,1,Born in the UK,58971
+E07000124,Ribble Valley,2,Born outside the UK,2590
+E07000125,Rossendale,-8,Does not apply,0
+E07000125,Rossendale,1,Born in the UK,67329
+E07000125,Rossendale,2,Born outside the UK,3542
+E07000126,South Ribble,-8,Does not apply,0
+E07000126,South Ribble,1,Born in the UK,105522
+E07000126,South Ribble,2,Born outside the UK,5513
+E07000127,West Lancashire,-8,Does not apply,0
+E07000127,West Lancashire,1,Born in the UK,110440
+E07000127,West Lancashire,2,Born outside the UK,6989
+E07000128,Wyre,-8,Does not apply,0
+E07000128,Wyre,1,Born in the UK,107748
+E07000128,Wyre,2,Born outside the UK,4198
+E07000129,Blaby,-8,Does not apply,0
+E07000129,Blaby,1,Born in the UK,93029
+E07000129,Blaby,2,Born outside the UK,9897
+E07000130,Charnwood,-8,Does not apply,0
+E07000130,Charnwood,1,Born in the UK,159857
+E07000130,Charnwood,2,Born outside the UK,24114
+E07000131,Harborough,-8,Does not apply,0
+E07000131,Harborough,1,Born in the UK,90617
+E07000131,Harborough,2,Born outside the UK,7008
+E07000132,Hinckley and Bosworth,-8,Does not apply,0
+E07000132,Hinckley and Bosworth,1,Born in the UK,106587
+E07000132,Hinckley and Bosworth,2,Born outside the UK,7053
+E07000133,Melton,-8,Does not apply,0
+E07000133,Melton,1,Born in the UK,48514
+E07000133,Melton,2,Born outside the UK,3238
+E07000134,North West Leicestershire,-8,Does not apply,0
+E07000134,North West Leicestershire,1,Born in the UK,98326
+E07000134,North West Leicestershire,2,Born outside the UK,6381
+E07000135,Oadby and Wigston,-8,Does not apply,0
+E07000135,Oadby and Wigston,1,Born in the UK,46568
+E07000135,Oadby and Wigston,2,Born outside the UK,11177
+E07000136,Boston,-8,Does not apply,0
+E07000136,Boston,1,Born in the UK,53830
+E07000136,Boston,2,Born outside the UK,16672
+E07000137,East Lindsey,-8,Does not apply,0
+E07000137,East Lindsey,1,Born in the UK,136421
+E07000137,East Lindsey,2,Born outside the UK,5875
+E07000138,Lincoln,-8,Does not apply,0
+E07000138,Lincoln,1,Born in the UK,88152
+E07000138,Lincoln,2,Born outside the UK,15661
+E07000139,North Kesteven,-8,Does not apply,0
+E07000139,North Kesteven,1,Born in the UK,110835
+E07000139,North Kesteven,2,Born outside the UK,7239
+E07000140,South Holland,-8,Does not apply,0
+E07000140,South Holland,1,Born in the UK,81215
+E07000140,South Holland,2,Born outside the UK,13907
+E07000141,South Kesteven,-8,Does not apply,0
+E07000141,South Kesteven,1,Born in the UK,130616
+E07000141,South Kesteven,2,Born outside the UK,12788
+E07000142,West Lindsey,-8,Does not apply,0
+E07000142,West Lindsey,1,Born in the UK,90468
+E07000142,West Lindsey,2,Born outside the UK,4685
+E07000143,Breckland,-8,Does not apply,0
+E07000143,Breckland,1,Born in the UK,126175
+E07000143,Breckland,2,Born outside the UK,15301
+E07000144,Broadland,-8,Does not apply,0
+E07000144,Broadland,1,Born in the UK,124296
+E07000144,Broadland,2,Born outside the UK,7425
+E07000145,Great Yarmouth,-8,Does not apply,0
+E07000145,Great Yarmouth,1,Born in the UK,89995
+E07000145,Great Yarmouth,2,Born outside the UK,9755
+E07000146,King's Lynn and West Norfolk,-8,Does not apply,0
+E07000146,King's Lynn and West Norfolk,1,Born in the UK,138376
+E07000146,King's Lynn and West Norfolk,2,Born outside the UK,15949
+E07000147,North Norfolk,-8,Does not apply,0
+E07000147,North Norfolk,1,Born in the UK,98291
+E07000147,North Norfolk,2,Born outside the UK,4689
+E07000148,Norwich,-8,Does not apply,0
+E07000148,Norwich,1,Born in the UK,118600
+E07000148,Norwich,2,Born outside the UK,25322
+E07000149,South Norfolk,-8,Does not apply,0
+E07000149,South Norfolk,1,Born in the UK,131950
+E07000149,South Norfolk,2,Born outside the UK,9998
+E07000163,Craven,-8,Does not apply,0
+E07000163,Craven,1,Born in the UK,54295
+E07000163,Craven,2,Born outside the UK,2632
+E07000164,Hambleton,-8,Does not apply,0
+E07000164,Hambleton,1,Born in the UK,86235
+E07000164,Hambleton,2,Born outside the UK,4455
+E07000165,Harrogate,-8,Does not apply,0
+E07000165,Harrogate,1,Born in the UK,148113
+E07000165,Harrogate,2,Born outside the UK,14554
+E07000166,Richmondshire,-8,Does not apply,0
+E07000166,Richmondshire,1,Born in the UK,45405
+E07000166,Richmondshire,2,Born outside the UK,4371
+E07000167,Ryedale,-8,Does not apply,0
+E07000167,Ryedale,1,Born in the UK,51851
+E07000167,Ryedale,2,Born outside the UK,2856
+E07000168,Scarborough,-8,Does not apply,0
+E07000168,Scarborough,1,Born in the UK,102093
+E07000168,Scarborough,2,Born outside the UK,6643
+E07000169,Selby,-8,Does not apply,0
+E07000169,Selby,1,Born in the UK,86958
+E07000169,Selby,2,Born outside the UK,5030
+E07000170,Ashfield,-8,Does not apply,0
+E07000170,Ashfield,1,Born in the UK,119087
+E07000170,Ashfield,2,Born outside the UK,7213
+E07000171,Bassetlaw,-8,Does not apply,0
+E07000171,Bassetlaw,1,Born in the UK,109896
+E07000171,Bassetlaw,2,Born outside the UK,7909
+E07000172,Broxtowe,-8,Does not apply,0
+E07000172,Broxtowe,1,Born in the UK,99589
+E07000172,Broxtowe,2,Born outside the UK,11351
+E07000173,Gedling,-8,Does not apply,0
+E07000173,Gedling,1,Born in the UK,108337
+E07000173,Gedling,2,Born outside the UK,8926
+E07000174,Mansfield,-8,Does not apply,0
+E07000174,Mansfield,1,Born in the UK,98571
+E07000174,Mansfield,2,Born outside the UK,11911
+E07000175,Newark and Sherwood,-8,Does not apply,0
+E07000175,Newark and Sherwood,1,Born in the UK,114028
+E07000175,Newark and Sherwood,2,Born outside the UK,8928
+E07000176,Rushcliffe,-8,Does not apply,0
+E07000176,Rushcliffe,1,Born in the UK,109177
+E07000176,Rushcliffe,2,Born outside the UK,9898
+E07000177,Cherwell,-8,Does not apply,0
+E07000177,Cherwell,1,Born in the UK,132685
+E07000177,Cherwell,2,Born outside the UK,28331
+E07000178,Oxford,-8,Does not apply,0
+E07000178,Oxford,1,Born in the UK,105387
+E07000178,Oxford,2,Born outside the UK,56653
+E07000179,South Oxfordshire,-8,Does not apply,0
+E07000179,South Oxfordshire,1,Born in the UK,130136
+E07000179,South Oxfordshire,2,Born outside the UK,18949
+E07000180,Vale of White Horse,-8,Does not apply,0
+E07000180,Vale of White Horse,1,Born in the UK,119245
+E07000180,Vale of White Horse,2,Born outside the UK,19668
+E07000181,West Oxfordshire,-8,Does not apply,0
+E07000181,West Oxfordshire,1,Born in the UK,102123
+E07000181,West Oxfordshire,2,Born outside the UK,12114
+E07000187,Mendip,-8,Does not apply,0
+E07000187,Mendip,1,Born in the UK,106933
+E07000187,Mendip,2,Born outside the UK,9156
+E07000188,Sedgemoor,-8,Does not apply,0
+E07000188,Sedgemoor,1,Born in the UK,114721
+E07000188,Sedgemoor,2,Born outside the UK,10622
+E07000189,South Somerset,-8,Does not apply,0
+E07000189,South Somerset,1,Born in the UK,158140
+E07000189,South Somerset,2,Born outside the UK,14531
+E07000192,Cannock Chase,-8,Does not apply,0
+E07000192,Cannock Chase,1,Born in the UK,96919
+E07000192,Cannock Chase,2,Born outside the UK,3600
+E07000193,East Staffordshire,-8,Does not apply,0
+E07000193,East Staffordshire,1,Born in the UK,106755
+E07000193,East Staffordshire,2,Born outside the UK,17264
+E07000194,Lichfield,-8,Does not apply,0
+E07000194,Lichfield,1,Born in the UK,101308
+E07000194,Lichfield,2,Born outside the UK,5129
+E07000195,Newcastle-under-Lyme,-8,Does not apply,0
+E07000195,Newcastle-under-Lyme,1,Born in the UK,114929
+E07000195,Newcastle-under-Lyme,2,Born outside the UK,8370
+E07000196,South Staffordshire,-8,Does not apply,0
+E07000196,South Staffordshire,1,Born in the UK,106840
+E07000196,South Staffordshire,2,Born outside the UK,3632
+E07000197,Stafford,-8,Does not apply,0
+E07000197,Stafford,1,Born in the UK,126625
+E07000197,Stafford,2,Born outside the UK,10242
+E07000198,Staffordshire Moorlands,-8,Does not apply,0
+E07000198,Staffordshire Moorlands,1,Born in the UK,93393
+E07000198,Staffordshire Moorlands,2,Born outside the UK,2452
+E07000199,Tamworth,-8,Does not apply,0
+E07000199,Tamworth,1,Born in the UK,73339
+E07000199,Tamworth,2,Born outside the UK,5308
+E07000200,Babergh,-8,Does not apply,0
+E07000200,Babergh,1,Born in the UK,87057
+E07000200,Babergh,2,Born outside the UK,5284
+E07000202,Ipswich,-8,Does not apply,0
+E07000202,Ipswich,1,Born in the UK,114863
+E07000202,Ipswich,2,Born outside the UK,24779
+E07000203,Mid Suffolk,-8,Does not apply,0
+E07000203,Mid Suffolk,1,Born in the UK,96911
+E07000203,Mid Suffolk,2,Born outside the UK,5788
+E07000207,Elmbridge,-8,Does not apply,0
+E07000207,Elmbridge,1,Born in the UK,109048
+E07000207,Elmbridge,2,Born outside the UK,29706
+E07000208,Epsom and Ewell,-8,Does not apply,0
+E07000208,Epsom and Ewell,1,Born in the UK,63540
+E07000208,Epsom and Ewell,2,Born outside the UK,17398
+E07000209,Guildford,-8,Does not apply,0
+E07000209,Guildford,1,Born in the UK,116160
+E07000209,Guildford,2,Born outside the UK,27490
+E07000210,Mole Valley,-8,Does not apply,0
+E07000210,Mole Valley,1,Born in the UK,76578
+E07000210,Mole Valley,2,Born outside the UK,10808
+E07000211,Reigate and Banstead,-8,Does not apply,0
+E07000211,Reigate and Banstead,1,Born in the UK,126218
+E07000211,Reigate and Banstead,2,Born outside the UK,24630
+E07000212,Runnymede,-8,Does not apply,0
+E07000212,Runnymede,1,Born in the UK,70554
+E07000212,Runnymede,2,Born outside the UK,17525
+E07000213,Spelthorne,-8,Does not apply,0
+E07000213,Spelthorne,1,Born in the UK,81469
+E07000213,Spelthorne,2,Born outside the UK,21487
+E07000214,Surrey Heath,-8,Does not apply,0
+E07000214,Surrey Heath,1,Born in the UK,75028
+E07000214,Surrey Heath,2,Born outside the UK,15425
+E07000215,Tandridge,-8,Does not apply,0
+E07000215,Tandridge,1,Born in the UK,78193
+E07000215,Tandridge,2,Born outside the UK,9681
+E07000216,Waverley,-8,Does not apply,0
+E07000216,Waverley,1,Born in the UK,111898
+E07000216,Waverley,2,Born outside the UK,16329
+E07000217,Woking,-8,Does not apply,0
+E07000217,Woking,1,Born in the UK,78797
+E07000217,Woking,2,Born outside the UK,25146
+E07000218,North Warwickshire,-8,Does not apply,0
+E07000218,North Warwickshire,1,Born in the UK,62234
+E07000218,North Warwickshire,2,Born outside the UK,2801
+E07000219,Nuneaton and Bedworth,-8,Does not apply,0
+E07000219,Nuneaton and Bedworth,1,Born in the UK,118758
+E07000219,Nuneaton and Bedworth,2,Born outside the UK,15439
+E07000220,Rugby,-8,Does not apply,0
+E07000220,Rugby,1,Born in the UK,93470
+E07000220,Rugby,2,Born outside the UK,20893
+E07000221,Stratford-on-Avon,-8,Does not apply,0
+E07000221,Stratford-on-Avon,1,Born in the UK,123358
+E07000221,Stratford-on-Avon,2,Born outside the UK,11367
+E07000222,Warwick,-8,Does not apply,0
+E07000222,Warwick,1,Born in the UK,124265
+E07000222,Warwick,2,Born outside the UK,24188
+E07000223,Adur,-8,Does not apply,0
+E07000223,Adur,1,Born in the UK,59300
+E07000223,Adur,2,Born outside the UK,5244
+E07000224,Arun,-8,Does not apply,0
+E07000224,Arun,1,Born in the UK,147218
+E07000224,Arun,2,Born outside the UK,17671
+E07000225,Chichester,-8,Does not apply,0
+E07000225,Chichester,1,Born in the UK,111578
+E07000225,Chichester,2,Born outside the UK,12490
+E07000226,Crawley,-8,Does not apply,0
+E07000226,Crawley,1,Born in the UK,86743
+E07000226,Crawley,2,Born outside the UK,31750
+E07000227,Horsham,-8,Does not apply,0
+E07000227,Horsham,1,Born in the UK,131674
+E07000227,Horsham,2,Born outside the UK,15104
+E07000228,Mid Sussex,-8,Does not apply,0
+E07000228,Mid Sussex,1,Born in the UK,134395
+E07000228,Mid Sussex,2,Born outside the UK,18171
+E07000229,Worthing,-8,Does not apply,0
+E07000229,Worthing,1,Born in the UK,97846
+E07000229,Worthing,2,Born outside the UK,13492
+E07000234,Bromsgrove,-8,Does not apply,0
+E07000234,Bromsgrove,1,Born in the UK,94380
+E07000234,Bromsgrove,2,Born outside the UK,4803
+E07000235,Malvern Hills,-8,Does not apply,0
+E07000235,Malvern Hills,1,Born in the UK,74872
+E07000235,Malvern Hills,2,Born outside the UK,4614
+E07000236,Redditch,-8,Does not apply,0
+E07000236,Redditch,1,Born in the UK,77100
+E07000236,Redditch,2,Born outside the UK,9936
+E07000237,Worcester,-8,Does not apply,0
+E07000237,Worcester,1,Born in the UK,90586
+E07000237,Worcester,2,Born outside the UK,13286
+E07000238,Wychavon,-8,Does not apply,0
+E07000238,Wychavon,1,Born in the UK,121686
+E07000238,Wychavon,2,Born outside the UK,10806
+E07000239,Wyre Forest,-8,Does not apply,0
+E07000239,Wyre Forest,1,Born in the UK,96555
+E07000239,Wyre Forest,2,Born outside the UK,5052
+E07000240,St Albans,-8,Does not apply,0
+E07000240,St Albans,1,Born in the UK,122959
+E07000240,St Albans,2,Born outside the UK,25209
+E07000241,Welwyn Hatfield,-8,Does not apply,0
+E07000241,Welwyn Hatfield,1,Born in the UK,93466
+E07000241,Welwyn Hatfield,2,Born outside the UK,26370
+E07000242,East Hertfordshire,-8,Does not apply,0
+E07000242,East Hertfordshire,1,Born in the UK,133893
+E07000242,East Hertfordshire,2,Born outside the UK,16265
+E07000243,Stevenage,-8,Does not apply,0
+E07000243,Stevenage,1,Born in the UK,74744
+E07000243,Stevenage,2,Born outside the UK,14751
+E07000244,East Suffolk,-8,Does not apply,0
+E07000244,East Suffolk,1,Born in the UK,231386
+E07000244,East Suffolk,2,Born outside the UK,14672
+E07000245,West Suffolk,-8,Does not apply,0
+E07000245,West Suffolk,1,Born in the UK,149325
+E07000245,West Suffolk,2,Born outside the UK,30623
+E07000246,Somerset West and Taunton,-8,Does not apply,0
+E07000246,Somerset West and Taunton,1,Born in the UK,142957
+E07000246,Somerset West and Taunton,2,Born outside the UK,14488
+E08000001,Bolton,-8,Does not apply,0
+E08000001,Bolton,1,Born in the UK,245907
+E08000001,Bolton,2,Born outside the UK,50056
+E08000002,Bury,-8,Does not apply,0
+E08000002,Bury,1,Born in the UK,170444
+E08000002,Bury,2,Born outside the UK,23407
+E08000003,Manchester,-8,Does not apply,0
+E08000003,Manchester,1,Born in the UK,378730
+E08000003,Manchester,2,Born outside the UK,173208
+E08000004,Oldham,-8,Does not apply,0
+E08000004,Oldham,1,Born in the UK,201825
+E08000004,Oldham,2,Born outside the UK,40263
+E08000005,Rochdale,-8,Does not apply,0
+E08000005,Rochdale,1,Born in the UK,189122
+E08000005,Rochdale,2,Born outside the UK,34651
+E08000006,Salford,-8,Does not apply,0
+E08000006,Salford,1,Born in the UK,218617
+E08000006,Salford,2,Born outside the UK,51306
+E08000007,Stockport,-8,Does not apply,0
+E08000007,Stockport,1,Born in the UK,266918
+E08000007,Stockport,2,Born outside the UK,27855
+E08000008,Tameside,-8,Does not apply,0
+E08000008,Tameside,1,Born in the UK,207201
+E08000008,Tameside,2,Born outside the UK,23870
+E08000009,Trafford,-8,Does not apply,0
+E08000009,Trafford,1,Born in the UK,200116
+E08000009,Trafford,2,Born outside the UK,34936
+E08000010,Wigan,-8,Does not apply,0
+E08000010,Wigan,1,Born in the UK,308857
+E08000010,Wigan,2,Born outside the UK,20473
+E08000011,Knowsley,-8,Does not apply,0
+E08000011,Knowsley,1,Born in the UK,146552
+E08000011,Knowsley,2,Born outside the UK,7967
+E08000012,Liverpool,-8,Does not apply,0
+E08000012,Liverpool,1,Born in the UK,413636
+E08000012,Liverpool,2,Born outside the UK,72452
+E08000013,St. Helens,-8,Does not apply,0
+E08000013,St. Helens,1,Born in the UK,174056
+E08000013,St. Helens,2,Born outside the UK,9192
+E08000014,Sefton,-8,Does not apply,0
+E08000014,Sefton,1,Born in the UK,261264
+E08000014,Sefton,2,Born outside the UK,17969
+E08000015,Wirral,-8,Does not apply,0
+E08000015,Wirral,1,Born in the UK,302789
+E08000015,Wirral,2,Born outside the UK,17410
+E08000016,Barnsley,-8,Does not apply,0
+E08000016,Barnsley,1,Born in the UK,228841
+E08000016,Barnsley,2,Born outside the UK,15731
+E08000017,Doncaster,-8,Does not apply,0
+E08000017,Doncaster,1,Born in the UK,275987
+E08000017,Doncaster,2,Born outside the UK,32119
+E08000018,Rotherham,-8,Does not apply,0
+E08000018,Rotherham,1,Born in the UK,247612
+E08000018,Rotherham,2,Born outside the UK,18195
+E08000019,Sheffield,-8,Does not apply,0
+E08000019,Sheffield,1,Born in the UK,473313
+E08000019,Sheffield,2,Born outside the UK,83208
+E08000021,Newcastle upon Tyne,-8,Does not apply,0
+E08000021,Newcastle upon Tyne,1,Born in the UK,247792
+E08000021,Newcastle upon Tyne,2,Born outside the UK,52333
+E08000022,North Tyneside,-8,Does not apply,0
+E08000022,North Tyneside,1,Born in the UK,197429
+E08000022,North Tyneside,2,Born outside the UK,11538
+E08000023,South Tyneside,-8,Does not apply,0
+E08000023,South Tyneside,1,Born in the UK,141225
+E08000023,South Tyneside,2,Born outside the UK,6551
+E08000024,Sunderland,-8,Does not apply,0
+E08000024,Sunderland,1,Born in the UK,260190
+E08000024,Sunderland,2,Born outside the UK,13982
+E08000025,Birmingham,-8,Does not apply,0
+E08000025,Birmingham,1,Born in the UK,838959
+E08000025,Birmingham,2,Born outside the UK,305960
+E08000026,Coventry,-8,Does not apply,0
+E08000026,Coventry,1,Born in the UK,248991
+E08000026,Coventry,2,Born outside the UK,96333
+E08000027,Dudley,-8,Does not apply,0
+E08000027,Dudley,1,Born in the UK,297930
+E08000027,Dudley,2,Born outside the UK,25558
+E08000028,Sandwell,-8,Does not apply,0
+E08000028,Sandwell,1,Born in the UK,261213
+E08000028,Sandwell,2,Born outside the UK,80619
+E08000029,Solihull,-8,Does not apply,0
+E08000029,Solihull,1,Born in the UK,193991
+E08000029,Solihull,2,Born outside the UK,22249
+E08000030,Walsall,-8,Does not apply,0
+E08000030,Walsall,1,Born in the UK,242162
+E08000030,Walsall,2,Born outside the UK,41962
+E08000031,Wolverhampton,-8,Does not apply,0
+E08000031,Wolverhampton,1,Born in the UK,203312
+E08000031,Wolverhampton,2,Born outside the UK,60415
+E08000032,Bradford,-8,Does not apply,0
+E08000032,Bradford,1,Born in the UK,444477
+E08000032,Bradford,2,Born outside the UK,101934
+E08000033,Calderdale,-8,Does not apply,0
+E08000033,Calderdale,1,Born in the UK,189037
+E08000033,Calderdale,2,Born outside the UK,17594
+E08000034,Kirklees,-8,Does not apply,0
+E08000034,Kirklees,1,Born in the UK,378708
+E08000034,Kirklees,2,Born outside the UK,54508
+E08000035,Leeds,-8,Does not apply,0
+E08000035,Leeds,1,Born in the UK,683681
+E08000035,Leeds,2,Born outside the UK,128272
+E08000036,Wakefield,-8,Does not apply,0
+E08000036,Wakefield,1,Born in the UK,323296
+E08000036,Wakefield,2,Born outside the UK,30074
+E08000037,Gateshead,-8,Does not apply,0
+E08000037,Gateshead,1,Born in the UK,181578
+E08000037,Gateshead,2,Born outside the UK,14573
+E09000001,City of London,-8,Does not apply,0
+E09000001,City of London,1,Born in the UK,4327
+E09000001,City of London,2,Born outside the UK,4256
+E09000002,Barking and Dagenham,-8,Does not apply,0
+E09000002,Barking and Dagenham,1,Born in the UK,128483
+E09000002,Barking and Dagenham,2,Born outside the UK,90386
+E09000003,Barnet,-8,Does not apply,0
+E09000003,Barnet,1,Born in the UK,221293
+E09000003,Barnet,2,Born outside the UK,168051
+E09000004,Bexley,-8,Does not apply,0
+E09000004,Bexley,1,Born in the UK,194714
+E09000004,Bexley,2,Born outside the UK,51758
+E09000005,Brent,-8,Does not apply,0
+E09000005,Brent,1,Born in the UK,149239
+E09000005,Brent,2,Born outside the UK,190577
+E09000006,Bromley,-8,Does not apply,0
+E09000006,Bromley,1,Born in the UK,263052
+E09000006,Bromley,2,Born outside the UK,66939
+E09000007,Camden,-8,Does not apply,0
+E09000007,Camden,1,Born in the UK,114647
+E09000007,Camden,2,Born outside the UK,95489
+E09000008,Croydon,-8,Does not apply,0
+E09000008,Croydon,1,Born in the UK,254536
+E09000008,Croydon,2,Born outside the UK,136183
+E09000009,Ealing,-8,Does not apply,0
+E09000009,Ealing,1,Born in the UK,180561
+E09000009,Ealing,2,Born outside the UK,186554
+E09000010,Enfield,-8,Does not apply,0
+E09000010,Enfield,1,Born in the UK,196824
+E09000010,Enfield,2,Born outside the UK,133160
+E09000011,Greenwich,-8,Does not apply,0
+E09000011,Greenwich,1,Born in the UK,180578
+E09000011,Greenwich,2,Born outside the UK,108490
+E09000012,Hackney,-8,Does not apply,0
+E09000012,Hackney,1,Born in the UK,156219
+E09000012,Hackney,2,Born outside the UK,102925
+E09000013,Hammersmith and Fulham,-8,Does not apply,0
+E09000013,Hammersmith and Fulham,1,Born in the UK,99818
+E09000013,Hammersmith and Fulham,2,Born outside the UK,83339
+E09000014,Haringey,-8,Does not apply,0
+E09000014,Haringey,1,Born in the UK,143117
+E09000014,Haringey,2,Born outside the UK,121121
+E09000015,Harrow,-8,Does not apply,0
+E09000015,Harrow,1,Born in the UK,127612
+E09000015,Harrow,2,Born outside the UK,133591
+E09000016,Havering,-8,Does not apply,0
+E09000016,Havering,1,Born in the UK,211166
+E09000016,Havering,2,Born outside the UK,50886
+E09000017,Hillingdon,-8,Does not apply,0
+E09000017,Hillingdon,1,Born in the UK,188260
+E09000017,Hillingdon,2,Born outside the UK,117649
+E09000018,Hounslow,-8,Does not apply,0
+E09000018,Hounslow,1,Born in the UK,145556
+E09000018,Hounslow,2,Born outside the UK,142625
+E09000019,Islington,-8,Does not apply,0
+E09000019,Islington,1,Born in the UK,130213
+E09000019,Islington,2,Born outside the UK,86376
+E09000020,Kensington and Chelsea,-8,Does not apply,0
+E09000020,Kensington and Chelsea,1,Born in the UK,66063
+E09000020,Kensington and Chelsea,2,Born outside the UK,77312
+E09000021,Kingston upon Thames,-8,Does not apply,0
+E09000021,Kingston upon Thames,1,Born in the UK,111412
+E09000021,Kingston upon Thames,2,Born outside the UK,56651
+E09000022,Lambeth,-8,Does not apply,0
+E09000022,Lambeth,1,Born in the UK,195091
+E09000022,Lambeth,2,Born outside the UK,122563
+E09000023,Lewisham,-8,Does not apply,0
+E09000023,Lewisham,1,Born in the UK,193483
+E09000023,Lewisham,2,Born outside the UK,107070
+E09000024,Merton,-8,Does not apply,0
+E09000024,Merton,1,Born in the UK,127245
+E09000024,Merton,2,Born outside the UK,87942
+E09000025,Newham,-8,Does not apply,0
+E09000025,Newham,1,Born in the UK,162447
+E09000025,Newham,2,Born outside the UK,188589
+E09000026,Redbridge,-8,Does not apply,0
+E09000026,Redbridge,1,Born in the UK,174963
+E09000026,Redbridge,2,Born outside the UK,135297
+E09000027,Richmond upon Thames,-8,Does not apply,0
+E09000027,Richmond upon Thames,1,Born in the UK,139053
+E09000027,Richmond upon Thames,2,Born outside the UK,56225
+E09000028,Southwark,-8,Does not apply,0
+E09000028,Southwark,1,Born in the UK,182392
+E09000028,Southwark,2,Born outside the UK,125245
+E09000029,Sutton,-8,Does not apply,0
+E09000029,Sutton,1,Born in the UK,151447
+E09000029,Sutton,2,Born outside the UK,58192
+E09000030,Tower Hamlets,-8,Does not apply,0
+E09000030,Tower Hamlets,1,Born in the UK,165081
+E09000030,Tower Hamlets,2,Born outside the UK,145225
+E09000031,Waltham Forest,-8,Does not apply,0
+E09000031,Waltham Forest,1,Born in the UK,171070
+E09000031,Waltham Forest,2,Born outside the UK,107356
+E09000032,Wandsworth,-8,Does not apply,0
+E09000032,Wandsworth,1,Born in the UK,203322
+E09000032,Wandsworth,2,Born outside the UK,124184
+E09000033,Westminster,-8,Does not apply,0
+E09000033,Westminster,1,Born in the UK,90702
+E09000033,Westminster,2,Born outside the UK,113534
+W06000001,Isle of Anglesey,-8,Does not apply,0
+W06000001,Isle of Anglesey,1,Born in the UK,66583
+W06000001,Isle of Anglesey,2,Born outside the UK,2295
+W06000002,Gwynedd,-8,Does not apply,0
+W06000002,Gwynedd,1,Born in the UK,111034
+W06000002,Gwynedd,2,Born outside the UK,6359
+W06000003,Conwy,-8,Does not apply,0
+W06000003,Conwy,1,Born in the UK,108801
+W06000003,Conwy,2,Born outside the UK,5941
+W06000004,Denbighshire,-8,Does not apply,0
+W06000004,Denbighshire,1,Born in the UK,91306
+W06000004,Denbighshire,2,Born outside the UK,4511
+W06000005,Flintshire,-8,Does not apply,0
+W06000005,Flintshire,1,Born in the UK,144952
+W06000005,Flintshire,2,Born outside the UK,10010
+W06000006,Wrexham,-8,Does not apply,0
+W06000006,Wrexham,1,Born in the UK,124476
+W06000006,Wrexham,2,Born outside the UK,10641
+W06000008,Ceredigion,-8,Does not apply,0
+W06000008,Ceredigion,1,Born in the UK,66430
+W06000008,Ceredigion,2,Born outside the UK,5045
+W06000009,Pembrokeshire,-8,Does not apply,0
+W06000009,Pembrokeshire,1,Born in the UK,117408
+W06000009,Pembrokeshire,2,Born outside the UK,5952
+W06000010,Carmarthenshire,-8,Does not apply,0
+W06000010,Carmarthenshire,1,Born in the UK,178385
+W06000010,Carmarthenshire,2,Born outside the UK,9512
+W06000011,Swansea,-8,Does not apply,0
+W06000011,Swansea,1,Born in the UK,216019
+W06000011,Swansea,2,Born outside the UK,22471
+W06000012,Neath Port Talbot,-8,Does not apply,0
+W06000012,Neath Port Talbot,1,Born in the UK,137115
+W06000012,Neath Port Talbot,2,Born outside the UK,5172
+W06000013,Bridgend,-8,Does not apply,0
+W06000013,Bridgend,1,Born in the UK,139225
+W06000013,Bridgend,2,Born outside the UK,6263
+W06000014,Vale of Glamorgan,-8,Does not apply,0
+W06000014,Vale of Glamorgan,1,Born in the UK,124315
+W06000014,Vale of Glamorgan,2,Born outside the UK,7623
+W06000015,Cardiff,-8,Does not apply,0
+W06000015,Cardiff,1,Born in the UK,302460
+W06000015,Cardiff,2,Born outside the UK,59848
+W06000016,Rhondda Cynon Taf,-8,Does not apply,0
+W06000016,Rhondda Cynon Taf,1,Born in the UK,228753
+W06000016,Rhondda Cynon Taf,2,Born outside the UK,8896
+W06000018,Caerphilly,-8,Does not apply,0
+W06000018,Caerphilly,1,Born in the UK,170772
+W06000018,Caerphilly,2,Born outside the UK,5180
+W06000019,Blaenau Gwent,-8,Does not apply,0
+W06000019,Blaenau Gwent,1,Born in the UK,64757
+W06000019,Blaenau Gwent,2,Born outside the UK,2147
+W06000020,Torfaen,-8,Does not apply,0
+W06000020,Torfaen,1,Born in the UK,88990
+W06000020,Torfaen,2,Born outside the UK,3286
+W06000021,Monmouthshire,-8,Does not apply,0
+W06000021,Monmouthshire,1,Born in the UK,87843
+W06000021,Monmouthshire,2,Born outside the UK,5114
+W06000022,Newport,-8,Does not apply,0
+W06000022,Newport,1,Born in the UK,140174
+W06000022,Newport,2,Born outside the UK,19417
+W06000023,Powys,-8,Does not apply,0
+W06000023,Powys,1,Born in the UK,126711
+W06000023,Powys,2,Born outside the UK,6458
+W06000024,Merthyr Tydfil,-8,Does not apply,0
+W06000024,Merthyr Tydfil,1,Born in the UK,55553
+W06000024,Merthyr Tydfil,2,Born outside the UK,3286
