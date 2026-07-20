@@ -45,7 +45,7 @@ BOTTOM_LABELS = {
 
 
 def main():
-    spec = importlib.util.spec_from_file_location("rm", str(MID / "regeneration_midlands.py"))
+    spec = importlib.util.spec_from_file_location("rm", str(MID / "recreate_core_analysis.py"))
     rm = importlib.util.module_from_spec(spec); spec.loader.exec_module(rm)
     f = rm.load_funding()
     dep = rm.load_deprivation()[["lad", "deprivation_mean"]]

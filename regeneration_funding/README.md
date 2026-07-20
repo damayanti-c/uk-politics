@@ -26,19 +26,15 @@ Everything here keys off one published model and its accompanying write-ups.
 | [`Regeneration analysis.R`](Regeneration%20analysis.R) | The original **national** analysis in R: choropleth maps, funding vs deprivation, funding vs vote choice / marginality, and `MatchIt` matching of Reform support in funded vs comparable LADs. | Yes: reads the Google Sheet's `Funding per LAD per capita` CSV export, plus census/MRP. |
 | [`Location to Standard Geography Matcher`](Location%20to%20Standard%20Geography%20Matcher) | The geography-matching notebook (same as the Colab above), mapping fund recipients to LADs. | Upstream: feeds the Sheet. |
 | [`topN_funding_vs_deprivation.py`](topN_funding_vs_deprivation.py) → `topN_funding_vs_deprivation.png` | England scatter of funding per head vs household deprivation, top 10 and ranks 11-20 highlighted, least-funded 5 marked. | Yes: funding per head comes from the model (via the `midlands/` loaders). |
-| [`midlands/`](midlands/) | Python **rebuild of the analysis for the Midlands** (top 10, deprivation/vote relationships, matching, plus BES switching, maps and demographic charts). See [`midlands/README.md`](midlands/README.md). | Yes: see below. |
+| [`midlands/`](midlands/) | Python **rebuild for the Midlands**, in two scripts: `recreate_core_analysis.py` (the original analysis: top 10, deprivation/vote relationships, matching) and `additional_demog_political_analysis.py` (deeper funding-vs-demographics and wider political charts). See [`midlands/README.md`](midlands/README.md). | Yes: see below. |
 
 ## Which scripts pull from the published analysis
 
 The dependency chain is: **Google Sheets model → `midlands/data/funding_per_lad.csv` (an export of its `Funding per LAD per capita` tab) → the scripts.**
 
-- `midlands/regeneration_midlands.py` reads that export in `load_funding()`. Everything that imports it therefore inherits the published funding figures:
-  - `topN_funding_vs_deprivation.py`
-  - `midlands/bes_midlands_switching.py`
-  - `midlands/map_midlands_funding.py`
-  - `midlands/age_deprivation_party.py`
-  - `midlands/age_deprivation_party_regions.py`
-  - `midlands/structure_charts.py`
+- `midlands/recreate_core_analysis.py` reads that export in `load_funding()` and holds the shared loaders/matchers. The other scripts import it, so they inherit the published funding figures:
+  - `midlands/additional_demog_political_analysis.py` (imports the core module)
+  - `topN_funding_vs_deprivation.py` (imports the core module)
 - `Regeneration analysis.R` reads the same Sheet exports directly (national version).
 
 The two **methodology notes** describe the method these scripts implement; the **matcher notebook** produced the geography matching that built the Sheet in the first place. Census/MRP/boundary inputs come from the Drive data folder (and, for the Midlands rebuild, are cached under `midlands/data/`).
