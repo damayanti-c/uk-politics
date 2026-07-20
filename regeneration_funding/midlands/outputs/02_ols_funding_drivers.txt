@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             funding_pc   R-squared:                       0.319
+Model:                            OLS   Adj. R-squared:                  0.286
+Method:                 Least Squares   F-statistic:                     9.545
+Date:                Sun, 19 Jul 2026   Prob (F-statistic):           2.94e-05
+Time:                        01:41:35   Log-Likelihood:                -440.14
+No. Observations:                  65   AIC:                             888.3
+Df Residuals:                      61   BIC:                             897.0
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                359.3231     27.033     13.292      0.000     305.268     413.379
+deprivation_mean_z    78.7525     34.694      2.270      0.027       9.377     148.128
+reform_uk_share_z     10.3871     48.563      0.214      0.831     -86.720     107.494
+seat_safeness_z       76.7554     55.785      1.376      0.174     -34.794     188.305
+==============================================================================
+Omnibus:                        3.676   Durbin-Watson:                   0.514
+Prob(Omnibus):                  0.159   Jarque-Bera (JB):                3.007
+Skew:                           0.518   Prob(JB):                        0.222
+Kurtosis:                       3.189   Cond. No.                         3.93
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
