@@ -260,13 +260,12 @@ def s1c_funding_map(d):
                         fontweight="bold", color="black", zorder=6,
                         bbox=dict(boxstyle="circle,pad=0.26", fc="white", ec="black", lw=1.1))
     lst = "Top 10 funded (£ per head)\n" + "\n".join(
-        f"{i+1:>2}. {r.lad_nm} £{r.funding_pc:,.0f}" for i, r in top10.iterrows())
+        f"{i+1:>2}. {r.lad_nm} (£{r.funding_pc:,.0f})" for i, r in top10.iterrows())
     ax.text(0.015, 0.985, lst, transform=ax.transAxes, va="top", ha="left",
             fontsize=8.5, family="monospace", zorder=7,
             bbox=dict(boxstyle="round,pad=0.5", fc="white", ec="#888", alpha=0.92))
     ax.set_aspect("equal"); ax.axis("off"); ax.autoscale_view()
-    ax.set_title("Regeneration funding per head across the Midlands\n"
-                 "by local authority (2025 prices); top 10 numbered, East/West boundary in black",
+    ax.set_title("Regeneration funding per head across the Midlands",
                  fontsize=13, fontweight="bold")
     sm = ScalarMappable(norm=norm, cmap=cmap); sm.set_array([])
     fig.colorbar(sm, ax=ax, fraction=0.035, pad=0.02).set_label("£ per head")
