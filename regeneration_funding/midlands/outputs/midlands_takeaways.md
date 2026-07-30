@@ -7,14 +7,29 @@ focus-group findings are replaced with further Midlands data findings. Figures a
 prices; vote data = MRP, tactical projection, Q4 2025 for levels and Q4 2024 → Q4 2025 for
 change). Findings A–D below were added after the trajectory / 2026-election work.
 
-**1. Governments of every party funded the same kind of Midlands place: deprived and
-politically alienated.**
-The biggest per-head recipients are deprived ex-industrial and coastal towns — Ashfield
-(£930), Boston (£929), Lincoln (£872), Newark & Sherwood (£846), Chesterfield (£803) —
-several among the most heavily funded districts anywhere in England. Per-head funding
-rises with deprivation (r = 0.50) and with Reform support (the ten best-funded Midlands
-districts average ~40% Reform vs ~36% across the rest). The most-funded towns are also the
-most Reform-leaning: Boston and Ashfield top both lists (each ~51% Reform).
+**1. Governments of every party funded the same kind of Midlands place: deprived, and now
+Reform's heartland.**
+The two best-funded Midlands districts sit at the very top of England for Reform support on
+actual votes. At the 2024 general election the seats covering them returned the **second- and
+third-highest Reform vote shares of any constituency in England**: Ashfield 42.8% and Boston
+& Skegness 38.4%, behind only Clacton, and both elected Reform MPs (Lee Anderson and Richard
+Tice). [Source: House of Commons Library, GE2024 results by constituency.] Our MRP echoes
+this, ranking Boston and Ashfield **first and second among all English local authorities** on
+projected Reform share (~51% each). [Source: five-quarter MRP, Q4 2025 tactical projection.]
+
+The biggest per-head recipients are deprived ex-industrial and coastal towns: Ashfield
+(£930), Boston (£929), Lincoln (£872), Newark & Sherwood (£846), Chesterfield (£803), several
+among the most heavily funded districts anywhere in England. Per-head funding rises with
+deprivation (r = 0.50) and with Reform support (the ten best-funded Midlands districts average
+~40% Reform in the MRP vs ~36% across the rest).
+
+Actual elections since Reform's rise confirm the pattern across the whole top 10. At the **May
+2025 county-council elections, Reform UK became the largest party in every county that
+contains a top-10-funded district**: Derbyshire (42 of 64 seats), Lincolnshire (44/70),
+Nottinghamshire (40/64), Warwickshire (23/57) and Worcestershire (27/57). [Source: House of
+Commons Library, Local elections 2025, CBP-10272.] The one top-10 district to have held its
+own election since, Nuneaton & Bedworth, went Reform-first on 43.3% of the vote in May 2026.
+[Source: 2026 ward-level local results, `source_data/election_results/local_elections/2026_external`.]
 
 **2. Funding broadly followed deprivation, not the electoral map.**
 When deprivation, Reform support and seat marginality compete to explain funding,
