@@ -9,6 +9,12 @@ Midlands total: £3.85bn regeneration funding, 11,250,368 people.
 
 *% non-White = population-weighted Census 2021 share; % urban = share of the region's population in LADs classified Urban (ONS RUC 2021).*
 
+## Deprived areas only (LADs at/above the Midlands median deprivation, 0.708)
+| Half | Deprived LADs | Population | % non-White | % urban |
+|---|---|---|---|---|
+| East Midlands | 17 | 2,824,821 | 18.0% | 76% |
+| West Midlands | 16 | 4,124,773 | 30.7% | 98% |
+
 Most-deprived decile of England's population = the 6,071,425 people (~10%) in the 20 most-deprived LADs (deprivation >= 0.886). Of them:
 - **East Midlands: 14.2%** (864,608 people)
 - **West Midlands: 39.3%** (2,384,832 people)
