@@ -116,6 +116,32 @@ East's −0.60), but once you partial out deprivation the diversity effect is id
 (−0.82 West, −0.80 East), and deprivation lifts Reform equally in both (+0.85 / +0.71).
 Underneath, both regions behave the same way. Chart: `16_dep_diversity_coupling.png`.
 
+**E. The Midlands are among the most volatile electorates in England, which helps make them
+available to Reform.** Using the Pedersen index (half the sum of absolute party vote-share
+changes) across the 2017, 2019 and 2024 general elections, with the right-populist family
+tracked as UKIP → Brexit → Reform, the **East Midlands (36.5) and West Midlands (35.0) are
+the second and third most volatile** English regions, behind only the East of England (37.1)
+and well clear of the least volatile, London (28.1). The pattern holds in both 2017→2019 and
+2019→2024, so it is not just the 2024 Conservative collapse. A dealigned, swing-prone
+electorate is more available to a new challenger, consistent with the region's long line of
+bellwether marginals (Nuneaton, Worcester, Amber Valley). Volatility alone is not the whole
+story, the East of England is just as volatile but far less Reform-leaning, but combined with
+the Midlands' values-conservative, non-graduate, Leave-voting town-and-coalfield profile it
+helps explain the Reform lean. Data: `18_electoral_volatility.csv` (computed from House of
+Commons Library GE2017/2019/2024 constituency results).
+
+| Region | 2017→19 | 2019→24 | Total volatility |
+|---|---|---|---|
+| East of England | 10.4 | 26.7 | 37.1 |
+| **East Midlands** | 9.7 | 26.8 | **36.5** |
+| **West Midlands** | 9.2 | 25.8 | **35.0** |
+| South East | 8.8 | 23.4 | 32.1 |
+| North East | 12.9 | 19.0 | 31.9 |
+| Yorkshire & Humber | 10.1 | 21.2 | 31.4 |
+| South West | 6.5 | 24.7 | 31.2 |
+| North West | 8.4 | 21.2 | 29.6 |
+| London | 7.5 | 20.5 | 28.1 |
+
 ---
 *Caveat: N = 65 Midlands districts (46 after the immigration filter) limits statistical
 power; treat the matching estimates as descriptive. The 2026 findings (B–C) cover only the
