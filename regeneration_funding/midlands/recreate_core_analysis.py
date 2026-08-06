@@ -157,6 +157,18 @@ def load_funding():
     return f
 
 
+# April-2023 unitaries -> their pre-2023 component districts, so census/MRP data keyed
+# to the old geography can be bridged up to the 2024 unitary codes (used by both the
+# deprivation loader and the MRP vote-share aggregator).
+UNITARY_2023 = {
+    "E06000063": ["E07000026", "E07000028", "E07000029"],                       # Cumberland
+    "E06000064": ["E07000027", "E07000030", "E07000031"],                       # Westmorland & Furness
+    "E06000065": ["E07000163", "E07000164", "E07000165", "E07000166",
+                  "E07000167", "E07000168", "E07000169"],                       # North Yorkshire
+    "E06000066": ["E07000187", "E07000188", "E07000189", "E07000246"],          # Somerset
+}
+
+
 # --------------------------------------------------------------------------- #
 # 3. Deprivation (ONS Census 2021 household deprivation, 6 categories)
 #    Mean number of deprivation dimensions per household (0-4); higher = more
@@ -176,13 +188,6 @@ def load_deprivation():
     ).reset_index()
     # The 2021 census predates the April-2023 unitaries, so build them from their
     # component districts (household-weighted) to keep England-wide rankings complete.
-    UNITARY_2023 = {
-        "E06000063": ["E07000026", "E07000028", "E07000029"],                       # Cumberland
-        "E06000064": ["E07000027", "E07000030", "E07000031"],                       # Westmorland & Furness
-        "E06000065": ["E07000163", "E07000164", "E07000165", "E07000166",
-                      "E07000167", "E07000168", "E07000169"],                       # North Yorkshire
-        "E06000066": ["E07000187", "E07000188", "E07000189", "E07000246"],          # Somerset
-    }
     extra = []
     for new, olds in UNITARY_2023.items():
         sub = g[g.lad.isin(olds)]
@@ -252,6 +257,20 @@ def _agg_quarter(df, w22, w24):
         out[f"{name}_share"] = lad[PREF + suf] / lad[tot]
     out["seat_safeness"] = lad[mar] / lad[tot]
     out["total_votes"] = lad[tot]
+    # Bridge the April-2023 unitaries from their component districts (vote-weighted),
+    # since the MRP wards are keyed to the old (pre-2023) district geography.
+    extra = []
+    for new, olds in UNITARY_2023.items():
+        sub = out[out.lad.isin(olds)]
+        if len(sub):
+            w = sub.total_votes
+            row = {"lad": new, "total_votes": float(w.sum())}
+            for c in out.columns:
+                if c.endswith("_share") or c == "seat_safeness":
+                    row[c] = float(np.average(sub[c], weights=w))
+            extra.append(row)
+    if extra:
+        out = pd.concat([out, pd.DataFrame(extra)], ignore_index=True)
     return out
 
 

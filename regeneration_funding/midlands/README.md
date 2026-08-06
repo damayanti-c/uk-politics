@@ -41,7 +41,11 @@ Reform **trajectory** against hard election data: the MRP quarters plus GE 2019/
 (`14`, actual ward results vs the YouGov MRP), whether diverse deprived areas backed Reform
 "just as much" (`15`, they did not — diversity still tracks Reform), and why the raw
 diversity gradient looks cleaner in the East (`16`, deprivation-diversity coupling +
-partials).
+partials). Finally, regional maps of each party's over/under-performance versus its
+demographics (`17`, MRP vote share adjusted for deprivation, diversity and age; the East
+Midlands is the top Reform over-performer), and electoral volatility by region (`18`, the
+Pedersen index across GE2017 → 2019 → 2024, on which the Midlands are the 2nd and 3rd most
+volatile English regions).
 (The control-pool Reform test now lives in the core script, `04`.)
 
 ## Run

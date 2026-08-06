@@ -3,8 +3,8 @@
 Dep. Variable:             funding_pc   R-squared:                       0.319
 Model:                            OLS   Adj. R-squared:                  0.286
 Method:                 Least Squares   F-statistic:                     9.545
-Date:                Sun, 19 Jul 2026   Prob (F-statistic):           2.94e-05
-Time:                        01:41:35   Log-Likelihood:                -440.14
+Date:                Fri, 31 Jul 2026   Prob (F-statistic):           2.94e-05
+Time:                        17:27:41   Log-Likelihood:                -440.14
 No. Observations:                  65   AIC:                             888.3
 Df Residuals:                      61   BIC:                             897.0
 Df Model:                           3                                         

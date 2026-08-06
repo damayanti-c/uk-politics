@@ -32,6 +32,10 @@ sections:
         actuals (diversity still tracks Reform, not deprivation) -> 15_wm_2026_diversity.*
     2j  Why the raw diversity gradient looks cleaner in the
         East: deprivation-diversity coupling + partials        -> 16_dep_diversity_coupling.*
+    2k  Regional maps of Reform & Green vote share vs their
+        demographics (adjusted for deprivation, diversity, age) -> 17_party_performance_residual_maps.png
+    2l  Electoral volatility (Pedersen index) by region,
+        GE2017 -> 2019 -> 2024                                  -> 18_electoral_volatility.csv
 
 (The funded-vs-comparable control-pool test now lives in recreate_core_analysis.py, output 04.)
 """
@@ -52,7 +56,7 @@ from matplotlib.lines import Line2D
 from matplotlib.path import Path as MplPath
 from matplotlib.patches import PathPatch
 from matplotlib.collections import PatchCollection
-from matplotlib.colors import Normalize, ListedColormap, to_rgb
+from matplotlib.colors import Normalize, ListedColormap, to_rgb, LinearSegmentedColormap
 from matplotlib.cm import ScalarMappable
 from shapely.geometry import shape
 from shapely.ops import unary_union
@@ -162,6 +166,17 @@ def s1a_east_west_summary(d):
                      / s.population.sum() * 100})
     tab = pd.DataFrame(rows)
 
+    # deprived areas only (LADs at/above the Midlands median deprivation, as in s1e)
+    med = mid.deprivation_mean.median()
+    dep_rows = []
+    for r in ["East Midlands", "West Midlands"]:
+        s = mid[(mid.region == r) & (mid.deprivation_mean >= med)]
+        dep_rows.append({"region": r, "deprived_lads": len(s), "population": s.population.sum(),
+                         "nonwhite_pct_pop_wtd": np.average(s.nonwhite_pct, weights=s.population),
+                         "pct_urban_pop_wtd": s.loc[s.Urban_rural_flag == "Urban", "population"].sum()
+                         / s.population.sum() * 100})
+    dtab = pd.DataFrame(dep_rows)
+
     eng = (f[f.lad.str.startswith("E")].merge(dep[["lad", "deprivation_mean"]], on="lad", how="left")
            .merge(region, on="lad", how="left").dropna(subset=["deprivation_mean", "population"])
            .sort_values("deprivation_mean", ascending=False))
@@ -186,6 +201,13 @@ def s1a_east_west_summary(d):
               "*% non-White = population-weighted Census 2021 share; % urban = share of the region's "
               "population in LADs classified Urban (ONS RUC 2021).*"
               , "",
+              f"## Deprived areas only (LADs at/above the Midlands median deprivation, {med:.3f})",
+              "| Half | Deprived LADs | Population | % non-White | % urban |",
+              "|---|---|---|---|---|"]
+    for _, r in dtab.iterrows():
+        lines.append(f"| {r.region} | {int(r.deprived_lads)} | {r.population:,.0f} | "
+                     f"{r.nonwhite_pct_pop_wtd:.1f}% | {r.pct_urban_pop_wtd:.0f}% |")
+    lines += ["",
               f"Most-deprived decile of England's population = the {dpop:,.0f} people (~10%) in the "
               f"{len(decile)} most-deprived LADs (deprivation >= {decile.deprivation_mean.min():.3f}). Of them:",
               f"- **East Midlands: {pc(em, dpop)}** ({em:,.0f} people)",
@@ -194,6 +216,7 @@ def s1a_east_west_summary(d):
               f"- within the Midlands' share, East {pc(em, em+wm)} / West {pc(wm, em+wm)}"]
     (OUT / "east_west_summary.md").write_text("\n".join(lines), encoding="utf-8")
     tab.to_csv(OUT / "east_west_summary.csv", index=False)
+    dtab.to_csv(OUT / "east_west_summary_deprived.csv", index=False)
     print("\n".join(lines))
     print("   saved -> outputs/east_west_summary.md (+ .csv)")
 
@@ -212,9 +235,8 @@ def s1b_itl1_deprivation_bar(d):
     for i, v in enumerate(g.values):
         ax.text(i, v + 0.005, f"{v:.2f}", ha="center", fontsize=8)
     ax.set_xticks(range(len(g))); ax.set_xticklabels(g.index, rotation=35, ha="right")
-    ax.set_ylabel("Household deprivation (mean dimensions 0–4; higher = more deprived)")
-    ax.set_title("Household deprivation by English region (ITL1)\n"
-                 "population-weighted; Midlands highlighted", fontweight="bold")
+    ax.set_ylabel("Mean household deprivation (0–4)")
+    ax.set_title("Household deprivation by English region (ITL1)", fontweight="bold")
     ax.spines[["top", "right"]].set_visible(False)
     core.save(fig, "itl1_deprivation_bar.png")
 
@@ -958,6 +980,120 @@ def s2j_dep_diversity_coupling(d):
     print("   saved -> outputs/16_dep_diversity_coupling.png")
 
 
+# --------------------------------------------------------------------------- #
+# 2k: regional "heatmaps" of party over/under-performance vs demographics
+#     (vote share adjusted for deprivation, ethnic diversity and age)
+# --------------------------------------------------------------------------- #
+def _ols_residual(y, X):
+    """Residuals of y on [1, X] via least squares (no statsmodels dependency)."""
+    y = np.asarray(y, float)
+    X1 = np.c_[np.ones(len(y)), np.asarray(X, float)]
+    beta = np.linalg.lstsq(X1, y, rcond=None)[0]
+    return y - X1 @ beta
+
+
+# Reform-coded diverging map: grey (under-performs) -> white (0) -> Reform teal (over-performs)
+REFORM_CMAP = LinearSegmentedColormap.from_list(
+    "reform_div", ["#5c5c5c", "#bfbfbf", "#f7f7f7", "#5ec8da", "#12B6CF"])
+
+REGION_SHORT = {"East Midlands": "E Mids", "West Midlands": "W Mids",
+                "East of England": "East", "London": "London", "North East": "NE",
+                "North West": "NW", "South East": "SE", "South West": "SW",
+                "Yorkshire and The Humber": "Yorks"}
+
+
+def s2k_party_performance_residual_maps(d):
+    """Regional maps of how much each party beats (or trails) its demographics: the residual
+    of MRP Q4 2025 vote share after adjusting for deprivation, ethnic diversity and age,
+    averaged by region. East Midlands is the top Reform over-performer; the Greens
+    over-perform in Yorkshire/London/South West, not the West Midlands."""
+    print("\n2k. Reform & Green performance vs demographics (regional residual maps)")
+    base = d.dropna(subset=["deprivation_mean", "nonwhite_pct", "pct_50plus", "region",
+                            "reform_uk_share", "green_share"]).copy()
+    base["reform_pct"] = base.reform_uk_share * 100
+    base["green_pct"] = base.green_share * 100
+    Xcols = ["deprivation_mean", "nonwhite_pct", "pct_50plus"]
+    gj = json.loads((DATA / "england_lad_boundaries.geojson").read_text())
+    geoms = {ft["properties"]["LAD24CD"]: shape(ft["geometry"]) for ft in gj["features"]}
+    # Use the FULL LAD->region lookup (all 296 LADs) for the dissolve so regions render solid;
+    # a few LADs (the 2023 unitaries, Scilly, City of London) lack MRP vote data, so the
+    # regional residual is the mean of the covered LADs but the whole region is still filled.
+    lad_region = pd.read_csv(DATA / "lad24_to_region.csv").set_index("LAD24CD")["RGN24NM"].to_dict()
+
+    parties = [("reform_pct", "Reform UK", REFORM_CMAP), ("green_pct", "Green", "PRGn")]
+    fig, axes = plt.subplots(1, 2, figsize=(15, 9))
+    for ax, (col, label, cmap_spec) in zip(axes, parties):
+        base["resid"] = _ols_residual(base[col].values, base[Xcols].values)
+        rr = base.groupby("region").resid.mean()
+        print(f"   {label}: " + ", ".join(f"{REGION_SHORT[r]} {v:+.1f}"
+              for r, v in rr.sort_values(ascending=False).items()))
+        vmax = float(np.abs(rr).max())
+        norm = Normalize(vmin=-vmax, vmax=vmax)
+        cmap = plt.get_cmap(cmap_spec) if isinstance(cmap_spec, str) else cmap_spec
+        for reg, val in rr.items():
+            union = unary_union([g for cd, g in geoms.items() if lad_region.get(cd) == reg])
+            for p in polys_to_patches(union):
+                ax.add_patch(PathPatch(p, facecolor=cmap(norm(val)), edgecolor="white",
+                                       linewidth=0.6, zorder=2))
+            cx, cy = union.representative_point().coords[0]
+            ax.annotate(f"{REGION_SHORT[reg]}\n{val:+.1f}", (cx, cy), ha="center", va="center",
+                        fontsize=8, fontweight="bold", zorder=4,
+                        bbox=dict(boxstyle="round,pad=0.15", fc="white", ec="none", alpha=0.6))
+        ax.set_aspect("equal"); ax.axis("off"); ax.autoscale_view()
+        ax.set_title(f"{label}: vote vs its demographics", fontsize=12, fontweight="bold")
+        sm_ = ScalarMappable(norm=norm, cmap=cmap); sm_.set_array([])
+        cb = fig.colorbar(sm_, ax=ax, fraction=0.035, pad=0.02, orientation="horizontal")
+        cb.set_label("percentage points above / below predicted", fontsize=8)
+    fig.suptitle("Where each party beats its demographics: MRP vote share adjusted for "
+                 "deprivation, ethnic diversity and age\n(regional average of local-authority "
+                 "residuals; each map scaled to its own party; teal/green = over-performs)",
+                 fontweight="bold", fontsize=11.5)
+    fig.tight_layout(rect=[0, 0, 1, 0.95])
+    fig.savefig(OUT / "17_party_performance_residual_maps.png", dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print("   saved -> outputs/17_party_performance_residual_maps.png")
+
+
+# --------------------------------------------------------------------------- #
+# 2l: electoral volatility (Pedersen index) by region across GE2017 -> 2019 -> 2024
+# --------------------------------------------------------------------------- #
+def s2l_electoral_volatility():
+    """How much each English region's vote churns between parties: the Pedersen index
+    (half the sum of absolute party vote-share changes) across the 2017, 2019 and 2024
+    general elections. The right-populist family is UKIP (2017) -> Brexit (2019) ->
+    Reform (2024). Tests whether the Midlands swing between parties more than other regions."""
+    print("\n2l. Electoral volatility (Pedersen index) by region, GE2017 -> 2019 -> 2024")
+    GEdir = REPO / "source_data/election_results/national_general_elections"
+    files = {"2017": GEdir / "2017_results_analysis/HoC-GE2017-results-by-constituency.csv",
+             "2019": GEdir / "2019_results_analysis/HoC-GE2019-results-by-constituency.csv",
+             "2024": GEdir / "2024_results_analysis/HoC-GE2024-results-by-constituency.csv"}
+    rightpop = {"2017": "UKIP", "2019": "BRX", "2024": "RUK"}
+    eng = ["East Midlands", "West Midlands", "East of England", "London", "North East",
+           "North West", "South East", "South West", "Yorkshire and The Humber"]
+    parts = ["Con", "Lab", "LD", "Green", "RightPop", "Other"]
+
+    def shares(yr):
+        g = pd.read_csv(files[yr]); g = g[g["Region name"].isin(eng)]; rp = rightpop[yr]
+        rows = []
+        for reg, s in g.groupby("Region name"):
+            v = s["Valid votes"].sum()
+            d = {"Con": s.Con.sum(), "Lab": s.Lab.sum(), "LD": s.LD.sum(),
+                 "Green": s.Green.sum(), "RightPop": s[rp].sum()}
+            d["Other"] = v - sum(d.values())
+            rows.append({"region": reg, **{k: val / v * 100 for k, val in d.items()}})
+        return pd.DataFrame(rows).set_index("region")
+
+    sh = {yr: shares(yr) for yr in files}
+    ped = lambda a, b: 0.5 * (a[parts] - b[parts]).abs().sum(axis=1)
+    vol = pd.DataFrame({"vol_2017_2019": ped(sh["2019"], sh["2017"]),
+                        "vol_2019_2024": ped(sh["2024"], sh["2019"])})
+    vol["vol_total_2017_2024"] = vol.vol_2017_2019 + vol.vol_2019_2024
+    vol = vol.sort_values("vol_total_2017_2024", ascending=False)
+    vol.round(2).to_csv(OUT / "18_electoral_volatility.csv")
+    print(vol.round(1).to_string())
+    print("   saved -> outputs/18_electoral_volatility.csv")
+
+
 def main():
     print("=" * 74)
     print("ADDITIONAL DEMOGRAPHIC & POLITICAL ANALYSIS (MIDLANDS)")
@@ -981,6 +1117,8 @@ def main():
     s2h_wm_2026_breakthrough()
     s2i_wm_2026_diversity()
     s2j_dep_diversity_coupling(d)
+    s2k_party_performance_residual_maps(d)
+    s2l_electoral_volatility()
 
     print("\n" + "=" * 74 + "\nDone. Tables and charts in ./outputs\n" + "=" * 74)
 
