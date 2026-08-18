@@ -1,0 +1,124 @@
+ons_code,la_name,ra_class,treatment_group,reform_control,wave,first_reform_budget,govt_type,lgr_status,control_quality
+E08000038,Barnsley,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000025,Birmingham,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000001,Bolton,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000032,Bradford,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000002,Bury,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000033,Calderdale,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000026,Coventry,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000027,Dudley,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000037,Gateshead,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000034,Kirklees,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000011,Knowsley,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000035,Leeds,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000012,Liverpool,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000003,Manchester,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08,Metropolitan Districts,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000021,Newcastle upon Tyne,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000022,North Tyneside,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000004,Oldham,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000005,Rochdale,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000018,Rotherham,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000006,Salford,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000028,Sandwell,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000014,Sefton,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000039,Sheffield,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000029,Solihull,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000023,South Tyneside,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000013,St Helens,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000007,Stockport,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000024,Sunderland,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000008,Tameside,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000009,Trafford,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000036,Wakefield,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000030,Walsall,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000010,Wigan,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000015,Wirral,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E08000031,Wolverhampton,MD,control_candidate,none,,,met_borough,stable,same_type_non_reform
+E10000003,Cambridgeshire,SC,control_candidate,none,,,shire_county,two_tier_reorganising,clean_2025_shire_county
+E10000008,Devon,SC,control_candidate,none,,,shire_county,two_tier_reorganising,clean_2025_shire_county
+E10000013,Gloucestershire,SC,control_candidate,none,,,shire_county,two_tier_reorganising,clean_2025_shire_county
+E10000015,Hertfordshire,SC,control_candidate,none,,,shire_county,two_tier_reorganising,clean_2025_shire_county
+E10000025,Oxfordshire,SC,control_candidate,none,,,shire_county,two_tier_reorganising,clean_2025_shire_county
+E10,Shire Counties,SC,control_candidate,none,,,shire_county,two_tier_reorganising,clean_2025_shire_county
+E06000022,Bath & North East Somerset,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000055,Bedford,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000008,Blackburn with Darwen,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000009,Blackpool,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000058,"Bournemouth, Christchurch & Poole",UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000036,Bracknell Forest,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000043,Brighton & Hove,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000023,Bristol,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000060,Buckinghamshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000056,Central Bedfordshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000049,Cheshire East,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000050,Cheshire West & Chester,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000052,Cornwall,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000063,Cumberland,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000005,Darlington,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000015,Derby,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000059,Dorset UA,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000011,East Riding of Yorkshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000006,Halton,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000001,Hartlepool,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000019,Herefordshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000046,Isle of Wight,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000053,Isles of Scilly,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000010,Kingston upon Hull,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000016,Leicester,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000032,Luton,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000035,Medway Towns,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000002,Middlesbrough,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000042,Milton Keynes,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000012,North East Lincolnshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000013,North Lincolnshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000024,North Somerset,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000065,North Yorkshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000057,Northumberland,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000018,Nottingham,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000031,Peterborough,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000026,Plymouth,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000044,Portsmouth,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000038,Reading,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000003,Redcar & Cleveland,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000017,Rutland,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000051,Shropshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000039,Slough,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000066,Somerset,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000025,South Gloucestershire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000045,Southampton,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000033,Southend-on-Sea,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000004,Stockton-on-Tees,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000021,Stoke-on-Trent,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000030,Swindon,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000020,Telford & Wrekin,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000034,Thurrock,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000027,Torbay,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06,Unitary Authorities,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000007,Warrington,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000037,West Berkshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000064,Westmorland and Furness,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000054,Wiltshire,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000040,Windsor & Maidenhead,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000041,Wokingham,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E06000014,York,UA,control_candidate,none,,,unitary,stable_unitary,same_type_non_reform
+E10000011,East Sussex,SC,second_wave_or_postponed,varies_2026,2026,2027-28,shire_county,two_tier_reorganising,postponed_2026
+E10000012,Essex,SC,second_wave_or_postponed,varies_2026,2026,2027-28,shire_county,two_tier_reorganising,postponed_2026
+E10000014,Hampshire,SC,second_wave_or_postponed,varies_2026,2026,2027-28,shire_county,two_tier_reorganising,postponed_2026
+E10000020,Norfolk,SC,second_wave_or_postponed,varies_2026,2026,2027-28,shire_county,two_tier_reorganising,postponed_2026
+E10000029,Suffolk,SC,second_wave_or_postponed,varies_2026,2026,2027-28,shire_county,two_tier_reorganising,postponed_2026
+E10000030,Surrey,SC,second_wave_or_postponed,varies_2026,2026,2027-28,shire_county,two_tier_reorganising,postponed_2026
+E10000032,West Sussex,SC,second_wave_or_postponed,varies_2026,2026,2027-28,shire_county,two_tier_reorganising,postponed_2026
+E08000017,Doncaster,MD,treated_majority,majority,2025,2026-27,met_borough,stable,
+E10000007,Derbyshire,SC,treated_majority,majority,2025,2026-27,shire_county,two_tier_reorganising,
+E10000016,Kent,SC,treated_majority,majority,2025,2026-27,shire_county,two_tier_reorganising,
+E10000017,Lancashire,SC,treated_majority,majority,2025,2026-27,shire_county,two_tier_reorganising,
+E10000019,Lincolnshire,SC,treated_majority,majority,2025,2026-27,shire_county,two_tier_reorganising,
+E10000024,Nottinghamshire,SC,treated_majority,majority,2025,2026-27,shire_county,two_tier_reorganising,
+E10000028,Staffordshire,SC,treated_majority,majority,2025,2026-27,shire_county,two_tier_reorganising,
+E06000061,North Northamptonshire,UA,treated_majority,majority,2025,2026-27,unitary,stable_unitary,
+E06000062,West Northamptonshire,UA,treated_majority,majority,2025,2026-27,unitary,stable_unitary,
+E10000018,Leicestershire,SC,treated_minority,minority,2025,2026-27,shire_county,two_tier_reorganising,
+E10000031,Warwickshire,SC,treated_minority,minority,2025,2026-27,shire_county,two_tier_reorganising,
+E10000034,Worcestershire,SC,treated_minority,minority,2025,2026-27,shire_county,two_tier_reorganising,
+E06000047,Durham,UA,treated_minority,minority,2025,2026-27,unitary,stable_unitary,
