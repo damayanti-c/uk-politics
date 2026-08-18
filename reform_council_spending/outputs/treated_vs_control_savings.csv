@@ -1,0 +1,12 @@
+council,group,headline_m,cut_strict_m,cut_incl_m,budget_m,pct_strict,pct_incl
+Hertfordshire,control,55.0,22.8,22.8,2367.0,0.964,0.964
+Devon,control,39.0,3.0,4.8,1608.0,0.186,0.297
+Cambridgeshire,control,27.5,2.5,2.5,1117.0,0.222,0.222
+Oxfordshire,control,,1.2,1.2,1181.0,0.103,0.103
+Gloucestershire,control,34.9,1.1,1.1,1174.0,0.093,0.093
+Derbyshire,treated,55.3,12.5,12.5,1460.0,0.859,0.859
+Lincolnshire,treated,35.5,4.3,6.8,1350.0,0.317,0.504
+Kent,treated,62.0,12.5,12.5,3047.0,0.411,0.411
+Lancashire,treated,62.0,10.2,10.2,2826.0,0.359,0.359
+Staffordshire,treated,21.5,2.9,2.9,1385.0,0.213,0.213
+Nottinghamshire,treated,18.0,1.0,1.0,1457.0,0.069,0.069
